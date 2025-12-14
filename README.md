@@ -41,6 +41,42 @@ Results are saved to `vivino_wines.json` with the following fields:
 - `vineyard`, `name`, `place`, `rating`, `price`, `url`
 - With `--detailed`: `winery`, `grapes`, `region`, `wine_style`, `allergens`, `description`
 
+## Geocoding & Database
+
+After scraping, use `nominatim.py` to geocode wine regions and create a database:
+
+```bash
+python nominatim.py
+```
+
+This script:
+1. Loads wine data from `vivino_wines_detailed.json`
+2. Extracts unique locations and geocodes them via [Nominatim](https://nominatim.org/)
+3. Creates a SQLite database (`wines.db`) with two tables:
+   - **regions**: place, coordinates, country
+   - **wines**: all wine details linked to regions
+4. Exports `wines_map.geojson` for mapping
+
+### Output Files
+
+| File | Description |
+|------|-------------|
+| `geocoded_locations.json` | Cached geocoding results |
+| `wines.db` | SQLite database with wines & regions |
+| `wines_map.geojson` | GeoJSON for map visualization |
+
+## Querying the Database
+
+Use `query_wines.py` to explore the database:
+
+```bash
+python query_wines.py
+```
+
+This shows:
+- Database structure (tables & columns)
+- List of all French wines (sorted by rating)
+
 ## Note
 
 The scraper opens a visible Chrome window (required to bypass bot detection).
