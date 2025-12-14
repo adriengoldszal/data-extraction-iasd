@@ -34,6 +34,7 @@ def list_french_wines(cursor):
         JOIN regions r ON w.region_id = r.id
         WHERE r.country = 'France'
         ORDER BY w.rating DESC
+        LIMIT 10
     ''')
     
     wines = cursor.fetchall()
