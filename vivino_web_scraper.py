@@ -3,6 +3,7 @@ Minimal Vivino Web Scraper
 Extracts wine names, vineyards, and places from Vivino explore pages.
 """
 
+import argparse
 import json
 import time
 import undetected_chromedriver as uc
@@ -81,9 +82,60 @@ def parse_wine_cards(driver):
         except NoSuchElementException:
             wine["price"] = None
         
+        # Extract wine detail URL
+        try:
+            link_elem = card.find_element(By.CSS_SELECTOR, "a[data-testid='vintagePageLink']")
+            wine["url"] = link_elem.get_attribute("href")
+        except NoSuchElementException:
+            wine["url"] = None
+        
         wines.append(wine)
     
     return wines
+
+
+def parse_wine_details(driver, wine_url):
+    """Parse detailed wine information from the wine's detail page."""
+    details = {}
+    
+    try:
+        driver.get(wine_url)
+        time.sleep(2)
+        
+        # Wait for wine facts table
+        try:
+            WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, ".wineFacts__wineFacts--2Ih8B"))
+            )
+        except TimeoutException:
+            return details
+        
+        # Parse each wine fact row
+        rows = driver.find_elements(By.CSS_SELECTOR, "[data-testid='wineFactRow']")
+        for row in rows:
+            try:
+                label = row.find_element(By.CSS_SELECTOR, ".wineFacts__headerLabel--14doB").text.strip()
+                value = row.find_element(By.CSS_SELECTOR, ".wineFacts__fact--3BAsi").text.strip()
+                
+                # Map French labels to English keys
+                label_map = {
+                    "Domaine viticole": "winery",
+                    "Cépages": "grapes",
+                    "Région": "region",
+                    "Style de vin": "wine_style",
+                    "Allergènes": "allergens",
+                    "Description du vin": "description",
+                }
+                
+                key = label_map.get(label, label.lower().replace(" ", "_"))
+                details[key] = value
+            except NoSuchElementException:
+                pass
+                
+    except Exception as e:
+        print(f"    Error fetching details: {e}")
+    
+    return details
 
 
 def dismiss_cookie_consent(driver):
@@ -173,13 +225,14 @@ def go_to_next_page(driver):
     return False
 
 
-def scrape_vivino(start_url, max_pages=None):
+def scrape_vivino(start_url, max_pages=None, detailed=False):
     """
     Scrape wine data from Vivino starting from the given URL.
     
     Args:
         start_url: The Vivino explore URL to start from
         max_pages: Maximum number of pages to scrape (None for all pages)
+        detailed: If True, fetch additional details from each wine's page
     
     Returns:
         List of wine dictionaries
@@ -212,6 +265,16 @@ def scrape_vivino(start_url, max_pages=None):
             if not go_to_next_page(driver):
                 print("No more pages available")
                 break
+        
+        # Fetch detailed info for each wine if requested
+        if detailed:
+            print(f"\nFetching detailed info for {len(all_wines)} wines...")
+            for i, wine in enumerate(all_wines):
+                if wine.get("url"):
+                    print(f"  [{i+1}/{len(all_wines)}] {wine.get('vineyard', '')} - {wine.get('name', '')}")
+                    details = parse_wine_details(driver, wine["url"])
+                    wine.update(details)
+                    time.sleep(1)  # Be nice to the server
             
     except Exception as e:
         print(f"Error during scraping: {e}")
@@ -222,11 +285,18 @@ def scrape_vivino(start_url, max_pages=None):
 
 
 def main():
-    # Starting URL from user
-    start_url = "https://www.vivino.com/fr/explore?e=eJxLKbBNS8wpTlXLLbI11rNQy83MszVXy02ssDUzUEu2dQ0NUiuwNVQrS7ZVyy9KsU1JLU5Wy0-qtE1KLS6JL8hMzi5WK7fNK83JUSsviY4FqgRTRgDfaRz2"
+    parser = argparse.ArgumentParser(description="Scrape wine data from Vivino")
+    parser.add_argument("--detailed", action="store_true", 
+                        help="Fetch additional details (grapes, region, style, etc.) from each wine's page")
+    parser.add_argument("--max-pages", type=int, default=10,
+                        help="Maximum number of pages to scrape (default: 10)")
+    parser.add_argument("--url", type=str,
+                        default="https://www.vivino.com/fr/explore?e=eJxLKbBNS8wpTlXLLbI11rNQy83MszVXy02ssDUzUEu2dQ0NUiuwNVQrS7ZVyy9KsU1JLU5Wy0-qtE1KLS6JL8hMzi5WK7fNK83JUSsviY4FqgRTRgDfaRz2",
+                        help="Vivino explore URL to start from")
+    args = parser.parse_args()
     
-    # Scrape wines (limit to 3 pages for testing, set to None for all pages)
-    wines = scrape_vivino(start_url, max_pages=20)
+    # Scrape wines
+    wines = scrape_vivino(args.url, max_pages=args.max_pages, detailed=args.detailed)
     
     # Output as JSON
     result = {
