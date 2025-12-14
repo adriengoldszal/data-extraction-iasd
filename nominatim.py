@@ -204,7 +204,7 @@ def export_geojson(conn, output_file='wines_map.geojson'):
 def main():
     # Load data
     print("Loading wine data...")
-    data = load_wine_data('vivino_wines_detailed.json')
+    data = load_wine_data('vivino_wines_detailed_final.json')
     wines = data['wines']
     
     # Extract unique locations

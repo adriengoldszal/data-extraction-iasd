@@ -1,0 +1,1502 @@
+{
+  "Marlborough, New Zealand": {
+    "place": "Marlborough, New Zealand",
+    "region": "New Zealand / Île du Sud / Marlborough",
+    "latitude": -41.4744747,
+    "longitude": 173.8330263
+  },
+  "Bordeaux, France": {
+    "place": "Bordeaux, France",
+    "region": "France / Bordeaux",
+    "latitude": 44.841225,
+    "longitude": -0.5800364
+  },
+  "Saint-Chinian, France": {
+    "place": "Saint-Chinian, France",
+    "region": "France / Languedoc-Roussillon / Saint-Chinian",
+    "latitude": 43.4215,
+    "longitude": 2.94677
+  },
+  "Brunello di Montalcino, Italie": {
+    "place": "Brunello di Montalcino, Italie",
+    "region": "Italie / Central Italy / Toscane / Brunello di Montalcino",
+    "latitude": 43.3204995,
+    "longitude": 11.3281859
+  },
+  "Cafayate Valley, Argentine": {
+    "place": "Cafayate Valley, Argentine",
+    "region": "Argentine / Salta / Vallées Calchaquíes / Cafayate Valley",
+    "latitude": null,
+    "longitude": null
+  },
+  "Chablis, France": {
+    "place": "Chablis, France",
+    "region": "France / Bourgogne / Chablis",
+    "latitude": 47.8152073,
+    "longitude": 3.8001657
+  },
+  "Fleurie, France": {
+    "place": "Fleurie, France",
+    "region": "France / Beaujolais / Fleurie",
+    "latitude": 46.1920243,
+    "longitude": 4.6981214
+  },
+  "Vacqueyras, France": {
+    "place": "Vacqueyras, France",
+    "region": "France / Vallée du Rhône / Sud de la vallée du Rhône / Vacqueyras",
+    "latitude": 44.1382621,
+    "longitude": 4.9823958
+  },
+  "Maremma Toscana, Italie": {
+    "place": "Maremma Toscana, Italie",
+    "region": "Italie / Central Italy / Toscane / Maremma Toscana",
+    "latitude": 42.7027722,
+    "longitude": 11.1367433
+  },
+  "Amarone della Valpolicella, Italie": {
+    "place": "Amarone della Valpolicella, Italie",
+    "region": "Italie / Northern Italy / Vénétie / Valpolicella / Amarone della Valpolicella",
+    "latitude": null,
+    "longitude": null
+  },
+  "Graves, France": {
+    "place": "Graves, France",
+    "region": "France / Bordeaux / Graves",
+    "latitude": 45.6500048,
+    "longitude": -0.1060768
+  },
+  "Abruzzo (Abruzzes), Italie": {
+    "place": "Abruzzo (Abruzzes), Italie",
+    "region": "Italie / Central Italy / Abruzzo (Abruzzes)",
+    "latitude": 42.0105947,
+    "longitude": 14.0318516
+  },
+  "Pomerol, France": {
+    "place": "Pomerol, France",
+    "region": "France / Bordeaux / Libournais / Pomerol",
+    "latitude": 44.9311234,
+    "longitude": -0.1999904
+  },
+  "Mendoza, Argentine": {
+    "place": "Mendoza, Argentine",
+    "region": "Argentine / Mendoza",
+    "latitude": -34.5970325,
+    "longitude": -68.7304797
+  },
+  "Pouilles, Italie": {
+    "place": "Pouilles, Italie",
+    "region": "Italie / Southern Italy / Pouilles",
+    "latitude": 40.9842539,
+    "longitude": 16.6210027
+  },
+  "Barolo, Italie": {
+    "place": "Barolo, Italie",
+    "region": "Italie / Northern Italy / Piémont / Barolo",
+    "latitude": 44.6108408,
+    "longitude": 7.9428448
+  },
+  "Ribera del Duero, Espagne": {
+    "place": "Ribera del Duero, Espagne",
+    "region": "Espagne / Castille-et-León / Ribera del Duero",
+    "latitude": 41.6591121,
+    "longitude": -3.6815871
+  },
+  "Vino d'Italia, Italie": {
+    "place": "Vino d'Italia, Italie",
+    "region": "Italie / Vino d'Italia",
+    "latitude": 44.6395339,
+    "longitude": 11.188386
+  },
+  "Dundee Hills, États-Unis": {
+    "place": "Dundee Hills, États-Unis",
+    "region": "États-Unis / Oregon / Willamette Valley / Dundee Hills",
+    "latitude": 39.1716557,
+    "longitude": -94.5792892
+  },
+  "Abadía Retuerta, Espagne": {
+    "place": "Abadía Retuerta, Espagne",
+    "region": "Espagne / Castille-et-León / Abadía Retuerta",
+    "latitude": 41.6165363,
+    "longitude": -4.4109323
+  },
+  "Toscane, Italie": {
+    "place": "Toscane, Italie",
+    "region": "Italie / Central Italy / Toscane",
+    "latitude": 43.4586541,
+    "longitude": 11.1389204
+  },
+  "Stellenbosch, Afrique du Sud": {
+    "place": "Stellenbosch, Afrique du Sud",
+    "region": "Afrique du Sud / Cap-Occidental / Région côtière / Stellenbosch",
+    "latitude": -33.934444,
+    "longitude": 18.869167
+  },
+  "Primitivo di Manduria, Italie": {
+    "place": "Primitivo di Manduria, Italie",
+    "region": "Italie / Southern Italy / Pouilles / Primitivo di Manduria",
+    "latitude": 40.4058798,
+    "longitude": 17.6361498
+  },
+  "Saint-Émilion Grand Cru, France": {
+    "place": "Saint-Émilion Grand Cru, France",
+    "region": "France / Bordeaux / Libournais / Saint-Émilion / Saint-Émilion Grand Cru",
+    "latitude": null,
+    "longitude": null
+  },
+  "Côtes du Roussillon, France": {
+    "place": "Côtes du Roussillon, France",
+    "region": "France / Languedoc-Roussillon / Côtes du Roussillon",
+    "latitude": 45.3709088,
+    "longitude": 4.8124715
+  },
+  "Vallée du Rhône, France": {
+    "place": "Vallée du Rhône, France",
+    "region": "France / Vallée du Rhône",
+    "latitude": 44.1965617,
+    "longitude": 4.7381118
+  },
+  "Fronsac, France": {
+    "place": "Fronsac, France",
+    "region": "France / Bordeaux / Libournais / Fronsac",
+    "latitude": 42.9509183,
+    "longitude": 0.6487221
+  },
+  "Touraine, France": {
+    "place": "Touraine, France",
+    "region": "France / La vallée de la Loire / Loire moyenne / Touraine",
+    "latitude": 47.2232046,
+    "longitude": 0.6866703
+  },
+  "Gers, France": {
+    "place": "Gers, France",
+    "region": "France / Vin de Pays / Comté Tolosan / Gers",
+    "latitude": 43.6955276,
+    "longitude": 0.4101019
+  },
+  "Minervois-La Livinière, France": {
+    "place": "Minervois-La Livinière, France",
+    "region": "France / Languedoc-Roussillon / Minervois / Minervois-La Livinière",
+    "latitude": 43.3847068,
+    "longitude": 2.6698267
+  },
+  "Côte-de-Nuits Villages, France": {
+    "place": "Côte-de-Nuits Villages, France",
+    "region": "France / Bourgogne / Côte de Nuits / Côte-de-Nuits Villages",
+    "latitude": null,
+    "longitude": null
+  },
+  "Tejo, Portugal": {
+    "place": "Tejo, Portugal",
+    "region": "Portugal / Central Portugal / Tejo",
+    "latitude": 39.4808472,
+    "longitude": -7.9987392
+  },
+  "Marche, Italie": {
+    "place": "Marche, Italie",
+    "region": "Italie / Central Italy / Marche",
+    "latitude": 43.3458388,
+    "longitude": 13.1415872
+  },
+  "Salento, Italie": {
+    "place": "Salento, Italie",
+    "region": "Italie / Southern Italy / Pouilles / Salento",
+    "latitude": 40.248604,
+    "longitude": 15.190058
+  },
+  "Alsace, France": {
+    "place": "Alsace, France",
+    "region": "France / Alsace",
+    "latitude": 50.7007285,
+    "longitude": 3.160983
+  },
+  "Südtirol - Alto Adige, Italie": {
+    "place": "Südtirol - Alto Adige, Italie",
+    "region": "Italie / Northern Italy / Trentin-Haut-Adige / Südtirol - Alto Adige",
+    "latitude": 46.9065378,
+    "longitude": 11.0957475
+  },
+  "Valpolicella Ripasso, Italie": {
+    "place": "Valpolicella Ripasso, Italie",
+    "region": "Italie / Northern Italy / Vénétie / Valpolicella / Valpolicella Ripasso",
+    "latitude": null,
+    "longitude": null
+  },
+  "Châteauneuf-du-Pape, France": {
+    "place": "Châteauneuf-du-Pape, France",
+    "region": "France / Vallée du Rhône / Sud de la vallée du Rhône / Châteauneuf-du-Pape",
+    "latitude": 44.055989,
+    "longitude": 4.8317351
+  },
+  "Tupungato, Argentine": {
+    "place": "Tupungato, Argentine",
+    "region": "Argentine / Mendoza / Uco Valley / Tupungato",
+    "latitude": -33.3723648,
+    "longitude": -69.1479533
+  },
+  "Amarone della Valpolicella Classico, Italie": {
+    "place": "Amarone della Valpolicella Classico, Italie",
+    "region": "Italie / Northern Italy / Vénétie / Valpolicella / Amarone della Valpolicella / Amarone della Valpolicella Classico",
+    "latitude": null,
+    "longitude": null
+  },
+  "Menfi, Italie": {
+    "place": "Menfi, Italie",
+    "region": "Italie / Southern Italy / Terre Siciliane / Menfi",
+    "latitude": 37.606639,
+    "longitude": 12.967843
+  },
+  "Pessac-Léognan, France": {
+    "place": "Pessac-Léognan, France",
+    "region": "France / Bordeaux / Graves / Pessac-Léognan",
+    "latitude": null,
+    "longitude": null
+  },
+  "Margaux, France": {
+    "place": "Margaux, France",
+    "region": "France / Bordeaux / Médoc / Margaux",
+    "latitude": 45.0463335,
+    "longitude": -0.6729117
+  },
+  "Vérone, Italie": {
+    "place": "Vérone, Italie",
+    "region": "Italie / Northern Italy / Vénétie / Vérone",
+    "latitude": 45.4384958,
+    "longitude": 10.9924122
+  },
+  "Nizza, Italie": {
+    "place": "Nizza, Italie",
+    "region": "Italie / Northern Italy / Piémont / Nizza",
+    "latitude": 37.992622,
+    "longitude": 15.4119128
+  },
+  "Mercurey 1er Cru Les Champs Martin, France": {
+    "place": "Mercurey 1er Cru Les Champs Martin, France",
+    "region": "France / Bourgogne / Côte Chalonnaise / Mercurey / Mercurey Premier Cru / Mercurey 1er Cru Les Champs Martin",
+    "latitude": null,
+    "longitude": null
+  },
+  "Marsannay, France": {
+    "place": "Marsannay, France",
+    "region": "France / Bourgogne / Côte de Nuits / Marsannay",
+    "latitude": 47.2705441,
+    "longitude": 4.9884218
+  },
+  "Cahors, France": {
+    "place": "Cahors, France",
+    "region": "France / Sud-Ouest de la France / Haut-Pays / Cahors",
+    "latitude": 44.4495,
+    "longitude": 1.4364999
+  },
+  "Pauillac, France": {
+    "place": "Pauillac, France",
+    "region": "France / Bordeaux / Médoc / Pauillac",
+    "latitude": 45.1995626,
+    "longitude": -0.7484994
+  },
+  "Vino de España, Espagne": {
+    "place": "Vino de España, Espagne",
+    "region": "Espagne / Vino de España",
+    "latitude": 41.6672478,
+    "longitude": -4.7140284
+  },
+  "Castille-et-León, Espagne": {
+    "place": "Castille-et-León, Espagne",
+    "region": "Espagne / Castille-et-León",
+    "latitude": 41.55005,
+    "longitude": -5.1387401
+  },
+  "Colline Pescaresi, Italie": {
+    "place": "Colline Pescaresi, Italie",
+    "region": "Italie / Central Italy / Abruzzo (Abruzzes) / Colline Pescaresi",
+    "latitude": null,
+    "longitude": null
+  },
+  "Rioja Alta, Espagne": {
+    "place": "Rioja Alta, Espagne",
+    "region": "Espagne / Rioja / Rioja Alta",
+    "latitude": 42.4157318,
+    "longitude": -2.8794739
+  },
+  "Pays d'Oc, France": {
+    "place": "Pays d'Oc, France",
+    "region": "France / Vin de Pays / Pays d'Oc",
+    "latitude": 43.5890885,
+    "longitude": 1.4422712
+  },
+  "Fitou, France": {
+    "place": "Fitou, France",
+    "region": "France / Languedoc-Roussillon / Fitou",
+    "latitude": 42.8940931,
+    "longitude": 2.9817326
+  },
+  "Côtes-du-Rhône, France": {
+    "place": "Côtes-du-Rhône, France",
+    "region": "France / Vallée du Rhône / Sud de la vallée du Rhône / Côtes-du-Rhône",
+    "latitude": 45.8643547,
+    "longitude": 4.5956929
+  },
+  "Pézenas, France": {
+    "place": "Pézenas, France",
+    "region": "France / Languedoc-Roussillon / Languedoc / Pézenas",
+    "latitude": 43.4611777,
+    "longitude": 3.4228323
+  },
+  "Swartland, Afrique du Sud": {
+    "place": "Swartland, Afrique du Sud",
+    "region": "Afrique du Sud / Cap-Occidental / Région côtière / Swartland",
+    "latitude": -33.29356,
+    "longitude": 18.5993825
+  },
+  "Nuits-Saint-Georges, France": {
+    "place": "Nuits-Saint-Georges, France",
+    "region": "France / Bourgogne / Côte de Nuits / Nuits-Saint-Georges",
+    "latitude": 47.1367598,
+    "longitude": 4.9489061
+  },
+  "Pouilly-Fuissé, France": {
+    "place": "Pouilly-Fuissé, France",
+    "region": "France / Bourgogne / Mâconnais / Pouilly-Fuissé",
+    "latitude": 46.2764517,
+    "longitude": 4.7858077
+  },
+  "Saumur, France": {
+    "place": "Saumur, France",
+    "region": "France / La vallée de la Loire / Loire moyenne / Saumur",
+    "latitude": 47.2596224,
+    "longitude": -0.0785177
+  },
+  "Elgin, Afrique du Sud": {
+    "place": "Elgin, Afrique du Sud",
+    "region": "Afrique du Sud / Cap-Occidental / Côte sud du cap / Elgin",
+    "latitude": -34.1486111,
+    "longitude": 19.0427778
+  },
+  "Faugères, France": {
+    "place": "Faugères, France",
+    "region": "France / Languedoc-Roussillon / Faugères",
+    "latitude": 43.5648186,
+    "longitude": 3.1901144
+  },
+  "Savennières, France": {
+    "place": "Savennières, France",
+    "region": "France / La vallée de la Loire / Loire moyenne / Savennières",
+    "latitude": 47.3830917,
+    "longitude": -0.6570828
+  },
+  "Saint-Estèphe, France": {
+    "place": "Saint-Estèphe, France",
+    "region": "France / Bordeaux / Médoc / Saint-Estèphe",
+    "latitude": 45.5925,
+    "longitude": 0.6633333
+  },
+  "Vénétie, Italie": {
+    "place": "Vénétie, Italie",
+    "region": "Italie / Northern Italy / Vénétie",
+    "latitude": 45.6476663,
+    "longitude": 11.8665254
+  },
+  "Alentejo, Portugal": {
+    "place": "Alentejo, Portugal",
+    "region": "Portugal / Alentejano / Alentejo",
+    "latitude": 38.0551003,
+    "longitude": -7.8605799
+  },
+  "Mosel, Allemagne": {
+    "place": "Mosel, Allemagne",
+    "region": "Allemagne / Mosel",
+    "latitude": 50.7810263,
+    "longitude": 12.4780171
+  },
+  "Terre Siciliane, Italie": {
+    "place": "Terre Siciliane, Italie",
+    "region": "Italie / Southern Italy / Terre Siciliane",
+    "latitude": null,
+    "longitude": null
+  },
+  "Baden, Allemagne": {
+    "place": "Baden, Allemagne",
+    "region": "Allemagne / Baden",
+    "latitude": 53.0023496,
+    "longitude": 9.0820955
+  },
+  "Palatinat rhénan, Allemagne": {
+    "place": "Palatinat rhénan, Allemagne",
+    "region": "Allemagne / Palatinat rhénan",
+    "latitude": null,
+    "longitude": null
+  },
+  "Rheinhessen, Allemagne": {
+    "place": "Rheinhessen, Allemagne",
+    "region": "Allemagne / Rheinhessen",
+    "latitude": 49.9045181,
+    "longitude": 8.2711082
+  },
+  "Rioja, Espagne": {
+    "place": "Rioja, Espagne",
+    "region": "Espagne / Rioja",
+    "latitude": 42.2814642,
+    "longitude": -2.482805
+  },
+  "Savoie, France": {
+    "place": "Savoie, France",
+    "region": "France / Savoie",
+    "latitude": 45.4948952,
+    "longitude": 6.3846604
+  },
+  "Fixin, France": {
+    "place": "Fixin, France",
+    "region": "France / Bourgogne / Côte de Nuits / Fixin",
+    "latitude": 47.2455008,
+    "longitude": 4.9728452
+  },
+  "Lalande-de-Pomerol, France": {
+    "place": "Lalande-de-Pomerol, France",
+    "region": "France / Bordeaux / Libournais / Lalande-de-Pomerol",
+    "latitude": 44.9560756,
+    "longitude": -0.2104434
+  },
+  "Rías Baixas, Espagne": {
+    "place": "Rías Baixas, Espagne",
+    "region": "Espagne / Galice / Rías Baixas",
+    "latitude": 42.8819145,
+    "longitude": -8.5487998
+  },
+  "Montepulciano d'Abruzzo, Italie": {
+    "place": "Montepulciano d'Abruzzo, Italie",
+    "region": "Italie / Central Italy / Abruzzo (Abruzzes) / Montepulciano d'Abruzzo",
+    "latitude": null,
+    "longitude": null
+  },
+  "Saint-Julien, France": {
+    "place": "Saint-Julien, France",
+    "region": "France / Bordeaux / Médoc / Saint-Julien",
+    "latitude": 47.4019947,
+    "longitude": 5.1364639
+  },
+  "Bolgheri, Italie": {
+    "place": "Bolgheri, Italie",
+    "region": "Italie / Central Italy / Toscane / Bolgheri",
+    "latitude": 43.2340065,
+    "longitude": 10.6179334
+  },
+  "Monica di Sardegna, Italie": {
+    "place": "Monica di Sardegna, Italie",
+    "region": "Italie / Southern Italy / Sardegna / Monica di Sardegna",
+    "latitude": 40.5801796,
+    "longitude": 8.2459119
+  },
+  "Vin de France, France": {
+    "place": "Vin de France, France",
+    "region": "France / Vin de France",
+    "latitude": 48.8683837,
+    "longitude": 2.6877273
+  },
+  "Côtes du Roussillon Villages Tautavel, France": {
+    "place": "Côtes du Roussillon Villages Tautavel, France",
+    "region": "France / Languedoc-Roussillon / Côtes du Roussillon / Côtes du Roussillon Villages / Côtes du Roussillon Villages Tautavel",
+    "latitude": null,
+    "longitude": null
+  },
+  "Santenay 1er Cru La Maladière, France": {
+    "place": "Santenay 1er Cru La Maladière, France",
+    "region": "France / Bourgogne / Côte de Beaune / Santenay / Santenay Premier Cru / Santenay 1er Cru La Maladière",
+    "latitude": null,
+    "longitude": null
+  },
+  "Vermentino di Sardegna, Italie": {
+    "place": "Vermentino di Sardegna, Italie",
+    "region": "Italie / Southern Italy / Sardegna / Vermentino di Sardegna",
+    "latitude": 40.9195406,
+    "longitude": 9.4720744
+  },
+  "La Mancha, Espagne": {
+    "place": "La Mancha, Espagne",
+    "region": "Espagne / Castille / La Mancha",
+    "latitude": 28.3774367,
+    "longitude": -16.6977504
+  },
+  "Chablis Premier Cru, France": {
+    "place": "Chablis Premier Cru, France",
+    "region": "France / Bourgogne / Chablis / Chablis Premier Cru",
+    "latitude": null,
+    "longitude": null
+  },
+  "Colli Orientali del Friuli, Italie": {
+    "place": "Colli Orientali del Friuli, Italie",
+    "region": "Italie / Northern Italy / Frioul-Vénétie Julienne / Colli Orientali del Friuli",
+    "latitude": 46.002359,
+    "longitude": 13.4412506
+  },
+  "Clare Valley, Australie": {
+    "place": "Clare Valley, Australie",
+    "region": "Australie / Australie-Méridionale / Chaîne du Mont-Lofty / Clare Valley",
+    "latitude": -33.7890862,
+    "longitude": 138.590557
+  },
+  "Willamette Valley, États-Unis": {
+    "place": "Willamette Valley, États-Unis",
+    "region": "États-Unis / Oregon / Willamette Valley",
+    "latitude": 44.9086731,
+    "longitude": -123.0022929
+  },
+  "Almansa, Espagne": {
+    "place": "Almansa, Espagne",
+    "region": "Espagne / Castille / Almansa",
+    "latitude": 38.8682065,
+    "longitude": -1.0978627
+  },
+  "Campanie, Italie": {
+    "place": "Campanie, Italie",
+    "region": "Italie / Southern Italy / Campanie",
+    "latitude": 40.860672,
+    "longitude": 14.843984
+  },
+  "Valdepeñas, Espagne": {
+    "place": "Valdepeñas, Espagne",
+    "region": "Espagne / Castille / Valdepeñas",
+    "latitude": 38.7594573,
+    "longitude": -3.3847392
+  },
+  "Irpinia Campi Taurasini, Italie": {
+    "place": "Irpinia Campi Taurasini, Italie",
+    "region": "Italie / Southern Italy / Campanie / Irpinia / Irpinia Campi Taurasini",
+    "latitude": null,
+    "longitude": null
+  },
+  "Nasco di Cagliari, Italie": {
+    "place": "Nasco di Cagliari, Italie",
+    "region": "Italie / Southern Italy / Sardegna / Nasco di Cagliari",
+    "latitude": null,
+    "longitude": null
+  },
+  "Las Compuertas, Argentine": {
+    "place": "Las Compuertas, Argentine",
+    "region": "Argentine / Mendoza / Las Compuertas",
+    "latitude": -33.0379787,
+    "longitude": -68.9818314
+  },
+  "Jumilla, Espagne": {
+    "place": "Jumilla, Espagne",
+    "region": "Espagne / Murcie / Jumilla",
+    "latitude": 38.4735408,
+    "longitude": -1.3285417
+  },
+  "Murcie, Espagne": {
+    "place": "Murcie, Espagne",
+    "region": "Espagne / Murcie",
+    "latitude": 37.9923795,
+    "longitude": -1.1305431
+  },
+  "Isola dei Nuraghi, Italie": {
+    "place": "Isola dei Nuraghi, Italie",
+    "region": "Italie / Southern Italy / Sardegna / Isola dei Nuraghi",
+    "latitude": 40.7092763,
+    "longitude": 9.698963
+  },
+  "Irpinia, Italie": {
+    "place": "Irpinia, Italie",
+    "region": "Italie / Southern Italy / Campanie / Irpinia",
+    "latitude": 39.2278067,
+    "longitude": 9.1185486
+  },
+  "Terrasses du Larzac, France": {
+    "place": "Terrasses du Larzac, France",
+    "region": "France / Languedoc-Roussillon / Languedoc / Terrasses du Larzac",
+    "latitude": 43.7152761,
+    "longitude": 3.4888802
+  },
+  "La Clape, France": {
+    "place": "La Clape, France",
+    "region": "France / Languedoc-Roussillon / Languedoc / La Clape",
+    "latitude": 42.9675839,
+    "longitude": 2.5482974
+  },
+  "Haut-Médoc, France": {
+    "place": "Haut-Médoc, France",
+    "region": "France / Bordeaux / Médoc / Haut-Médoc",
+    "latitude": 44.8736705,
+    "longitude": -0.6364252
+  },
+  "Sancerre, France": {
+    "place": "Sancerre, France",
+    "region": "France / La vallée de la Loire / Haute-Loire / Sancerre",
+    "latitude": 47.3306906,
+    "longitude": 2.8390454
+  },
+  "Saint-Joseph, France": {
+    "place": "Saint-Joseph, France",
+    "region": "France / Vallée du Rhône / Nord de la vallée du Rhône / Saint-Joseph",
+    "latitude": 49.5344534,
+    "longitude": -1.529802
+  },
+  "Chinon, France": {
+    "place": "Chinon, France",
+    "region": "France / La vallée de la Loire / Loire moyenne / Touraine / Chinon",
+    "latitude": 47.1667182,
+    "longitude": 0.2402095
+  },
+  "Languedoc, France": {
+    "place": "Languedoc, France",
+    "region": "France / Languedoc-Roussillon / Languedoc",
+    "latitude": 43.6542031,
+    "longitude": 3.6746699
+  },
+  "Luberon, France": {
+    "place": "Luberon, France",
+    "region": "France / Vallée du Rhône / Sud de la vallée du Rhône / Luberon",
+    "latitude": 43.8559446,
+    "longitude": 5.5895866
+  },
+  "Lirac, France": {
+    "place": "Lirac, France",
+    "region": "France / Vallée du Rhône / Sud de la vallée du Rhône / Lirac",
+    "latitude": 44.0372,
+    "longitude": 4.69136
+  },
+  "Méditerranée, France": {
+    "place": "Méditerranée, France",
+    "region": "France / Vin de Pays / Méditerranée",
+    "latitude": 43.6487851,
+    "longitude": 2.3435684
+  },
+  "Bordeaux-supérieur, France": {
+    "place": "Bordeaux-supérieur, France",
+    "region": "France / Bordeaux / Bordeaux-supérieur",
+    "latitude": 43.3100249,
+    "longitude": -0.3721054
+  },
+  "Blaye - Côtes de Bordeaux, France": {
+    "place": "Blaye - Côtes de Bordeaux, France",
+    "region": "France / Bordeaux / Côtes de Bordeaux / Blaye - Côtes de Bordeaux",
+    "latitude": null,
+    "longitude": null
+  },
+  "Côtes du Rhône Villages, France": {
+    "place": "Côtes du Rhône Villages, France",
+    "region": "France / Vallée du Rhône / Sud de la vallée du Rhône / Côtes-du-Rhône / Côtes du Rhône Villages",
+    "latitude": 45.4560073,
+    "longitude": 5.5185331
+  },
+  "Saint-Émilion, France": {
+    "place": "Saint-Émilion, France",
+    "region": "France / Bordeaux / Libournais / Saint-Émilion",
+    "latitude": 44.8946048,
+    "longitude": -0.1749547
+  },
+  "Valpolicella Ripasso Classico, Italie": {
+    "place": "Valpolicella Ripasso Classico, Italie",
+    "region": "Italie / Northern Italy / Vénétie / Valpolicella / Valpolicella Ripasso / Valpolicella Ripasso Classico",
+    "latitude": null,
+    "longitude": null
+  },
+  "Otago central, New Zealand": {
+    "place": "Otago central, New Zealand",
+    "region": "New Zealand / Île du Sud / Otago central",
+    "latitude": -45.350509,
+    "longitude": 169.696148
+  },
+  "Saint-Amour, France": {
+    "place": "Saint-Amour, France",
+    "region": "France / Beaujolais / Saint-Amour",
+    "latitude": 46.4358751,
+    "longitude": 5.3421832
+  },
+  "Quincy, France": {
+    "place": "Quincy, France",
+    "region": "France / La vallée de la Loire / Haute-Loire / Quincy",
+    "latitude": 47.133365,
+    "longitude": 2.1574605
+  },
+  "Côtes du Roussillon Villages, France": {
+    "place": "Côtes du Roussillon Villages, France",
+    "region": "France / Languedoc-Roussillon / Côtes du Roussillon / Côtes du Roussillon Villages",
+    "latitude": null,
+    "longitude": null
+  },
+  "Vouvray, France": {
+    "place": "Vouvray, France",
+    "region": "France / La vallée de la Loire / Loire moyenne / Touraine / Vouvray",
+    "latitude": 47.4136687,
+    "longitude": 0.7998446
+  },
+  "Saumur-Champigny, France": {
+    "place": "Saumur-Champigny, France",
+    "region": "France / La vallée de la Loire / Loire moyenne / Saumur / Saumur-Champigny",
+    "latitude": 47.2322933,
+    "longitude": -0.0211322
+  },
+  "Mercurey, France": {
+    "place": "Mercurey, France",
+    "region": "France / Bourgogne / Côte Chalonnaise / Mercurey",
+    "latitude": 46.8396584,
+    "longitude": 4.7189272
+  },
+  "Moulin-à-Vent, France": {
+    "place": "Moulin-à-Vent, France",
+    "region": "France / Beaujolais / Moulin-à-Vent",
+    "latitude": 48.3531107,
+    "longitude": 1.7606778
+  },
+  "Corse Figari, France": {
+    "place": "Corse Figari, France",
+    "region": "France / Corse / Corse Figari",
+    "latitude": 41.5032668,
+    "longitude": 9.0983266
+  },
+  "Beaune 1er Cru Aux Coucherias, France": {
+    "place": "Beaune 1er Cru Aux Coucherias, France",
+    "region": "France / Bourgogne / Côte de Beaune / Beaune / Beaune Premier Cru / Beaune 1er Cru Aux Coucherias",
+    "latitude": null,
+    "longitude": null
+  },
+  "Bourgogne, France": {
+    "place": "Bourgogne, France",
+    "region": "France / Bourgogne",
+    "latitude": 47.2780873,
+    "longitude": 4.2224863
+  },
+  "Saint-Aubin 1er Cru Le Charmois, France": {
+    "place": "Saint-Aubin 1er Cru Le Charmois, France",
+    "region": "France / Bourgogne / Côte de Beaune / Saint-Aubin / Saint-Aubin Premier Cru / Saint-Aubin 1er Cru Le Charmois",
+    "latitude": null,
+    "longitude": null
+  },
+  "Montpeyroux, France": {
+    "place": "Montpeyroux, France",
+    "region": "France / Languedoc-Roussillon / Languedoc / Montpeyroux",
+    "latitude": 44.9211111,
+    "longitude": 0.0577778
+  },
+  "Castillon - Côtes de Bordeaux, France": {
+    "place": "Castillon - Côtes de Bordeaux, France",
+    "region": "France / Bordeaux / Côtes de Bordeaux / Castillon - Côtes de Bordeaux",
+    "latitude": null,
+    "longitude": null
+  },
+  "Côte-Rôtie, France": {
+    "place": "Côte-Rôtie, France",
+    "region": "France / Vallée du Rhône / Nord de la vallée du Rhône / Côte-Rôtie",
+    "latitude": 44.7267925,
+    "longitude": -0.3900425
+  },
+  "Morgon, France": {
+    "place": "Morgon, France",
+    "region": "France / Beaujolais / Morgon",
+    "latitude": 46.1443559,
+    "longitude": 4.6781061
+  },
+  "Condrieu, France": {
+    "place": "Condrieu, France",
+    "region": "France / Vallée du Rhône / Nord de la vallée du Rhône / Condrieu",
+    "latitude": 45.4624294,
+    "longitude": 4.7676199
+  },
+  "Chablis 1er Cru Vau Ligneau, France": {
+    "place": "Chablis 1er Cru Vau Ligneau, France",
+    "region": "France / Bourgogne / Chablis / Chablis Premier Cru / Chablis 1er Cru Vau Ligneau",
+    "latitude": null,
+    "longitude": null
+  },
+  "Mâcon-Loché, France": {
+    "place": "Mâcon-Loché, France",
+    "region": "France / Bourgogne / Mâconnais / Mâcon / Mâcon-Loché",
+    "latitude": 46.2829122,
+    "longitude": 4.7788492
+  },
+  "Californie, États-Unis": {
+    "place": "Californie, États-Unis",
+    "region": "États-Unis / Californie",
+    "latitude": 36.7014631,
+    "longitude": -118.755997
+  },
+  "Carnuntum, Autriche": {
+    "place": "Carnuntum, Autriche",
+    "region": "Autriche / Weinland / Niederösterreich / Carnuntum",
+    "latitude": 48.1141485,
+    "longitude": 16.8657834
+  },
+  "Gioia del Colle, Italie": {
+    "place": "Gioia del Colle, Italie",
+    "region": "Italie / Southern Italy / Pouilles / Gioia del Colle",
+    "latitude": 40.796728,
+    "longitude": 16.92359
+  },
+  "Vigneti delle Dolomiti, Italie": {
+    "place": "Vigneti delle Dolomiti, Italie",
+    "region": "Italie / Northern Italy / Trentin-Haut-Adige / Vigneti delle Dolomiti",
+    "latitude": null,
+    "longitude": null
+  },
+  "Lugana, Italie": {
+    "place": "Lugana, Italie",
+    "region": "Italie / Northern Italy / Lombardie / Lugana",
+    "latitude": 45.4600534,
+    "longitude": 10.6196897
+  },
+  "Rueda, Espagne": {
+    "place": "Rueda, Espagne",
+    "region": "Espagne / Castille-et-León / Rueda",
+    "latitude": 41.4129785,
+    "longitude": -4.9597533
+  },
+  "Mittelburgenland, Autriche": {
+    "place": "Mittelburgenland, Autriche",
+    "region": "Autriche / Weinland / Burgenland / Mittelburgenland",
+    "latitude": 47.504516,
+    "longitude": 16.4944303
+  },
+  "Douro, Portugal": {
+    "place": "Douro, Portugal",
+    "region": "Portugal / Northern Portugal / Duriense / Douro",
+    "latitude": 41.1353708,
+    "longitude": -7.1176017
+  },
+  "Castille, Espagne": {
+    "place": "Castille, Espagne",
+    "region": "Espagne / Castille",
+    "latitude": 41.55005,
+    "longitude": -5.1387401
+  },
+  "Península de Setúbal, Portugal": {
+    "place": "Península de Setúbal, Portugal",
+    "region": "Portugal / Península de Setúbal",
+    "latitude": 38.6272781,
+    "longitude": -8.929895
+  },
+  "Barbera d'Alba, Italie": {
+    "place": "Barbera d'Alba, Italie",
+    "region": "Italie / Northern Italy / Piémont / Barbera d'Alba",
+    "latitude": 44.7660997,
+    "longitude": 8.0387653
+  },
+  "Costières-de-Nîmes, France": {
+    "place": "Costières-de-Nîmes, France",
+    "region": "France / Vallée du Rhône / Sud de la vallée du Rhône / Costières-de-Nîmes",
+    "latitude": 43.825907,
+    "longitude": 4.377278
+  },
+  "Provincia di Pavia, Italie": {
+    "place": "Provincia di Pavia, Italie",
+    "region": "Italie / Northern Italy / Lombardie / Provincia di Pavia",
+    "latitude": 45.0368547,
+    "longitude": 9.1378251
+  },
+  "Beneventano, Italie": {
+    "place": "Beneventano, Italie",
+    "region": "Italie / Southern Italy / Campanie / Beneventano",
+    "latitude": 36.8100217,
+    "longitude": 14.8175347
+  },
+  "Montagne-Saint-Émilion, France": {
+    "place": "Montagne-Saint-Émilion, France",
+    "region": "France / Bordeaux / Libournais / Saint-Émilion / Montagne-Saint-Émilion",
+    "latitude": 44.9101908,
+    "longitude": -0.1512619
+  },
+  "Chianti Classico, Italie": {
+    "place": "Chianti Classico, Italie",
+    "region": "Italie / Central Italy / Toscane / Chianti / Chianti Classico",
+    "latitude": 43.3947459,
+    "longitude": 11.306961
+  },
+  "Sicilia, Italie": {
+    "place": "Sicilia, Italie",
+    "region": "Italie / Southern Italy / Terre Siciliane / Sicilia",
+    "latitude": 37.587794,
+    "longitude": 14.155048
+  },
+  "Pommard, France": {
+    "place": "Pommard, France",
+    "region": "France / Bourgogne / Côte de Beaune / Pommard",
+    "latitude": 47.0087919,
+    "longitude": 4.7962295
+  },
+  "Savigny-lès-Beaune 1er Cru Les Lavières, France": {
+    "place": "Savigny-lès-Beaune 1er Cru Les Lavières, France",
+    "region": "France / Bourgogne / Côte de Beaune / Savigny-lès-Beaune / Savigny-lès-Beaune Premier Cru / Savigny-lès-Beaune 1er Cru Les Lavières",
+    "latitude": null,
+    "longitude": null
+  },
+  "Madiran, France": {
+    "place": "Madiran, France",
+    "region": "France / Sud-Ouest de la France / Pyrénées / Madiran",
+    "latitude": 43.5502022,
+    "longitude": -0.0580853
+  },
+  "Médoc, France": {
+    "place": "Médoc, France",
+    "region": "France / Bordeaux / Médoc",
+    "latitude": 45.175674,
+    "longitude": -0.9576089
+  },
+  "Entre-Deux-Mers, France": {
+    "place": "Entre-Deux-Mers, France",
+    "region": "France / Bordeaux / Entre-Deux-Mers",
+    "latitude": 44.7934956,
+    "longitude": -0.1248404
+  },
+  "Moulis-en-Médoc, France": {
+    "place": "Moulis-en-Médoc, France",
+    "region": "France / Bordeaux / Médoc / Moulis-en-Médoc",
+    "latitude": 45.0564852,
+    "longitude": -0.7736381
+  },
+  "Côtes de Provence, France": {
+    "place": "Côtes de Provence, France",
+    "region": "France / Provence / Côtes de Provence",
+    "latitude": 43.4368033,
+    "longitude": 6.6569158
+  },
+  "Trebbiano d'Abruzzo, Italie": {
+    "place": "Trebbiano d'Abruzzo, Italie",
+    "region": "Italie / Central Italy / Abruzzo (Abruzzes) / Trebbiano d'Abruzzo",
+    "latitude": null,
+    "longitude": null
+  },
+  "Ventoux, France": {
+    "place": "Ventoux, France",
+    "region": "France / Vallée du Rhône / Sud de la vallée du Rhône / Ventoux",
+    "latitude": 48.6778082,
+    "longitude": 2.1768592
+  },
+  "Crozes-Hermitage, France": {
+    "place": "Crozes-Hermitage, France",
+    "region": "France / Vallée du Rhône / Nord de la vallée du Rhône / Crozes-Hermitage",
+    "latitude": 45.0907,
+    "longitude": 4.84592
+  },
+  "Chambolle-Musigny, France": {
+    "place": "Chambolle-Musigny, France",
+    "region": "France / Bourgogne / Côte de Nuits / Chambolle-Musigny",
+    "latitude": 47.1864158,
+    "longitude": 4.9533347
+  },
+  "Rully, France": {
+    "place": "Rully, France",
+    "region": "France / Bourgogne / Côte Chalonnaise / Rully",
+    "latitude": 49.2359777,
+    "longitude": 2.7280667
+  },
+  "Bourgogne Hautes Côtes de Beaune, France": {
+    "place": "Bourgogne Hautes Côtes de Beaune, France",
+    "region": "France / Bourgogne / Bourgogne Hautes Côtes de Beaune",
+    "latitude": null,
+    "longitude": null
+  },
+  "Santenay, France": {
+    "place": "Santenay, France",
+    "region": "France / Bourgogne / Côte de Beaune / Santenay",
+    "latitude": 46.9115071,
+    "longitude": 4.6996302
+  },
+  "Bourgueil, France": {
+    "place": "Bourgueil, France",
+    "region": "France / La vallée de la Loire / Loire moyenne / Touraine / Bourgueil",
+    "latitude": 47.2827691,
+    "longitude": 0.1788873
+  },
+  "Canon-Fronsac, France": {
+    "place": "Canon-Fronsac, France",
+    "region": "France / Bordeaux / Libournais / Canon-Fronsac",
+    "latitude": 44.9261675,
+    "longitude": -0.3018095
+  },
+  "Corse, France": {
+    "place": "Corse, France",
+    "region": "France / Corse",
+    "latitude": 42.188098,
+    "longitude": 9.0683139
+  },
+  "Bandol, France": {
+    "place": "Bandol, France",
+    "region": "France / Provence / Bandol",
+    "latitude": 43.1357717,
+    "longitude": 5.7523647
+  },
+  "Menetou-Salon, France": {
+    "place": "Menetou-Salon, France",
+    "region": "France / La vallée de la Loire / Haute-Loire / Menetou-Salon",
+    "latitude": 47.2315397,
+    "longitude": 2.4886282
+  },
+  "Estrémadure, Espagne": {
+    "place": "Estrémadure, Espagne",
+    "region": "Espagne / Estrémadure",
+    "latitude": 39.1748426,
+    "longitude": -6.1529891
+  },
+  "Niederösterreich, Autriche": {
+    "place": "Niederösterreich, Autriche",
+    "region": "Autriche / Weinland / Niederösterreich",
+    "latitude": 48.2817813,
+    "longitude": 15.7632457
+  },
+  "Johannisberg, Allemagne": {
+    "place": "Johannisberg, Allemagne",
+    "region": "Allemagne / Rheingau / Johannisberg",
+    "latitude": 50.0031207,
+    "longitude": 7.9811854
+  },
+  "Terre di Chieti, Italie": {
+    "place": "Terre di Chieti, Italie",
+    "region": "Italie / Central Italy / Abruzzo (Abruzzes) / Terre di Chieti",
+    "latitude": null,
+    "longitude": null
+  },
+  "Toro, Espagne": {
+    "place": "Toro, Espagne",
+    "region": "Espagne / Castille-et-León / Toro",
+    "latitude": 41.5216963,
+    "longitude": -5.3939824
+  },
+  "Brindisi, Italie": {
+    "place": "Brindisi, Italie",
+    "region": "Italie / Southern Italy / Pouilles / Brindisi",
+    "latitude": 40.6358599,
+    "longitude": 17.6884975
+  },
+  "Valence, Espagne": {
+    "place": "Valence, Espagne",
+    "region": "Espagne / Valence",
+    "latitude": 39.4697065,
+    "longitude": -0.3763353
+  },
+  "Chénas, France": {
+    "place": "Chénas, France",
+    "region": "France / Beaujolais / Chénas",
+    "latitude": 46.2119329,
+    "longitude": 4.7190138
+  },
+  "Chianti, Italie": {
+    "place": "Chianti, Italie",
+    "region": "Italie / Central Italy / Toscane / Chianti",
+    "latitude": 43.5824597,
+    "longitude": 11.3168731
+  },
+  "Mâcon Villages, France": {
+    "place": "Mâcon Villages, France",
+    "region": "France / Bourgogne / Mâconnais / Mâcon / Mâcon Villages",
+    "latitude": 46.3205221,
+    "longitude": 4.8182182
+  },
+  "Mâcon-Fuissé, France": {
+    "place": "Mâcon-Fuissé, France",
+    "region": "France / Bourgogne / Mâconnais / Mâcon / Mâcon-Fuissé",
+    "latitude": null,
+    "longitude": null
+  },
+  "Chassagne-Montrachet 1er Cru La Boudriotte, France": {
+    "place": "Chassagne-Montrachet 1er Cru La Boudriotte, France",
+    "region": "France / Bourgogne / Côte de Beaune / Chassagne-Montrachet / Chassagne-Montrachet Premier Cru / Chassagne-Montrachet 1er Cru La Boudriotte",
+    "latitude": null,
+    "longitude": null
+  },
+  "Ardèche, France": {
+    "place": "Ardèche, France",
+    "region": "France / Vin de Pays / Ardèche",
+    "latitude": 44.815194,
+    "longitude": 4.3986525
+  },
+  "Valpolicella Classico, Italie": {
+    "place": "Valpolicella Classico, Italie",
+    "region": "Italie / Northern Italy / Vénétie / Valpolicella / Valpolicella Classico",
+    "latitude": null,
+    "longitude": null
+  },
+  "Langhe, Italie": {
+    "place": "Langhe, Italie",
+    "region": "Italie / Northern Italy / Piémont / Langhe",
+    "latitude": 44.493036,
+    "longitude": 7.974639
+  },
+  "Pic Saint-Loup, France": {
+    "place": "Pic Saint-Loup, France",
+    "region": "France / Languedoc-Roussillon / Languedoc / Pic Saint-Loup",
+    "latitude": 43.7788923,
+    "longitude": 3.81117
+  },
+  "Vins des Allobroges, France": {
+    "place": "Vins des Allobroges, France",
+    "region": "France / Vin de Pays / Comtés Rhodaniens / Vins des Allobroges",
+    "latitude": null,
+    "longitude": null
+  },
+  "Barbaresco, Italie": {
+    "place": "Barbaresco, Italie",
+    "region": "Italie / Northern Italy / Piémont / Barbaresco",
+    "latitude": 44.7254469,
+    "longitude": 8.0806959
+  },
+  "Bourgogne Aligoté, France": {
+    "place": "Bourgogne Aligoté, France",
+    "region": "France / Bourgogne / Bourgogne Aligoté",
+    "latitude": null,
+    "longitude": null
+  },
+  "Beaune, France": {
+    "place": "Beaune, France",
+    "region": "France / Bourgogne / Côte de Beaune / Beaune",
+    "latitude": 47.0239064,
+    "longitude": 4.8380426
+  },
+  "Collines Rhodaniennes, France": {
+    "place": "Collines Rhodaniennes, France",
+    "region": "France / Vin de Pays / Comtés Rhodaniens / Collines Rhodaniennes",
+    "latitude": null,
+    "longitude": null
+  },
+  "Côte de Brouilly, France": {
+    "place": "Côte de Brouilly, France",
+    "region": "France / Beaujolais / Côte de Brouilly",
+    "latitude": 46.1005732,
+    "longitude": 4.654668
+  },
+  "Viré-Clessé, France": {
+    "place": "Viré-Clessé, France",
+    "region": "France / Bourgogne / Mâconnais / Viré-Clessé",
+    "latitude": 46.4493784,
+    "longitude": 4.8436685
+  },
+  "Rubicone, Italie": {
+    "place": "Rubicone, Italie",
+    "region": "Italie / Northern Italy / Émilie-Romagne / Emilia / Rubicone",
+    "latitude": 44.0660923,
+    "longitude": 12.3609442
+  },
+  "Costers del Segre, Espagne": {
+    "place": "Costers del Segre, Espagne",
+    "region": "Espagne / Catalogne / Costers del Segre",
+    "latitude": 41.5022982,
+    "longitude": 0.827399
+  },
+  "Lujan de Cuyo, Argentine": {
+    "place": "Lujan de Cuyo, Argentine",
+    "region": "Argentine / Mendoza / Lujan de Cuyo",
+    "latitude": -33.1085238,
+    "longitude": -69.0129984
+  },
+  "Aloxe-Corton 1er Cru Les Maréchaudes, France": {
+    "place": "Aloxe-Corton 1er Cru Les Maréchaudes, France",
+    "region": "France / Bourgogne / Côte de Beaune / Aloxe-Corton / Aloxe-Corton Premier Cru / Aloxe-Corton 1er Cru Les Maréchaudes",
+    "latitude": null,
+    "longitude": null
+  },
+  "Pouilly-Vinzelles, France": {
+    "place": "Pouilly-Vinzelles, France",
+    "region": "France / Bourgogne / Mâconnais / Pouilly-Vinzelles",
+    "latitude": 46.2789102,
+    "longitude": 4.7825637
+  },
+  "Volnay, France": {
+    "place": "Volnay, France",
+    "region": "France / Bourgogne / Côte de Beaune / Volnay",
+    "latitude": 47.0016955,
+    "longitude": 4.7811102
+  },
+  "Corbières-Boutenac, France": {
+    "place": "Corbières-Boutenac, France",
+    "region": "France / Languedoc-Roussillon / Corbières / Corbières-Boutenac",
+    "latitude": 43.1491503,
+    "longitude": 2.7954157
+  },
+  "Lussac-Saint-Émilion, France": {
+    "place": "Lussac-Saint-Émilion, France",
+    "region": "France / Bordeaux / Libournais / Saint-Émilion / Lussac-Saint-Émilion",
+    "latitude": null,
+    "longitude": null
+  },
+  "Languedoc-Roussillon, France": {
+    "place": "Languedoc-Roussillon, France",
+    "region": "France / Languedoc-Roussillon",
+    "latitude": 43.6542031,
+    "longitude": 3.6746699
+  },
+  "Navarra, Espagne": {
+    "place": "Navarra, Espagne",
+    "region": "Espagne / Navarra",
+    "latitude": 42.6125488,
+    "longitude": -1.8307877
+  },
+  "Empordà, Espagne": {
+    "place": "Empordà, Espagne",
+    "region": "Espagne / Catalogne / Empordà",
+    "latitude": 42.2902495,
+    "longitude": 2.9751099
+  },
+  "Minervois, France": {
+    "place": "Minervois, France",
+    "region": "France / Languedoc-Roussillon / Minervois",
+    "latitude": 43.2718,
+    "longitude": 2.52099
+  },
+  "Venezia Giulia, Italie": {
+    "place": "Venezia Giulia, Italie",
+    "region": "Italie / Northern Italy / Frioul-Vénétie Julienne / Venezia Giulia",
+    "latitude": 44.4783119,
+    "longitude": 11.3819068
+  },
+  "Dominio de Valdepusa, Espagne": {
+    "place": "Dominio de Valdepusa, Espagne",
+    "region": "Espagne / Castille / Dominio de Valdepusa",
+    "latitude": null,
+    "longitude": null
+  },
+  "Alicante, Espagne": {
+    "place": "Alicante, Espagne",
+    "region": "Espagne / Valence / Alicante",
+    "latitude": 38.3436365,
+    "longitude": -0.4881708
+  },
+  "Valdeorras, Espagne": {
+    "place": "Valdeorras, Espagne",
+    "region": "Espagne / Galice / Valdeorras",
+    "latitude": 42.3483416,
+    "longitude": -6.9659982
+  },
+  "Sierras de Málaga, Espagne": {
+    "place": "Sierras de Málaga, Espagne",
+    "region": "Espagne / Andalucía / Sierras de Málaga",
+    "latitude": 36.9220029,
+    "longitude": -4.0946425
+  },
+  "Arínzano, Espagne": {
+    "place": "Arínzano, Espagne",
+    "region": "Espagne / Navarra / Arínzano",
+    "latitude": 42.630781,
+    "longitude": -1.9934938
+  },
+  "Hérault, France": {
+    "place": "Hérault, France",
+    "region": "France / Vin de Pays / Pays d'Oc / Hérault",
+    "latitude": 43.591422,
+    "longitude": 3.3553309
+  },
+  "Côtes de Bourg, France": {
+    "place": "Côtes de Bourg, France",
+    "region": "France / Bordeaux / Côtes de Bordeaux / Côtes de Bourg",
+    "latitude": 45.7983203,
+    "longitude": 1.1369498
+  },
+  "Colchagua Valley, Chili": {
+    "place": "Colchagua Valley, Chili",
+    "region": "Chili / Vallée centrale / Rapel Valley / Colchagua Valley",
+    "latitude": -34.6357194,
+    "longitude": -71.1842225
+  },
+  "Malaga, Espagne": {
+    "place": "Malaga, Espagne",
+    "region": "Espagne / Andalucía / Malaga",
+    "latitude": 36.7213028,
+    "longitude": -4.4216366
+  },
+  "Friuli Isonzo, Italie": {
+    "place": "Friuli Isonzo, Italie",
+    "region": "Italie / Northern Italy / Frioul-Vénétie Julienne / Friuli Isonzo",
+    "latitude": 41.4628133,
+    "longitude": 12.9047599
+  },
+  "Valpolicella, Italie": {
+    "place": "Valpolicella, Italie",
+    "region": "Italie / Northern Italy / Vénétie / Valpolicella",
+    "latitude": 45.5296706,
+    "longitude": 10.9400217
+  },
+  "Sardegna, Italie": {
+    "place": "Sardegna, Italie",
+    "region": "Italie / Southern Italy / Sardegna",
+    "latitude": 40.0912813,
+    "longitude": 9.0305773
+  },
+  "Wehlen, Allemagne": {
+    "place": "Wehlen, Allemagne",
+    "region": "Allemagne / Mosel / Wehlen",
+    "latitude": 50.957091,
+    "longitude": 14.0307534
+  },
+  "Piémont, Italie": {
+    "place": "Piémont, Italie",
+    "region": "Italie / Northern Italy / Piémont",
+    "latitude": 45.060735,
+    "longitude": 7.923549
+  },
+  "Utiel-Requena, Espagne": {
+    "place": "Utiel-Requena, Espagne",
+    "region": "Espagne / Valence / Utiel-Requena",
+    "latitude": 39.5492855,
+    "longitude": -1.2511657
+  },
+  "Tunuyán, Argentine": {
+    "place": "Tunuyán, Argentine",
+    "region": "Argentine / Mendoza / Uco Valley / Tunuyán",
+    "latitude": -33.5812925,
+    "longitude": -69.0154258
+  },
+  "Côtes Catalanes, France": {
+    "place": "Côtes Catalanes, France",
+    "region": "France / Vin de Pays / Pays d'Oc / Côtes Catalanes",
+    "latitude": null,
+    "longitude": null
+  },
+  "Collioure, France": {
+    "place": "Collioure, France",
+    "region": "France / Languedoc-Roussillon / Collioure",
+    "latitude": 42.52505,
+    "longitude": 3.0831554
+  },
+  "Côtes de Thongue, France": {
+    "place": "Côtes de Thongue, France",
+    "region": "France / Vin de Pays / Pays d'Oc / Côtes de Thongue",
+    "latitude": null,
+    "longitude": null
+  },
+  "Orcia, Italie": {
+    "place": "Orcia, Italie",
+    "region": "Italie / Central Italy / Toscane / Orcia",
+    "latitude": 42.9734163,
+    "longitude": 11.4966147
+  },
+  "Collio, Italie": {
+    "place": "Collio, Italie",
+    "region": "Italie / Northern Italy / Frioul-Vénétie Julienne / Collio",
+    "latitude": 45.8093124,
+    "longitude": 10.3328723
+  },
+  "Rosso di Montalcino, Italie": {
+    "place": "Rosso di Montalcino, Italie",
+    "region": "Italie / Central Italy / Toscane / Rosso di Montalcino",
+    "latitude": 43.0555284,
+    "longitude": 11.3594386
+  },
+  "Cannonau di Sardegna, Italie": {
+    "place": "Cannonau di Sardegna, Italie",
+    "region": "Italie / Southern Italy / Sardegna / Cannonau di Sardegna",
+    "latitude": 40.2568502,
+    "longitude": 9.6218801
+  },
+  "Carmignano, Italie": {
+    "place": "Carmignano, Italie",
+    "region": "Italie / Central Italy / Toscane / Carmignano",
+    "latitude": 43.8140654,
+    "longitude": 11.0190297
+  },
+  "Colli di Conegliano, Italie": {
+    "place": "Colli di Conegliano, Italie",
+    "region": "Italie / Northern Italy / Vénétie / Colli di Conegliano",
+    "latitude": 45.8870267,
+    "longitude": 12.2906221
+  },
+  "Bolgheri Superiore, Italie": {
+    "place": "Bolgheri Superiore, Italie",
+    "region": "Italie / Central Italy / Toscane / Bolgheri / Bolgheri Superiore",
+    "latitude": null,
+    "longitude": null
+  },
+  "Carignano del Sulcis, Italie": {
+    "place": "Carignano del Sulcis, Italie",
+    "region": "Italie / Southern Italy / Sardegna / Carignano del Sulcis",
+    "latitude": null,
+    "longitude": null
+  },
+  "Ombrie, Italie": {
+    "place": "Ombrie, Italie",
+    "region": "Italie / Central Italy / Ombrie",
+    "latitude": 42.965916,
+    "longitude": 12.490236
+  },
+  "Colli del Limbara, Italie": {
+    "place": "Colli del Limbara, Italie",
+    "region": "Italie / Southern Italy / Sardegna / Colli del Limbara",
+    "latitude": null,
+    "longitude": null
+  },
+  "Vallée d'Aoste, Italie": {
+    "place": "Vallée d'Aoste, Italie",
+    "region": "Italie / Northern Italy / Vallée d'Aoste",
+    "latitude": 45.730099,
+    "longitude": 7.387426
+  },
+  "Castel del Monte, Italie": {
+    "place": "Castel del Monte, Italie",
+    "region": "Italie / Southern Italy / Pouilles / Castel del Monte",
+    "latitude": 41.0847439,
+    "longitude": 16.2711145
+  },
+  "Trentin-Haut-Adige, Italie": {
+    "place": "Trentin-Haut-Adige, Italie",
+    "region": "Italie / Northern Italy / Trentin-Haut-Adige",
+    "latitude": 46.441472,
+    "longitude": 11.282121
+  },
+  "Pla de Bages, Espagne": {
+    "place": "Pla de Bages, Espagne",
+    "region": "Espagne / Catalogne / Pla de Bages",
+    "latitude": 41.778578,
+    "longitude": 1.8903822
+  },
+  "Majorque, Espagne": {
+    "place": "Majorque, Espagne",
+    "region": "Espagne / Îles Baléares / Majorque",
+    "latitude": 39.613432,
+    "longitude": 2.8829185
+  },
+  "Priorat, Espagne": {
+    "place": "Priorat, Espagne",
+    "region": "Espagne / Catalogne / Priorat",
+    "latitude": 41.2137983,
+    "longitude": 0.8116236
+  },
+  "Montsant, Espagne": {
+    "place": "Montsant, Espagne",
+    "region": "Espagne / Catalogne / Tarragone / Montsant",
+    "latitude": 41.116962,
+    "longitude": 1.2110984
+  },
+  "Montevideo, Uruguay": {
+    "place": "Montevideo, Uruguay",
+    "region": "Uruguay / Montevideo",
+    "latitude": -34.9058916,
+    "longitude": -56.1913095
+  },
+  "Penedès, Espagne": {
+    "place": "Penedès, Espagne",
+    "region": "Espagne / Catalogne / Penedès",
+    "latitude": 41.3463825,
+    "longitude": 1.6995213
+  },
+  "Campo de Borja, Espagne": {
+    "place": "Campo de Borja, Espagne",
+    "region": "Espagne / Aragón / Campo de Borja",
+    "latitude": 41.7865415,
+    "longitude": -1.5058323
+  },
+  "Stefan Voda, Moldavie": {
+    "place": "Stefan Voda, Moldavie",
+    "region": "Moldavie / Stefan Voda",
+    "latitude": 46.5156075,
+    "longitude": 29.6621136
+  },
+  "Catalogne, Espagne": {
+    "place": "Catalogne, Espagne",
+    "region": "Espagne / Catalogne",
+    "latitude": 41.8523094,
+    "longitude": 1.5745043
+  },
+  "Ribeiro, Espagne": {
+    "place": "Ribeiro, Espagne",
+    "region": "Espagne / Galice / Ribeiro",
+    "latitude": 42.3199064,
+    "longitude": -8.1522669
+  },
+  "Santenay 1er Cru Clos Rousseau, France": {
+    "place": "Santenay 1er Cru Clos Rousseau, France",
+    "region": "France / Bourgogne / Côte de Beaune / Santenay / Santenay Premier Cru / Santenay 1er Cru Clos Rousseau",
+    "latitude": null,
+    "longitude": null
+  },
+  "Pouilly-Fumé, France": {
+    "place": "Pouilly-Fumé, France",
+    "region": "France / La vallée de la Loire / Haute-Loire / Pouilly-Fumé",
+    "latitude": null,
+    "longitude": null
+  }
+}

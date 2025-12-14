@@ -50,7 +50,7 @@ python nominatim.py
 ```
 
 This script:
-1. Loads wine data from `vivino_wines_detailed.json`
+1. Loads wine data from `vivino_wines_detailed_final.json`
 2. Extracts unique locations and geocodes them via [Nominatim](https://nominatim.org/)
 3. Creates a SQLite database (`wines.db`) with two tables:
    - **regions**: place, coordinates, country
