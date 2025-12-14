@@ -77,6 +77,19 @@ This shows:
 - Database structure (tables & columns)
 - List of all French wines (sorted by rating)
 
+## Map Visualization
+
+Generate an interactive map with `wine_map.py`:
+
+```bash
+python wine_map.py
+```
+
+Opens `wines_map.html` in your browser with:
+- Clustered markers (zoom to expand)
+- Color-coded by country
+- Popups with wine details
+
 ## Note
 
 The scraper opens a visible Chrome window (required to bypass bot detection).
