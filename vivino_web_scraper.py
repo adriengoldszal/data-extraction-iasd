@@ -5,12 +5,29 @@ Extracts wine names, vineyards, and places from Vivino explore pages.
 
 import argparse
 import json
+import re
 import time
 import undetected_chromedriver as uc
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
+
+# Countries to include when filtering wines
+ALLOWED_COUNTRIES = ["france", "italy", "spain", "italia", "espagne", "italie", "españa", "francia"]
+
+# Track if cookies have been dismissed (only need to do once per session)
+_cookies_dismissed = False
+
+
+def is_wine_from_allowed_country(wine):
+    """Check if a wine is from France, Italy, or Spain based on its place field."""
+    place = wine.get("place", "")
+    if not place:
+        return False
+    
+    place_lower = place.lower()
+    return any(country in place_lower for country in ALLOWED_COUNTRIES)
 
 
 def create_driver():
@@ -131,6 +148,77 @@ def parse_wine_details(driver, wine_url):
                 details[key] = value
             except NoSuchElementException:
                 pass
+        
+        # Extract taste characteristics (the 4 categories with percentages)
+        taste_characteristics = {}
+        try:
+            taste_rows = driver.find_elements(By.CSS_SELECTOR, ".tasteStructure__tasteCharacteristic--jLtsE")
+            for taste_row in taste_rows:
+                # Get the left and right property labels
+                properties = taste_row.find_elements(By.CSS_SELECTOR, ".tasteStructure__property--CLNl_")
+                if len(properties) >= 2:
+                    left_label = properties[0].text.strip()
+                    right_label = properties[1].text.strip()
+                    
+                    # Get the percentage from the progress bar style
+                    try:
+                        progress_bar = taste_row.find_element(By.CSS_SELECTOR, ".indicatorBar__progress--3aXLX")
+                        style = progress_bar.get_attribute("style")
+                        # Extract the 'left' percentage (e.g., "left: 72.7135%;")
+                        match = re.search(r'left:\s*([\d.]+)%', style)
+                        if match:
+                            percentage = float(match.group(1))
+                            # Create a key from the labels (e.g., "light_bold" or "dry_sweet")
+                            label_key_map = {
+                                ("Léger", "Puissant"): "light_bold",
+                                ("Souple", "Tannique"): "smooth_tannic",
+                                ("Sec", "Moelleux"): "dry_sweet",
+                                ("Doux", "Acide"): "soft_acidic",
+                                # English versions
+                                ("Light", "Bold"): "light_bold",
+                                ("Smooth", "Tannic"): "smooth_tannic",
+                                ("Dry", "Sweet"): "dry_sweet",
+                                ("Soft", "Acidic"): "soft_acidic",
+                            }
+                            key = label_key_map.get((left_label, right_label), f"{left_label}_{right_label}".lower())
+                            taste_characteristics[key] = {
+                                "left_label": left_label,
+                                "right_label": right_label,
+                                "percentage": percentage  # 0% = left, 100% = right
+                            }
+                    except NoSuchElementException:
+                        pass
+        except Exception as e:
+            print(f"    Error extracting taste characteristics: {e}")
+        
+        if taste_characteristics:
+            details["taste_characteristics"] = taste_characteristics
+        
+        # Extract food pairings
+        food_pairings = []
+        try:
+            food_elements = driver.find_elements(By.CSS_SELECTOR, ".foodPairing__imageContainer--2CtYR")
+            for food_elem in food_elements:
+                try:
+                    # The food name is in a div inside the link
+                    food_name_div = food_elem.find_element(By.CSS_SELECTOR, "div:not([role='img'])")
+                    food_name = food_name_div.text.strip()
+                    if food_name:
+                        food_pairings.append(food_name)
+                except NoSuchElementException:
+                    # Try getting the aria-label from the image as fallback
+                    try:
+                        food_img = food_elem.find_element(By.CSS_SELECTOR, "[role='img']")
+                        food_name = food_img.get_attribute("aria-label")
+                        if food_name:
+                            food_pairings.append(food_name)
+                    except NoSuchElementException:
+                        pass
+        except Exception as e:
+            print(f"    Error extracting food pairings: {e}")
+        
+        if food_pairings:
+            details["food_pairings"] = food_pairings
                 
     except Exception as e:
         print(f"    Error fetching details: {e}")
@@ -138,11 +226,22 @@ def parse_wine_details(driver, wine_url):
     return details
 
 
-def dismiss_cookie_consent(driver):
-    """Dismiss cookie consent overlay by actually accepting cookies."""
+def dismiss_cookie_consent(driver, force=False):
+    """Dismiss cookie consent overlay by actually accepting cookies.
+    
+    Args:
+        driver: Selenium WebDriver instance
+        force: If True, attempt dismissal even if already done (for edge cases)
+    """
+    global _cookies_dismissed
+    
+    # Skip if already dismissed (saves ~3s per page)
+    if _cookies_dismissed and not force:
+        return True
+    
     try:
-        # Wait briefly for consent banner to appear
-        time.sleep(1)
+        # Wait briefly for consent banner to appear (only on first attempt)
+        time.sleep(0.5)
         
         # Try various cookie consent buttons (Accept is better - sets proper cookies)
         selectors = [
@@ -161,19 +260,31 @@ def dismiss_cookie_consent(driver):
                 if btns:
                     print(f"  Found consent button: {sel}")
                     driver.execute_script("arguments[0].click();", btns[0])
-                    time.sleep(2)  # Wait for cookies to be set
+                    time.sleep(1.5)  # Wait for cookies to be set
+                    _cookies_dismissed = True
                     return True
             except:
                 pass
         
-        print("  No consent button found, removing overlay...")
-        # Fallback: remove overlay (but cookies may not be set)
-        driver.execute_script("""
-            var blocker = document.getElementById('consent-blocker');
-            if (blocker) blocker.remove();
-            var onetrust = document.getElementById('onetrust-consent-sdk');
-            if (onetrust) onetrust.remove();
+        # No button found - either already dismissed or doesn't exist
+        # Check if banner exists before trying to remove
+        has_banner = driver.execute_script("""
+            return !!(document.getElementById('consent-blocker') || 
+                     document.getElementById('onetrust-consent-sdk'));
         """)
+        
+        if has_banner:
+            print("  No consent button found, removing overlay...")
+            driver.execute_script("""
+                var blocker = document.getElementById('consent-blocker');
+                if (blocker) blocker.remove();
+                var onetrust = document.getElementById('onetrust-consent-sdk');
+                if (onetrust) onetrust.remove();
+            """)
+        
+        _cookies_dismissed = True
+        return True
+        
     except Exception as e:
         print(f"  Consent error: {e}")
     return False
@@ -213,10 +324,9 @@ def go_to_next_page(driver):
         if next_button:
             # Scroll to button and click (maintains session, avoids 405 error)
             driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", next_button)
-            time.sleep(0.5)
+            time.sleep(0.3)
             driver.execute_script("arguments[0].click();", next_button)
-            time.sleep(3)
-            dismiss_cookie_consent(driver)
+            time.sleep(2)  # Reduced from 3s - WebDriverWait handles slow loads
             return True
             
     except (NoSuchElementException, TimeoutException) as e:
@@ -237,6 +347,9 @@ def scrape_vivino(start_url, max_pages=None, detailed=False):
     Returns:
         List of wine dictionaries
     """
+    global _cookies_dismissed
+    _cookies_dismissed = False  # Reset for new session
+    
     driver = create_driver()
     all_wines = []
     page_count = 0
@@ -244,7 +357,7 @@ def scrape_vivino(start_url, max_pages=None, detailed=False):
     try:
         print(f"Starting scrape from: {start_url}")
         driver.get(start_url)
-        time.sleep(3)  # Initial page load
+        time.sleep(2)  # Initial page load (reduced from 3s)
         dismiss_cookie_consent(driver)  # Dismiss OneTrust consent modal
         
         while True:
@@ -253,8 +366,14 @@ def scrape_vivino(start_url, max_pages=None, detailed=False):
             
             # Parse wines on current page
             wines = parse_wine_cards(driver)
+            
+            # Filter to only keep wines from France, Italy, and Spain
+            wines_before_filter = len(wines)
+            wines = [w for w in wines if is_wine_from_allowed_country(w)]
+            print(f"  Found {wines_before_filter} wines, kept {len(wines)} (France/Italy/Spain only)")
+            
             all_wines.extend(wines)
-            print(f"  Found {len(wines)} wines (total: {len(all_wines)})")
+            print(f"  Total so far: {len(all_wines)}")
             
             # Check if we've reached max pages
             if max_pages and page_count >= max_pages:
