@@ -178,7 +178,3 @@ We chose **SQLite** as our relational DBMS because:
     ├── wine_map.py             # Interactive map generation
     └── wines_map.html          # Generated map output
 ```
-
-## Note
-
-The scraper opens a visible Chrome window (required to bypass bot detection).
