@@ -14,6 +14,16 @@ source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+## Pipeline Overview
+
+```
+1. Scraping          → vivino_wines.json
+2. Deduplication     → vivino_wines_..._no_duplicates.json
+3. Geocoding         → geocoded_locations.json + wines_map.geojson
+4. Database          → wines.db
+5. Visualization     → wines_map.html
+```
+
 ## Usage
 
 ### 1. Scraping
@@ -48,76 +58,65 @@ python filter_duplicates.py
 
 Identifies and removes duplicate wines based on (vineyard, name, place).
 
-### 2. Geocoding & Database
+### 2. Geocoding (Nominatim + Wikipedia)
 
 ```bash
-python get_nominatim_locations.py
+cd locations
+python get_locations.py
 ```
 
-This script:
-1. Loads wine data from `data/vivino_wines_complete_details_final_no_duplicates.json`
-2. Extracts unique locations and geocodes them via [Nominatim](https://nominatim.org/)
-3. Creates a SQLite database (`data/wines.db`) with two tables:
-   - **regions**: place, region, latitude, longitude, country
-   - **wines**: vineyard, name, rating, price, grapes, wine_style, alcohol_content, allergens, description, url, taste characteristics, food pairings
-4. Exports `data/wines_map.geojson` for mapping
+This script geocodes all wine locations using **two sources** for quality assurance:
+
+1. **Nominatim** (OpenStreetMap) - primary geocoding
+2. **Wikipedia** - secondary verification
+
+For each location:
+- If both sources agree (< 50km apart) → uses Nominatim coordinates
+- If sources diverge (> 50km apart) → uses Wikipedia coordinates (more reliable for named regions)
+- If only one source available → uses that source
+- Prints detailed statistics and quality metrics
 
 #### Output Files
 
 | File | Description |
 |------|-------------|
-| `data/geocoded_locations.json` | Cached geocoding results |
-| `data/wines.db` | SQLite database with wines & regions |
+| `data/geocoded_locations.json` | All geocoding results (both sources + chosen coordinates) |
 | `data/wines_map.geojson` | GeoJSON for map visualization |
 
-### 3. Querying the Database
+#### Quality Assessment
+
+Analyze the geocoding results:
+
+```bash
+cd locations
+python plot_location_errors.py
+```
+
+Generates charts and statistics:
+- **distance_histogram.png** - Distribution of Nominatim vs Wikipedia distances
+- **distance_histogram_log.png** - Same on log scale (shows outliers better)
+- **top_outliers.png** - Top 15 largest coordinate discrepancies
+
+### 3. Database Creation
+
+```bash
+python create_database.py
+```
+
+Creates a SQLite database from the geocoded data:
+
+- **regions** table: place, coordinates, country, source used, both source coordinates
+- **wines** table: vineyard, name, rating, price, grapes, wine_style, taste characteristics, food pairings
+
+### 4. Querying the Database
 
 ```bash
 python query_wines.py
 ```
 
-Shows:
-- Database structure (tables & columns)
-- List of all French wines (sorted by rating)
+Shows database structure and sample queries.
 
-## Data Quality Assessment
-
-Scripts for validating geocoding accuracy are in the `data_quality_assessment/` folder.
-
-### verify_locations.py
-
-Cross-validates geocoded coordinates against Wikipedia's coordinates for the same place names:
-
-```bash
-cd data_quality_assessment
-python verify_locations.py
-```
-
-This script:
-1. Reads `data/wines_map.geojson` with Nominatim coordinates
-2. Queries Wikipedia API for each place's coordinates
-3. Calculates the distance (in km) between Nominatim and Wikipedia coordinates using the Haversine formula
-4. Outputs `data/places_with_dist.geojson` with added fields: `wiki_lat`, `wiki_lon`, `wiki_page`, `distance_m`
-
-### plot_location_errors.py
-
-Visualizes the geocoding accuracy from the verification results:
-
-```bash
-cd data_quality_assessment
-python plot_location_errors.py
-```
-
-Generates and saves three charts to the `data_quality_assessment/` folder:
-1. **distance_histogram.png** - Distribution of distances between Nominatim and Wikipedia coordinates
-2. **distance_histogram_log.png** - Same distribution on log scale (useful for identifying outliers)
-3. **top_outliers.png** - Bar chart showing the 15 places with largest coordinate discrepancies
-
-Large distances may indicate geocoding errors or ambiguous place names.
-
-## Map Visualization
-
-Generate an interactive map with `wine_map.py`:
+### 5. Map Visualization
 
 ```bash
 python wine_map.py
@@ -128,27 +127,36 @@ Opens `wines_map.html` in your browser with:
 - Color-coded by country
 - Popups with wine details
 
+## Data Storage Justification
+
+We chose **SQLite** as our relational DBMS because:
+
+- **Zero configuration** - no server to install or manage
+- **Portable** - single `wines.db` file can be shared/moved easily
+- **Built into Python** - no external dependencies needed
+- **Relational model** - wines linked to regions via foreign keys, enables SQL queries
+- **Appropriate scale** - SQLite handles up to ~140TB, our ~1500 wines dataset is tiny
+- **Query capability** - complex queries (wines by country, by rating, joins, aggregations)
 
 ## Project Structure
 
 ```
 ├── scraping/
-│   ├── vivino_web_scraper.py   # Main scraper
+│   ├── vivino_web_scraper.py   # Web scraper with bot detection bypass
 │   └── filter_duplicates.py    # Remove duplicate wines
+├── locations/
+│   ├── get_locations.py        # Geocoding (Nominatim + Wikipedia)
+│   ├── plot_location_errors.py # Analyze geocoding quality
+│   ├── distance_histogram.png
+│   ├── distance_histogram_log.png
+│   └── top_outliers.png
 ├── data/
 │   ├── vivino_wines_complete_details_final.json
 │   ├── vivino_wines_complete_details_final_no_duplicates.json
-│   ├── geocoded_locations.json
-│   ├── wines_map.geojson
-│   ├── places_with_dist.geojson
-│   └── wines.db
-├── data_quality_assessment/
-│   ├── verify_locations.py     # Cross-check coordinates with Wikipedia
-│   ├── plot_location_errors.py # Visualize geocoding accuracy
-│   ├── distance_histogram.png  # Output chart
-│   ├── distance_histogram_log.png
-│   └── top_outliers.png
-├── get_nominatim_locations.py  # Geocoding & database creation
+│   ├── geocoded_locations.json # Both Nominatim + Wikipedia coords
+│   ├── wines_map.geojson       # Final map data
+│   └── wines.db                # SQLite database
+├── create_database.py          # SQLite database creation
 ├── query_wines.py              # Database exploration
 └── wine_map.py                 # Interactive map generation
 ```

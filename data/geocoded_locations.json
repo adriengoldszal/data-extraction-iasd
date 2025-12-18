@@ -2,1939 +2,4200 @@
   "Bordeaux, France": {
     "place": "Bordeaux, France",
     "region": "France / Bordeaux",
-    "latitude": 44.841225,
-    "longitude": -0.5800364
+    "nominatim_lat": 44.841225,
+    "nominatim_lon": -0.5800364,
+    "wikipedia_lat": 44.84,
+    "wikipedia_lon": -0.58,
+    "wikipedia_page": "Bordeaux",
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.841225,
+    "chosen_lon": -0.5800364,
+    "distance_km": 0.14
   },
   "Saint-Chinian, France": {
     "place": "Saint-Chinian, France",
     "region": "France / Languedoc-Roussillon / Saint-Chinian",
-    "latitude": 43.4215,
-    "longitude": 2.94677
+    "nominatim_lat": 43.4215,
+    "nominatim_lon": 2.94677,
+    "wikipedia_lat": 43.4231,
+    "wikipedia_lon": 2.9478,
+    "wikipedia_page": "Saint-Chinian",
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.4215,
+    "chosen_lon": 2.94677,
+    "distance_km": 0.2
   },
   "Brunello di Montalcino, Italie": {
     "place": "Brunello di Montalcino, Italie",
     "region": "Italie / Central Italy / Toscane / Brunello di Montalcino",
-    "latitude": 43.3204995,
-    "longitude": 11.3281859
+    "nominatim_lat": 43.3204995,
+    "nominatim_lon": 11.3281859,
+    "wikipedia_lat": 43.0352026,
+    "wikipedia_lon": 11.4217104,
+    "wikipedia_page": "Brunello di Montalcino",
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.3204995,
+    "chosen_lon": 11.3281859,
+    "distance_km": 32.62
   },
   "Montepulciano d'Abruzzo, Italie": {
     "place": "Montepulciano d'Abruzzo, Italie",
     "region": "Italie / Central Italy / Abruzzo (Abruzzes) / Montepulciano d'Abruzzo",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Côtes-du-Rhône, France": {
     "place": "Côtes-du-Rhône, France",
     "region": "France / Vallée du Rhône / Sud de la vallée du Rhône / Côtes-du-Rhône",
-    "latitude": 45.8643547,
-    "longitude": 4.5956929
+    "nominatim_lat": 45.8643547,
+    "nominatim_lon": 4.5956929,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.8643547,
+    "chosen_lon": 4.5956929,
+    "distance_km": null
   },
   "Chablis, France": {
     "place": "Chablis, France",
     "region": "France / Bourgogne / Chablis",
-    "latitude": 47.8152073,
-    "longitude": 3.8001657
+    "nominatim_lat": 47.8152073,
+    "nominatim_lon": 3.8001657,
+    "wikipedia_lat": 47.8156,
+    "wikipedia_lon": 3.7975,
+    "wikipedia_page": "Chablis",
+    "chosen_source": "nominatim",
+    "chosen_lat": 47.8152073,
+    "chosen_lon": 3.8001657,
+    "distance_km": 0.2
   },
   "Fleurie, France": {
     "place": "Fleurie, France",
     "region": "France / Beaujolais / Fleurie",
-    "latitude": 46.1920243,
-    "longitude": 4.6981214
+    "nominatim_lat": 46.1920243,
+    "nominatim_lon": 4.6981214,
+    "wikipedia_lat": 46.193,
+    "wikipedia_lon": 4.698,
+    "wikipedia_page": "Fleurie",
+    "chosen_source": "nominatim",
+    "chosen_lat": 46.1920243,
+    "chosen_lon": 4.6981214,
+    "distance_km": 0.11
   },
   "Vacqueyras, France": {
     "place": "Vacqueyras, France",
     "region": "France / Vallée du Rhône / Sud de la vallée du Rhône / Vacqueyras",
-    "latitude": 44.1382621,
-    "longitude": 4.9823958
+    "nominatim_lat": 44.1382621,
+    "nominatim_lon": 4.9823958,
+    "wikipedia_lat": 44.138,
+    "wikipedia_lon": 4.9831,
+    "wikipedia_page": "Vacqueyras",
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.1382621,
+    "chosen_lon": 4.9823958,
+    "distance_km": 0.06
   },
   "Saint-Émilion Grand Cru, France": {
     "place": "Saint-Émilion Grand Cru, France",
     "region": "France / Bordeaux / Libournais / Saint-Émilion / Saint-Émilion Grand Cru",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Abruzzo (Abruzzes), Italie": {
     "place": "Abruzzo (Abruzzes), Italie",
     "region": "Italie / Central Italy / Abruzzo (Abruzzes)",
-    "latitude": 42.0105947,
-    "longitude": 14.0318516
+    "nominatim_lat": 42.0105947,
+    "nominatim_lon": 14.0318516,
+    "wikipedia_lat": 42.36611111,
+    "wikipedia_lon": 12.39444444,
+    "wikipedia_page": "Abruzzo",
+    "chosen_source": "wikipedia",
+    "chosen_lat": 42.36611111,
+    "chosen_lon": 12.39444444,
+    "distance_km": 140.57
   },
   "Maremma Toscana, Italie": {
     "place": "Maremma Toscana, Italie",
     "region": "Italie / Central Italy / Toscane / Maremma Toscana",
-    "latitude": 42.7027722,
-    "longitude": 11.1367433
+    "nominatim_lat": 42.7027722,
+    "nominatim_lon": 11.1367433,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 42.7027722,
+    "chosen_lon": 11.1367433,
+    "distance_km": null
   },
   "Graves, France": {
     "place": "Graves, France",
     "region": "France / Bordeaux / Graves",
-    "latitude": 45.6500048,
-    "longitude": -0.1060768
+    "nominatim_lat": 45.6500048,
+    "nominatim_lon": -0.1060768,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.6500048,
+    "chosen_lon": -0.1060768,
+    "distance_km": null
   },
   "Amarone della Valpolicella, Italie": {
     "place": "Amarone della Valpolicella, Italie",
     "region": "Italie / Northern Italy / Vénétie / Valpolicella / Amarone della Valpolicella",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Toro, Espagne": {
     "place": "Toro, Espagne",
     "region": "Espagne / Castille-et-León / Toro",
-    "latitude": 41.5216963,
-    "longitude": -5.3939824
+    "nominatim_lat": 41.5216963,
+    "nominatim_lon": -5.3939824,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 41.5216963,
+    "chosen_lon": -5.3939824,
+    "distance_km": null
   },
   "Barolo, Italie": {
     "place": "Barolo, Italie",
     "region": "Italie / Northern Italy / Piémont / Barolo",
-    "latitude": 44.6108408,
-    "longitude": 7.9428448
+    "nominatim_lat": 44.6108408,
+    "nominatim_lon": 7.9428448,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.6108408,
+    "chosen_lon": 7.9428448,
+    "distance_km": null
   },
   "Pomerol, France": {
     "place": "Pomerol, France",
     "region": "France / Bordeaux / Libournais / Pomerol",
-    "latitude": 44.9311234,
-    "longitude": -0.1999904
+    "nominatim_lat": 44.9311234,
+    "nominatim_lon": -0.1999904,
+    "wikipedia_lat": 44.9328,
+    "wikipedia_lon": -0.1992,
+    "wikipedia_page": "Pomerol",
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.9311234,
+    "chosen_lon": -0.1999904,
+    "distance_km": 0.2
   },
   "Abadía Retuerta, Espagne": {
     "place": "Abadía Retuerta, Espagne",
     "region": "Espagne / Castille-et-León / Abadía Retuerta",
-    "latitude": 41.6165363,
-    "longitude": -4.4109323
+    "nominatim_lat": 41.6165363,
+    "nominatim_lon": -4.4109323,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 41.6165363,
+    "chosen_lon": -4.4109323,
+    "distance_km": null
   },
   "Pouilles, Italie": {
     "place": "Pouilles, Italie",
     "region": "Italie / Southern Italy / Pouilles",
-    "latitude": 40.9842539,
-    "longitude": 16.6210027
+    "nominatim_lat": 40.9842539,
+    "nominatim_lon": 16.6210027,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 40.9842539,
+    "chosen_lon": 16.6210027,
+    "distance_km": null
   },
   "Ribera del Duero, Espagne": {
     "place": "Ribera del Duero, Espagne",
     "region": "Espagne / Castille-et-León / Ribera del Duero",
-    "latitude": 41.6591121,
-    "longitude": -3.6815871
+    "nominatim_lat": 41.6591121,
+    "nominatim_lon": -3.6815871,
+    "wikipedia_lat": 41.68333333,
+    "wikipedia_lon": -3.68333333,
+    "wikipedia_page": "Ribera del Duero",
+    "chosen_source": "nominatim",
+    "chosen_lat": 41.6591121,
+    "chosen_lon": -3.6815871,
+    "distance_km": 2.7
   },
   "Vino d'Italia, Italie": {
     "place": "Vino d'Italia, Italie",
     "region": "Italie / Vino d'Italia",
-    "latitude": 44.6395339,
-    "longitude": 11.188386
+    "nominatim_lat": 44.6395339,
+    "nominatim_lon": 11.188386,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.6395339,
+    "chosen_lon": 11.188386,
+    "distance_km": null
   },
   "Toscane, Italie": {
     "place": "Toscane, Italie",
     "region": "Italie / Central Italy / Toscane",
-    "latitude": 43.4586541,
-    "longitude": 11.1389204
+    "nominatim_lat": 43.4586541,
+    "nominatim_lon": 11.1389204,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.4586541,
+    "chosen_lon": 11.1389204,
+    "distance_km": null
   },
   "Vallée du Rhône, France": {
     "place": "Vallée du Rhône, France",
     "region": "France / Vallée du Rhône",
-    "latitude": 44.1965617,
-    "longitude": 4.7381118
+    "nominatim_lat": 44.1965617,
+    "nominatim_lon": 4.7381118,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.1965617,
+    "chosen_lon": 4.7381118,
+    "distance_km": null
   },
   "Touraine, France": {
     "place": "Touraine, France",
     "region": "France / La vallée de la Loire / Loire moyenne / Touraine",
-    "latitude": 47.2232046,
-    "longitude": 0.6866703
+    "nominatim_lat": 47.2232046,
+    "nominatim_lon": 0.6866703,
+    "wikipedia_lat": 47.4,
+    "wikipedia_lon": 0.68333333,
+    "wikipedia_page": "Touraine",
+    "chosen_source": "nominatim",
+    "chosen_lat": 47.2232046,
+    "chosen_lon": 0.6866703,
+    "distance_km": 19.66
   },
   "Fronsac, France": {
     "place": "Fronsac, France",
     "region": "France / Bordeaux / Libournais / Fronsac",
-    "latitude": 42.9509183,
-    "longitude": 0.6487221
+    "nominatim_lat": 42.9509183,
+    "nominatim_lon": 0.6487221,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 42.9509183,
+    "chosen_lon": 0.6487221,
+    "distance_km": null
   },
   "Gers, France": {
     "place": "Gers, France",
     "region": "France / Vin de Pays / Comté Tolosan / Gers",
-    "latitude": 43.6955276,
-    "longitude": 0.4101019
+    "nominatim_lat": 43.6955276,
+    "nominatim_lon": 0.4101019,
+    "wikipedia_lat": 43.65,
+    "wikipedia_lon": 0.58333333,
+    "wikipedia_page": "Gers",
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.6955276,
+    "chosen_lon": 0.4101019,
+    "distance_km": 14.82
   },
   "Minervois-La Livinière, France": {
     "place": "Minervois-La Livinière, France",
     "region": "France / Languedoc-Roussillon / Minervois / Minervois-La Livinière",
-    "latitude": 43.3847068,
-    "longitude": 2.6698267
+    "nominatim_lat": 43.3847068,
+    "nominatim_lon": 2.6698267,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.3847068,
+    "chosen_lon": 2.6698267,
+    "distance_km": null
   },
   "Côte-de-Nuits Villages, France": {
     "place": "Côte-de-Nuits Villages, France",
     "region": "France / Bourgogne / Côte de Nuits / Côte-de-Nuits Villages",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Marche, Italie": {
     "place": "Marche, Italie",
     "region": "Italie / Central Italy / Marche",
-    "latitude": 43.3458388,
-    "longitude": 13.1415872
+    "nominatim_lat": 43.3458388,
+    "nominatim_lon": 13.1415872,
+    "wikipedia_lat": 43.61666667,
+    "wikipedia_lon": 13.51666667,
+    "wikipedia_page": "Marche",
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.3458388,
+    "chosen_lon": 13.1415872,
+    "distance_km": 42.69
   },
   "Salento, Italie": {
     "place": "Salento, Italie",
     "region": "Italie / Southern Italy / Pouilles / Salento",
-    "latitude": 40.248604,
-    "longitude": 15.190058
+    "nominatim_lat": 40.248604,
+    "nominatim_lon": 15.190058,
+    "wikipedia_lat": 40.33333333,
+    "wikipedia_lon": 18,
+    "wikipedia_page": "Salento",
+    "chosen_source": "wikipedia",
+    "chosen_lat": 40.33333333,
+    "chosen_lon": 18,
+    "distance_km": 238.5
   },
   "Alsace, France": {
     "place": "Alsace, France",
     "region": "France / Alsace",
-    "latitude": 50.7007285,
-    "longitude": 3.160983
+    "nominatim_lat": 50.7007285,
+    "nominatim_lon": 3.160983,
+    "wikipedia_lat": 48.5,
+    "wikipedia_lon": 7.5,
+    "wikipedia_page": "Alsace",
+    "chosen_source": "wikipedia",
+    "chosen_lat": 48.5,
+    "chosen_lon": 7.5,
+    "distance_km": 396.96
   },
   "Primitivo di Manduria, Italie": {
     "place": "Primitivo di Manduria, Italie",
     "region": "Italie / Southern Italy / Pouilles / Primitivo di Manduria",
-    "latitude": 40.4058798,
-    "longitude": 17.6361498
+    "nominatim_lat": 40.4058798,
+    "nominatim_lon": 17.6361498,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 40.4058798,
+    "chosen_lon": 17.6361498,
+    "distance_km": null
   },
   "Châteauneuf-du-Pape, France": {
     "place": "Châteauneuf-du-Pape, France",
     "region": "France / Vallée du Rhône / Sud de la vallée du Rhône / Châteauneuf-du-Pape",
-    "latitude": 44.055989,
-    "longitude": 4.8317351
+    "nominatim_lat": 44.055989,
+    "nominatim_lon": 4.8317351,
+    "wikipedia_lat": 44.0569,
+    "wikipedia_lon": 4.8319,
+    "wikipedia_page": "Châteauneuf-du-Pape",
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.055989,
+    "chosen_lon": 4.8317351,
+    "distance_km": 0.1
   },
   "Valpolicella Ripasso, Italie": {
     "place": "Valpolicella Ripasso, Italie",
     "region": "Italie / Northern Italy / Vénétie / Valpolicella / Valpolicella Ripasso",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Südtirol - Alto Adige, Italie": {
     "place": "Südtirol - Alto Adige, Italie",
     "region": "Italie / Northern Italy / Trentin-Haut-Adige / Südtirol - Alto Adige",
-    "latitude": 46.9065378,
-    "longitude": 11.0957475
+    "nominatim_lat": 46.9065378,
+    "nominatim_lon": 11.0957475,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 46.9065378,
+    "chosen_lon": 11.0957475,
+    "distance_km": null
   },
   "Almansa, Espagne": {
     "place": "Almansa, Espagne",
     "region": "Espagne / Castille / Almansa",
-    "latitude": 38.8682065,
-    "longitude": -1.0978627
+    "nominatim_lat": 38.8682065,
+    "nominatim_lon": -1.0978627,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 38.8682065,
+    "chosen_lon": -1.0978627,
+    "distance_km": null
   },
   "Pessac-Léognan, France": {
     "place": "Pessac-Léognan, France",
     "region": "France / Bordeaux / Graves / Pessac-Léognan",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": 44.7597,
+    "wikipedia_lon": -0.6041,
+    "wikipedia_page": "Pessac-Léognan",
+    "chosen_source": "wikipedia",
+    "chosen_lat": 44.7597,
+    "chosen_lon": -0.6041,
+    "distance_km": null
   },
   "Amarone della Valpolicella Classico, Italie": {
     "place": "Amarone della Valpolicella Classico, Italie",
     "region": "Italie / Northern Italy / Vénétie / Valpolicella / Amarone della Valpolicella / Amarone della Valpolicella Classico",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Vérone, Italie": {
     "place": "Vérone, Italie",
     "region": "Italie / Northern Italy / Vénétie / Vérone",
-    "latitude": 45.4384958,
-    "longitude": 10.9924122
+    "nominatim_lat": 45.4384958,
+    "nominatim_lon": 10.9924122,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.4384958,
+    "chosen_lon": 10.9924122,
+    "distance_km": null
   },
   "Nizza, Italie": {
     "place": "Nizza, Italie",
     "region": "Italie / Northern Italy / Piémont / Nizza",
-    "latitude": 37.992622,
-    "longitude": 15.4119128
+    "nominatim_lat": 37.992622,
+    "nominatim_lon": 15.4119128,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 37.992622,
+    "chosen_lon": 15.4119128,
+    "distance_km": null
   },
   "Margaux, France": {
     "place": "Margaux, France",
     "region": "France / Bordeaux / Médoc / Margaux",
-    "latitude": 45.0463335,
-    "longitude": -0.6729117
+    "nominatim_lat": 45.0463335,
+    "nominatim_lon": -0.6729117,
+    "wikipedia_lat": 45.0419,
+    "wikipedia_lon": -0.6756,
+    "wikipedia_page": "Margaux",
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.0463335,
+    "chosen_lon": -0.6729117,
+    "distance_km": 0.54
   },
   "Marsannay, France": {
     "place": "Marsannay, France",
     "region": "France / Bourgogne / Côte de Nuits / Marsannay",
-    "latitude": 47.2705441,
-    "longitude": 4.9884218
+    "nominatim_lat": 47.2705441,
+    "nominatim_lon": 4.9884218,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 47.2705441,
+    "chosen_lon": 4.9884218,
+    "distance_km": null
   },
   "Mercurey 1er Cru Les Champs Martin, France": {
     "place": "Mercurey 1er Cru Les Champs Martin, France",
     "region": "France / Bourgogne / Côte Chalonnaise / Mercurey / Mercurey Premier Cru / Mercurey 1er Cru Les Champs Martin",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Cahors, France": {
     "place": "Cahors, France",
     "region": "France / Sud-Ouest de la France / Haut-Pays / Cahors",
-    "latitude": 44.4495,
-    "longitude": 1.4364999
+    "nominatim_lat": 44.4495,
+    "nominatim_lon": 1.4364999,
+    "wikipedia_lat": 44.4483,
+    "wikipedia_lon": 1.4414,
+    "wikipedia_page": "Cahors",
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.4495,
+    "chosen_lon": 1.4364999,
+    "distance_km": 0.41
   },
   "Fitou, France": {
     "place": "Fitou, France",
     "region": "France / Languedoc-Roussillon / Fitou",
-    "latitude": 42.8940931,
-    "longitude": 2.9817326
+    "nominatim_lat": 42.8940931,
+    "nominatim_lon": 2.9817326,
+    "wikipedia_lat": 42.8944,
+    "wikipedia_lon": 2.9794,
+    "wikipedia_page": "Fitou",
+    "chosen_source": "nominatim",
+    "chosen_lat": 42.8940931,
+    "chosen_lon": 2.9817326,
+    "distance_km": 0.19
   },
   "Pays d'Oc, France": {
     "place": "Pays d'Oc, France",
     "region": "France / Vin de Pays / Pays d'Oc",
-    "latitude": 43.5890885,
-    "longitude": 1.4422712
+    "nominatim_lat": 43.5890885,
+    "nominatim_lon": 1.4422712,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.5890885,
+    "chosen_lon": 1.4422712,
+    "distance_km": null
   },
   "Colline Pescaresi, Italie": {
     "place": "Colline Pescaresi, Italie",
     "region": "Italie / Central Italy / Abruzzo (Abruzzes) / Colline Pescaresi",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Rioja Alta, Espagne": {
     "place": "Rioja Alta, Espagne",
     "region": "Espagne / Rioja / Rioja Alta",
-    "latitude": 42.4157318,
-    "longitude": -2.8794739
+    "nominatim_lat": 42.4157318,
+    "nominatim_lon": -2.8794739,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 42.4157318,
+    "chosen_lon": -2.8794739,
+    "distance_km": null
   },
   "Vino de España, Espagne": {
     "place": "Vino de España, Espagne",
     "region": "Espagne / Vino de España",
-    "latitude": 41.6672478,
-    "longitude": -4.7140284
+    "nominatim_lat": 41.6672478,
+    "nominatim_lon": -4.7140284,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 41.6672478,
+    "chosen_lon": -4.7140284,
+    "distance_km": null
   },
   "Castille-et-León, Espagne": {
     "place": "Castille-et-León, Espagne",
     "region": "Espagne / Castille-et-León",
-    "latitude": 41.55005,
-    "longitude": -5.1387401
+    "nominatim_lat": 41.55005,
+    "nominatim_lon": -5.1387401,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 41.55005,
+    "chosen_lon": -5.1387401,
+    "distance_km": null
   },
   "Pauillac, France": {
     "place": "Pauillac, France",
     "region": "France / Bordeaux / Médoc / Pauillac",
-    "latitude": 45.1995626,
-    "longitude": -0.7484994
+    "nominatim_lat": 45.1995626,
+    "nominatim_lon": -0.7484994,
+    "wikipedia_lat": 45.1999,
+    "wikipedia_lon": -0.7488,
+    "wikipedia_page": "Pauillac",
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.1995626,
+    "chosen_lon": -0.7484994,
+    "distance_km": 0.04
   },
   "Nuits-Saint-Georges, France": {
     "place": "Nuits-Saint-Georges, France",
     "region": "France / Bourgogne / Côte de Nuits / Nuits-Saint-Georges",
-    "latitude": 47.1367598,
-    "longitude": 4.9489061
+    "nominatim_lat": 47.1367598,
+    "nominatim_lon": 4.9489061,
+    "wikipedia_lat": 47.1383,
+    "wikipedia_lon": 4.9511,
+    "wikipedia_page": "Nuits-Saint-Georges",
+    "chosen_source": "nominatim",
+    "chosen_lat": 47.1367598,
+    "chosen_lon": 4.9489061,
+    "distance_km": 0.24
   },
   "Pézenas, France": {
     "place": "Pézenas, France",
     "region": "France / Languedoc-Roussillon / Languedoc / Pézenas",
-    "latitude": 43.4611777,
-    "longitude": 3.4228323
+    "nominatim_lat": 43.4611777,
+    "nominatim_lon": 3.4228323,
+    "wikipedia_lat": 43.4606,
+    "wikipedia_lon": 3.4236,
+    "wikipedia_page": "Pézenas",
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.4611777,
+    "chosen_lon": 3.4228323,
+    "distance_km": 0.09
   },
   "Saumur, France": {
     "place": "Saumur, France",
     "region": "France / La vallée de la Loire / Loire moyenne / Saumur",
-    "latitude": 47.2596224,
-    "longitude": -0.0785177
+    "nominatim_lat": 47.2596224,
+    "nominatim_lon": -0.0785177,
+    "wikipedia_lat": 47.26,
+    "wikipedia_lon": -0.0769,
+    "wikipedia_page": "Saumur",
+    "chosen_source": "nominatim",
+    "chosen_lat": 47.2596224,
+    "chosen_lon": -0.0785177,
+    "distance_km": 0.13
   },
   "Pouilly-Fuissé, France": {
     "place": "Pouilly-Fuissé, France",
     "region": "France / Bourgogne / Mâconnais / Pouilly-Fuissé",
-    "latitude": 46.2764517,
-    "longitude": 4.7858077
+    "nominatim_lat": 46.2764517,
+    "nominatim_lon": 4.7858077,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 46.2764517,
+    "chosen_lon": 4.7858077,
+    "distance_km": null
   },
   "Savennières, France": {
     "place": "Savennières, France",
     "region": "France / La vallée de la Loire / Loire moyenne / Savennières",
-    "latitude": 47.3830917,
-    "longitude": -0.6570828
+    "nominatim_lat": 47.3830917,
+    "nominatim_lon": -0.6570828,
+    "wikipedia_lat": 47.3838,
+    "wikipedia_lon": -0.6564,
+    "wikipedia_page": "Savennières",
+    "chosen_source": "nominatim",
+    "chosen_lat": 47.3830917,
+    "chosen_lon": -0.6570828,
+    "distance_km": 0.09
   },
   "Saint-Estèphe, France": {
     "place": "Saint-Estèphe, France",
     "region": "France / Bordeaux / Médoc / Saint-Estèphe",
-    "latitude": 45.5925,
-    "longitude": 0.6633333
+    "nominatim_lat": 45.5925,
+    "nominatim_lon": 0.6633333,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.5925,
+    "chosen_lon": 0.6633333,
+    "distance_km": null
   },
   "Faugères, France": {
     "place": "Faugères, France",
     "region": "France / Languedoc-Roussillon / Faugères",
-    "latitude": 43.5648186,
-    "longitude": 3.1901144
+    "nominatim_lat": 43.5648186,
+    "nominatim_lon": 3.1901144,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.5648186,
+    "chosen_lon": 3.1901144,
+    "distance_km": null
   },
   "Vénétie, Italie": {
     "place": "Vénétie, Italie",
     "region": "Italie / Northern Italy / Vénétie",
-    "latitude": 45.6476663,
-    "longitude": 11.8665254
+    "nominatim_lat": 45.6476663,
+    "nominatim_lon": 11.8665254,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.6476663,
+    "chosen_lon": 11.8665254,
+    "distance_km": null
   },
   "Terre Siciliane, Italie": {
     "place": "Terre Siciliane, Italie",
     "region": "Italie / Southern Italy / Terre Siciliane",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Rioja, Espagne": {
     "place": "Rioja, Espagne",
     "region": "Espagne / Rioja",
-    "latitude": 42.2814642,
-    "longitude": -2.482805
+    "nominatim_lat": 42.3285528,
+    "nominatim_lon": -2.4674917,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 42.3285528,
+    "chosen_lon": -2.4674917,
+    "distance_km": null
   },
   "Fixin, France": {
     "place": "Fixin, France",
     "region": "France / Bourgogne / Côte de Nuits / Fixin",
-    "latitude": 47.2455008,
-    "longitude": 4.9728452
+    "nominatim_lat": 47.2455008,
+    "nominatim_lon": 4.9728452,
+    "wikipedia_lat": 47.2464,
+    "wikipedia_lon": 4.973,
+    "wikipedia_page": "Fixin",
+    "chosen_source": "nominatim",
+    "chosen_lat": 47.2455008,
+    "chosen_lon": 4.9728452,
+    "distance_km": 0.1
   },
   "Savoie, France": {
     "place": "Savoie, France",
     "region": "France / Savoie",
-    "latitude": 45.4948952,
-    "longitude": 6.3846604
+    "nominatim_lat": 45.4948952,
+    "nominatim_lon": 6.3846604,
+    "wikipedia_lat": 45.58333333,
+    "wikipedia_lon": 6.33333333,
+    "wikipedia_page": "Savoie",
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.4948952,
+    "chosen_lon": 6.3846604,
+    "distance_km": 10.62
   },
   "Vin de France, France": {
     "place": "Vin de France, France",
     "region": "France / Vin de France",
-    "latitude": 48.8683837,
-    "longitude": 2.6877273
+    "nominatim_lat": 48.8683837,
+    "nominatim_lon": 2.6877273,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 48.8683837,
+    "chosen_lon": 2.6877273,
+    "distance_km": null
   },
   "Chianti Classico, Italie": {
     "place": "Chianti Classico, Italie",
     "region": "Italie / Central Italy / Toscane / Chianti / Chianti Classico",
-    "latitude": 43.3962636,
-    "longitude": 11.3101247
+    "nominatim_lat": 43.3947459,
+    "nominatim_lon": 11.306961,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.3947459,
+    "chosen_lon": 11.306961,
+    "distance_km": null
   },
   "Saint-Julien, France": {
     "place": "Saint-Julien, France",
     "region": "France / Bordeaux / Médoc / Saint-Julien",
-    "latitude": 47.4019947,
-    "longitude": 5.1364639
+    "nominatim_lat": 47.4019947,
+    "nominatim_lon": 5.1364639,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 47.4019947,
+    "chosen_lon": 5.1364639,
+    "distance_km": null
   },
   "Lalande-de-Pomerol, France": {
     "place": "Lalande-de-Pomerol, France",
     "region": "France / Bordeaux / Libournais / Lalande-de-Pomerol",
-    "latitude": 44.9560756,
-    "longitude": -0.2104434
+    "nominatim_lat": 44.9560756,
+    "nominatim_lon": -0.2104434,
+    "wikipedia_lat": 44.9567,
+    "wikipedia_lon": -0.2081,
+    "wikipedia_page": "Lalande-de-Pomerol",
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.9560756,
+    "chosen_lon": -0.2104434,
+    "distance_km": 0.2
   },
   "Côtes du Roussillon Villages Tautavel, France": {
     "place": "Côtes du Roussillon Villages Tautavel, France",
     "region": "France / Languedoc-Roussillon / Côtes du Roussillon / Côtes du Roussillon Villages / Côtes du Roussillon Villages Tautavel",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Bolgheri, Italie": {
     "place": "Bolgheri, Italie",
     "region": "Italie / Central Italy / Toscane / Bolgheri",
-    "latitude": 43.2340065,
-    "longitude": 10.6179334
+    "nominatim_lat": 43.2340065,
+    "nominatim_lon": 10.6179334,
+    "wikipedia_lat": 43.23388889,
+    "wikipedia_lon": 10.61722222,
+    "wikipedia_page": "Bolgheri",
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.2340065,
+    "chosen_lon": 10.6179334,
+    "distance_km": 0.06
   },
   "Colli Orientali del Friuli, Italie": {
     "place": "Colli Orientali del Friuli, Italie",
     "region": "Italie / Northern Italy / Frioul-Vénétie Julienne / Colli Orientali del Friuli",
-    "latitude": 46.002359,
-    "longitude": 13.4412506
+    "nominatim_lat": 46.002359,
+    "nominatim_lon": 13.4412506,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 46.002359,
+    "chosen_lon": 13.4412506,
+    "distance_km": null
   },
   "Campanie, Italie": {
     "place": "Campanie, Italie",
     "region": "Italie / Southern Italy / Campanie",
-    "latitude": 40.860672,
-    "longitude": 14.843984
+    "nominatim_lat": 40.860672,
+    "nominatim_lon": 14.843984,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 40.860672,
+    "chosen_lon": 14.843984,
+    "distance_km": null
   },
   "Chablis Premier Cru, France": {
     "place": "Chablis Premier Cru, France",
     "region": "France / Bourgogne / Chablis / Chablis Premier Cru",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "La Mancha, Espagne": {
     "place": "La Mancha, Espagne",
     "region": "Espagne / Castille / La Mancha",
-    "latitude": 28.3774367,
-    "longitude": -16.6977504
+    "nominatim_lat": 28.3774367,
+    "nominatim_lon": -16.6977504,
+    "wikipedia_lat": 39.40111111,
+    "wikipedia_lon": -3.015,
+    "wikipedia_page": "La Mancha",
+    "chosen_source": "wikipedia",
+    "chosen_lat": 39.40111111,
+    "chosen_lon": -3.015,
+    "distance_km": 1756.04
   },
   "Santenay 1er Cru La Maladière, France": {
     "place": "Santenay 1er Cru La Maladière, France",
     "region": "France / Bourgogne / Côte de Beaune / Santenay / Santenay Premier Cru / Santenay 1er Cru La Maladière",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Vermentino di Sardegna, Italie": {
     "place": "Vermentino di Sardegna, Italie",
     "region": "Italie / Southern Italy / Sardegna / Vermentino di Sardegna",
-    "latitude": 40.9195406,
-    "longitude": 9.4720744
+    "nominatim_lat": 40.9195406,
+    "nominatim_lon": 9.4720744,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 40.9195406,
+    "chosen_lon": 9.4720744,
+    "distance_km": null
   },
   "Irpinia Campi Taurasini, Italie": {
     "place": "Irpinia Campi Taurasini, Italie",
     "region": "Italie / Southern Italy / Campanie / Irpinia / Irpinia Campi Taurasini",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Valdepeñas, Espagne": {
     "place": "Valdepeñas, Espagne",
     "region": "Espagne / Castille / Valdepeñas",
-    "latitude": 38.7594573,
-    "longitude": -3.3847392
+    "nominatim_lat": 38.7594573,
+    "nominatim_lon": -3.3847392,
+    "wikipedia_lat": 38.76166667,
+    "wikipedia_lon": -3.385,
+    "wikipedia_page": "Valdepeñas",
+    "chosen_source": "nominatim",
+    "chosen_lat": 38.7594573,
+    "chosen_lon": -3.3847392,
+    "distance_km": 0.25
   },
   "Jumilla, Espagne": {
     "place": "Jumilla, Espagne",
     "region": "Espagne / Murcie / Jumilla",
-    "latitude": 38.4735408,
-    "longitude": -1.3285417
+    "nominatim_lat": 38.4735408,
+    "nominatim_lon": -1.3285417,
+    "wikipedia_lat": 38.47916667,
+    "wikipedia_lon": -1.325,
+    "wikipedia_page": "Jumilla",
+    "chosen_source": "nominatim",
+    "chosen_lat": 38.4735408,
+    "chosen_lon": -1.3285417,
+    "distance_km": 0.7
   },
   "Isola dei Nuraghi, Italie": {
     "place": "Isola dei Nuraghi, Italie",
     "region": "Italie / Southern Italy / Sardegna / Isola dei Nuraghi",
-    "latitude": 40.7092763,
-    "longitude": 9.698963
+    "nominatim_lat": 40.7092763,
+    "nominatim_lon": 9.698963,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 40.7092763,
+    "chosen_lon": 9.698963,
+    "distance_km": null
   },
   "Murcie, Espagne": {
     "place": "Murcie, Espagne",
     "region": "Espagne / Murcie",
-    "latitude": 37.9923795,
-    "longitude": -1.1305431
+    "nominatim_lat": 37.9923795,
+    "nominatim_lon": -1.1305431,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 37.9923795,
+    "chosen_lon": -1.1305431,
+    "distance_km": null
   },
   "Nasco di Cagliari, Italie": {
     "place": "Nasco di Cagliari, Italie",
     "region": "Italie / Southern Italy / Sardegna / Nasco di Cagliari",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Irpinia, Italie": {
     "place": "Irpinia, Italie",
     "region": "Italie / Southern Italy / Campanie / Irpinia",
-    "latitude": 39.2278067,
-    "longitude": 9.1185486
+    "nominatim_lat": 39.2278067,
+    "nominatim_lon": 9.1185486,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 39.2278067,
+    "chosen_lon": 9.1185486,
+    "distance_km": null
   },
   "Saint-Joseph, France": {
     "place": "Saint-Joseph, France",
     "region": "France / Vallée du Rhône / Nord de la vallée du Rhône / Saint-Joseph",
-    "latitude": 49.5344534,
-    "longitude": -1.529802
+    "nominatim_lat": 49.5344534,
+    "nominatim_lon": -1.529802,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 49.5344534,
+    "chosen_lon": -1.529802,
+    "distance_km": null
   },
   "Haut-Médoc, France": {
     "place": "Haut-Médoc, France",
     "region": "France / Bordeaux / Médoc / Haut-Médoc",
-    "latitude": 44.8736705,
-    "longitude": -0.6364252
+    "nominatim_lat": 44.8736705,
+    "nominatim_lon": -0.6364252,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.8736705,
+    "chosen_lon": -0.6364252,
+    "distance_km": null
   },
   "Sancerre, France": {
     "place": "Sancerre, France",
     "region": "France / La vallée de la Loire / Haute-Loire / Sancerre",
-    "latitude": 47.3306906,
-    "longitude": 2.8390454
+    "nominatim_lat": 47.3306906,
+    "nominatim_lon": 2.8390454,
+    "wikipedia_lat": 47.332,
+    "wikipedia_lon": 2.84,
+    "wikipedia_page": "Sancerre",
+    "chosen_source": "nominatim",
+    "chosen_lat": 47.3306906,
+    "chosen_lon": 2.8390454,
+    "distance_km": 0.16
   },
   "Cornas, France": {
     "place": "Cornas, France",
     "region": "France / Vallée du Rhône / Nord de la vallée du Rhône / Cornas",
-    "latitude": 44.963521,
-    "longitude": 4.847545
+    "nominatim_lat": 44.963521,
+    "nominatim_lon": 4.847545,
+    "wikipedia_lat": 44.9611,
+    "wikipedia_lon": 4.85,
+    "wikipedia_page": "Cornas",
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.963521,
+    "chosen_lon": 4.847545,
+    "distance_km": 0.33
   },
   "Languedoc, France": {
     "place": "Languedoc, France",
     "region": "France / Languedoc-Roussillon / Languedoc",
-    "latitude": 43.6542031,
-    "longitude": 3.6746699
+    "nominatim_lat": 43.6542031,
+    "nominatim_lon": 3.6746699,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.6542031,
+    "chosen_lon": 3.6746699,
+    "distance_km": null
   },
   "Chinon, France": {
     "place": "Chinon, France",
     "region": "France / La vallée de la Loire / Loire moyenne / Touraine / Chinon",
-    "latitude": 47.1667182,
-    "longitude": 0.2402095
+    "nominatim_lat": 47.1667182,
+    "nominatim_lon": 0.2402095,
+    "wikipedia_lat": 47.1678,
+    "wikipedia_lon": 0.2436,
+    "wikipedia_page": "Chinon",
+    "chosen_source": "nominatim",
+    "chosen_lat": 47.1667182,
+    "chosen_lon": 0.2402095,
+    "distance_km": 0.28
   },
   "Luberon, France": {
     "place": "Luberon, France",
     "region": "France / Vallée du Rhône / Sud de la vallée du Rhône / Luberon",
-    "latitude": 43.8559446,
-    "longitude": 5.5895866
+    "nominatim_lat": 43.8559446,
+    "nominatim_lon": 5.5895866,
+    "wikipedia_lat": 43.79611111,
+    "wikipedia_lon": 5.22388889,
+    "wikipedia_page": "Luberon",
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.8559446,
+    "chosen_lon": 5.5895866,
+    "distance_km": 30.08
   },
   "Lirac, France": {
     "place": "Lirac, France",
     "region": "France / Vallée du Rhône / Sud de la vallée du Rhône / Lirac",
-    "latitude": 44.0372,
-    "longitude": 4.69136
+    "nominatim_lat": 44.0372,
+    "nominatim_lon": 4.69136,
+    "wikipedia_lat": 44.0367,
+    "wikipedia_lon": 4.6908,
+    "wikipedia_page": "Lirac",
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.0372,
+    "chosen_lon": 4.69136,
+    "distance_km": 0.07
   },
   "Méditerranée, France": {
     "place": "Méditerranée, France",
     "region": "France / Vin de Pays / Méditerranée",
-    "latitude": 43.6487851,
-    "longitude": 2.3435684
+    "nominatim_lat": 43.6487851,
+    "nominatim_lon": 2.3435684,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.6487851,
+    "chosen_lon": 2.3435684,
+    "distance_km": null
   },
   "Quincy, France": {
     "place": "Quincy, France",
     "region": "France / La vallée de la Loire / Haute-Loire / Quincy",
-    "latitude": 47.133365,
-    "longitude": 2.1574605
+    "nominatim_lat": 47.133365,
+    "nominatim_lon": 2.1574605,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 47.133365,
+    "chosen_lon": 2.1574605,
+    "distance_km": null
   },
   "Bordeaux-supérieur, France": {
     "place": "Bordeaux-supérieur, France",
     "region": "France / Bordeaux / Bordeaux-supérieur",
-    "latitude": 43.3100249,
-    "longitude": -0.3721054
+    "nominatim_lat": 43.3100249,
+    "nominatim_lon": -0.3721054,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.3100249,
+    "chosen_lon": -0.3721054,
+    "distance_km": null
   },
   "Côtes du Rhône Villages, France": {
     "place": "Côtes du Rhône Villages, France",
     "region": "France / Vallée du Rhône / Sud de la vallée du Rhône / Côtes-du-Rhône / Côtes du Rhône Villages",
-    "latitude": 45.4560073,
-    "longitude": 5.5185331
+    "nominatim_lat": 45.4560073,
+    "nominatim_lon": 5.5185331,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.4560073,
+    "chosen_lon": 5.5185331,
+    "distance_km": null
   },
   "Blaye - Côtes de Bordeaux, France": {
     "place": "Blaye - Côtes de Bordeaux, France",
     "region": "France / Bordeaux / Côtes de Bordeaux / Blaye - Côtes de Bordeaux",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Saint-Amour, France": {
     "place": "Saint-Amour, France",
     "region": "France / Beaujolais / Saint-Amour",
-    "latitude": 46.4358751,
-    "longitude": 5.3421832
+    "nominatim_lat": 46.4358751,
+    "nominatim_lon": 5.3421832,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 46.4358751,
+    "chosen_lon": 5.3421832,
+    "distance_km": null
   },
   "Saint-Émilion, France": {
     "place": "Saint-Émilion, France",
     "region": "France / Bordeaux / Libournais / Saint-Émilion",
-    "latitude": 44.8946048,
-    "longitude": -0.1749547
+    "nominatim_lat": 44.8946048,
+    "nominatim_lon": -0.1749547,
+    "wikipedia_lat": 44.8936,
+    "wikipedia_lon": -0.1547,
+    "wikipedia_page": "Saint-Émilion",
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.8946048,
+    "chosen_lon": -0.1749547,
+    "distance_km": 1.6
   },
   "Valpolicella Ripasso Classico, Italie": {
     "place": "Valpolicella Ripasso Classico, Italie",
     "region": "Italie / Northern Italy / Vénétie / Valpolicella / Valpolicella Ripasso / Valpolicella Ripasso Classico",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Bierzo, Espagne": {
     "place": "Bierzo, Espagne",
     "region": "Espagne / Castille-et-León / Bierzo",
-    "latitude": 42.6526503,
-    "longitude": -6.623184
+    "nominatim_lat": 42.6526503,
+    "nominatim_lon": -6.623184,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 42.6526503,
+    "chosen_lon": -6.623184,
+    "distance_km": null
   },
   "Côtes du Roussillon Villages, France": {
     "place": "Côtes du Roussillon Villages, France",
     "region": "France / Languedoc-Roussillon / Côtes du Roussillon / Côtes du Roussillon Villages",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Moulin-à-Vent, France": {
     "place": "Moulin-à-Vent, France",
     "region": "France / Beaujolais / Moulin-à-Vent",
-    "latitude": 48.3531107,
-    "longitude": 1.7606778
+    "nominatim_lat": 48.3531107,
+    "nominatim_lon": 1.7606778,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 48.3531107,
+    "chosen_lon": 1.7606778,
+    "distance_km": null
   },
   "Vouvray, France": {
     "place": "Vouvray, France",
     "region": "France / La vallée de la Loire / Loire moyenne / Touraine / Vouvray",
-    "latitude": 47.4136687,
-    "longitude": 0.7998446
+    "nominatim_lat": 47.4136687,
+    "nominatim_lon": 0.7998446,
+    "wikipedia_lat": 47.4128,
+    "wikipedia_lon": 0.8,
+    "wikipedia_page": "Vouvray",
+    "chosen_source": "nominatim",
+    "chosen_lat": 47.4136687,
+    "chosen_lon": 0.7998446,
+    "distance_km": 0.1
   },
   "Corse Figari, France": {
     "place": "Corse Figari, France",
     "region": "France / Corse / Corse Figari",
-    "latitude": 41.5032668,
-    "longitude": 9.0983266
+    "nominatim_lat": 41.5032668,
+    "nominatim_lon": 9.0983266,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 41.5032668,
+    "chosen_lon": 9.0983266,
+    "distance_km": null
   },
   "Mercurey, France": {
     "place": "Mercurey, France",
     "region": "France / Bourgogne / Côte Chalonnaise / Mercurey",
-    "latitude": 46.8396584,
-    "longitude": 4.7189272
+    "nominatim_lat": 46.8396584,
+    "nominatim_lon": 4.7189272,
+    "wikipedia_lat": 46.84,
+    "wikipedia_lon": 4.7197,
+    "wikipedia_page": "Mercurey",
+    "chosen_source": "nominatim",
+    "chosen_lat": 46.8396584,
+    "chosen_lon": 4.7189272,
+    "distance_km": 0.07
   },
   "Saumur-Champigny, France": {
     "place": "Saumur-Champigny, France",
     "region": "France / La vallée de la Loire / Loire moyenne / Saumur / Saumur-Champigny",
-    "latitude": 47.2322933,
-    "longitude": -0.0211322
+    "nominatim_lat": 47.2322933,
+    "nominatim_lon": -0.0211322,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 47.2322933,
+    "chosen_lon": -0.0211322,
+    "distance_km": null
   },
   "Bourgogne, France": {
     "place": "Bourgogne, France",
     "region": "France / Bourgogne",
-    "latitude": 47.2780873,
-    "longitude": 4.2224863
+    "nominatim_lat": 47.2780873,
+    "nominatim_lon": 4.2224863,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 47.2780873,
+    "chosen_lon": 4.2224863,
+    "distance_km": null
   },
   "Côte-Rôtie, France": {
     "place": "Côte-Rôtie, France",
     "region": "France / Vallée du Rhône / Nord de la vallée du Rhône / Côte-Rôtie",
-    "latitude": 44.7267925,
-    "longitude": -0.3900425
+    "nominatim_lat": 44.7267925,
+    "nominatim_lon": -0.3900425,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.7267925,
+    "chosen_lon": -0.3900425,
+    "distance_km": null
   },
   "Saint-Aubin 1er Cru Le Charmois, France": {
     "place": "Saint-Aubin 1er Cru Le Charmois, France",
     "region": "France / Bourgogne / Côte de Beaune / Saint-Aubin / Saint-Aubin Premier Cru / Saint-Aubin 1er Cru Le Charmois",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Morgon, France": {
     "place": "Morgon, France",
     "region": "France / Beaujolais / Morgon",
-    "latitude": 46.1443559,
-    "longitude": 4.6781061
+    "nominatim_lat": 46.1443559,
+    "nominatim_lon": 4.6781061,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 46.1443559,
+    "chosen_lon": 4.6781061,
+    "distance_km": null
   },
   "Castillon - Côtes de Bordeaux, France": {
     "place": "Castillon - Côtes de Bordeaux, France",
     "region": "France / Bordeaux / Côtes de Bordeaux / Castillon - Côtes de Bordeaux",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Condrieu, France": {
     "place": "Condrieu, France",
     "region": "France / Vallée du Rhône / Nord de la vallée du Rhône / Condrieu",
-    "latitude": 45.4624294,
-    "longitude": 4.7676199
+    "nominatim_lat": 45.4624294,
+    "nominatim_lon": 4.7676199,
+    "wikipedia_lat": 45.4639,
+    "wikipedia_lon": 4.7683,
+    "wikipedia_page": "Condrieu",
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.4624294,
+    "chosen_lon": 4.7676199,
+    "distance_km": 0.17
   },
   "Montpeyroux, France": {
     "place": "Montpeyroux, France",
     "region": "France / Languedoc-Roussillon / Languedoc / Montpeyroux",
-    "latitude": 44.9211111,
-    "longitude": 0.0577778
+    "nominatim_lat": 44.9211111,
+    "nominatim_lon": 0.0577778,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.9211111,
+    "chosen_lon": 0.0577778,
+    "distance_km": null
   },
   "Beaune 1er Cru Aux Coucherias, France": {
     "place": "Beaune 1er Cru Aux Coucherias, France",
     "region": "France / Bourgogne / Côte de Beaune / Beaune / Beaune Premier Cru / Beaune 1er Cru Aux Coucherias",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Chablis 1er Cru Vau Ligneau, France": {
     "place": "Chablis 1er Cru Vau Ligneau, France",
     "region": "France / Bourgogne / Chablis / Chablis Premier Cru / Chablis 1er Cru Vau Ligneau",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Mâcon-Loché, France": {
     "place": "Mâcon-Loché, France",
     "region": "France / Bourgogne / Mâconnais / Mâcon / Mâcon-Loché",
-    "latitude": 46.2829122,
-    "longitude": 4.7788492
+    "nominatim_lat": 46.2829122,
+    "nominatim_lon": 4.7788492,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 46.2829122,
+    "chosen_lon": 4.7788492,
+    "distance_km": null
   },
   "Gioia del Colle, Italie": {
     "place": "Gioia del Colle, Italie",
     "region": "Italie / Southern Italy / Pouilles / Gioia del Colle",
-    "latitude": 40.796728,
-    "longitude": 16.92359
+    "nominatim_lat": 40.796728,
+    "nominatim_lon": 16.92359,
+    "wikipedia_lat": 40.8,
+    "wikipedia_lon": 16.93333333,
+    "wikipedia_page": "Gioia del Colle",
+    "chosen_source": "nominatim",
+    "chosen_lat": 40.796728,
+    "chosen_lon": 16.92359,
+    "distance_km": 0.9
   },
   "Lugana, Italie": {
     "place": "Lugana, Italie",
     "region": "Italie / Northern Italy / Lombardie / Lugana",
-    "latitude": 45.4600534,
-    "longitude": 10.6196897
+    "nominatim_lat": 45.4600534,
+    "nominatim_lon": 10.6196897,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.4600534,
+    "chosen_lon": 10.6196897,
+    "distance_km": null
   },
   "Vigneti delle Dolomiti, Italie": {
     "place": "Vigneti delle Dolomiti, Italie",
     "region": "Italie / Northern Italy / Trentin-Haut-Adige / Vigneti delle Dolomiti",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Rueda, Espagne": {
     "place": "Rueda, Espagne",
     "region": "Espagne / Castille-et-León / Rueda",
-    "latitude": 41.4129785,
-    "longitude": -4.9597533
+    "nominatim_lat": 41.4129785,
+    "nominatim_lon": -4.9597533,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 41.4129785,
+    "chosen_lon": -4.9597533,
+    "distance_km": null
   },
   "Castille, Espagne": {
     "place": "Castille, Espagne",
     "region": "Espagne / Castille",
-    "latitude": 41.55005,
-    "longitude": -5.1387401
+    "nominatim_lat": 41.55005,
+    "nominatim_lon": -5.1387401,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 41.55005,
+    "chosen_lon": -5.1387401,
+    "distance_km": null
   },
   "Rías Baixas, Espagne": {
     "place": "Rías Baixas, Espagne",
     "region": "Espagne / Galice / Rías Baixas",
-    "latitude": 42.8819145,
-    "longitude": -8.5487998
+    "nominatim_lat": 42.8819145,
+    "nominatim_lon": -8.5487998,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 42.8819145,
+    "chosen_lon": -8.5487998,
+    "distance_km": null
   },
   "Médoc, France": {
     "place": "Médoc, France",
     "region": "France / Bordeaux / Médoc",
-    "latitude": 45.175674,
-    "longitude": -0.9576089
+    "nominatim_lat": 45.175674,
+    "nominatim_lon": -0.9576089,
+    "wikipedia_lat": 45,
+    "wikipedia_lon": -1,
+    "wikipedia_page": "Médoc",
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.175674,
+    "chosen_lon": -0.9576089,
+    "distance_km": 19.82
   },
   "Montagne-Saint-Émilion, France": {
     "place": "Montagne-Saint-Émilion, France",
     "region": "France / Bordeaux / Libournais / Saint-Émilion / Montagne-Saint-Émilion",
-    "latitude": 44.9101908,
-    "longitude": -0.1512619
+    "nominatim_lat": 44.9101908,
+    "nominatim_lon": -0.1512619,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.9101908,
+    "chosen_lon": -0.1512619,
+    "distance_km": null
   },
   "Barbera d'Alba, Italie": {
     "place": "Barbera d'Alba, Italie",
     "region": "Italie / Northern Italy / Piémont / Barbera d'Alba",
-    "latitude": 44.7660997,
-    "longitude": 8.0387653
+    "nominatim_lat": 44.7660997,
+    "nominatim_lon": 8.0387653,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.7660997,
+    "chosen_lon": 8.0387653,
+    "distance_km": null
   },
   "Provincia di Pavia, Italie": {
     "place": "Provincia di Pavia, Italie",
     "region": "Italie / Northern Italy / Lombardie / Provincia di Pavia",
-    "latitude": 45.0368547,
-    "longitude": 9.1378251
+    "nominatim_lat": 45.0368547,
+    "nominatim_lon": 9.1378251,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.0368547,
+    "chosen_lon": 9.1378251,
+    "distance_km": null
   },
   "Costières-de-Nîmes, France": {
     "place": "Costières-de-Nîmes, France",
     "region": "France / Vallée du Rhône / Sud de la vallée du Rhône / Costières-de-Nîmes",
-    "latitude": 43.825907,
-    "longitude": 4.377278
+    "nominatim_lat": 43.825907,
+    "nominatim_lon": 4.377278,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.825907,
+    "chosen_lon": 4.377278,
+    "distance_km": null
   },
   "Beneventano, Italie": {
     "place": "Beneventano, Italie",
     "region": "Italie / Southern Italy / Campanie / Beneventano",
-    "latitude": 36.8100217,
-    "longitude": 14.8175347
+    "nominatim_lat": 36.8100217,
+    "nominatim_lon": 14.8175347,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 36.8100217,
+    "chosen_lon": 14.8175347,
+    "distance_km": null
   },
   "Greco di Tufo, Italie": {
     "place": "Greco di Tufo, Italie",
     "region": "Italie / Southern Italy / Campanie / Greco di Tufo",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Menfi, Italie": {
     "place": "Menfi, Italie",
     "region": "Italie / Southern Italy / Terre Siciliane / Menfi",
-    "latitude": 37.606639,
-    "longitude": 12.967843
+    "nominatim_lat": 37.606639,
+    "nominatim_lon": 12.967843,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 37.606639,
+    "chosen_lon": 12.967843,
+    "distance_km": null
   },
   "Sicilia, Italie": {
     "place": "Sicilia, Italie",
     "region": "Italie / Southern Italy / Terre Siciliane / Sicilia",
-    "latitude": 37.587794,
-    "longitude": 14.155048
+    "nominatim_lat": 37.587794,
+    "nominatim_lon": 14.155048,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 37.587794,
+    "chosen_lon": 14.155048,
+    "distance_km": null
   },
   "La Clape, France": {
     "place": "La Clape, France",
     "region": "France / Languedoc-Roussillon / Languedoc / La Clape",
-    "latitude": 42.9675839,
-    "longitude": 2.5482974
+    "nominatim_lat": 42.9675839,
+    "nominatim_lon": 2.5482974,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 42.9675839,
+    "chosen_lon": 2.5482974,
+    "distance_km": null
   },
   "Pommard, France": {
     "place": "Pommard, France",
     "region": "France / Bourgogne / Côte de Beaune / Pommard",
-    "latitude": 47.0087919,
-    "longitude": 4.7962295
+    "nominatim_lat": 47.0087919,
+    "nominatim_lon": 4.7962295,
+    "wikipedia_lat": 47.01,
+    "wikipedia_lon": 4.7958,
+    "wikipedia_page": "Pommard",
+    "chosen_source": "nominatim",
+    "chosen_lat": 47.0087919,
+    "chosen_lon": 4.7962295,
+    "distance_km": 0.14
   },
   "Savigny-lès-Beaune 1er Cru Les Lavières, France": {
     "place": "Savigny-lès-Beaune 1er Cru Les Lavières, France",
     "region": "France / Bourgogne / Côte de Beaune / Savigny-lès-Beaune / Savigny-lès-Beaune Premier Cru / Savigny-lès-Beaune 1er Cru Les Lavières",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Madiran, France": {
     "place": "Madiran, France",
     "region": "France / Sud-Ouest de la France / Pyrénées / Madiran",
-    "latitude": 43.5502022,
-    "longitude": -0.0580853
+    "nominatim_lat": 43.5502022,
+    "nominatim_lon": -0.0580853,
+    "wikipedia_lat": 43.549516,
+    "wikipedia_lon": -0.05787,
+    "wikipedia_page": "Madiran",
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.5502022,
+    "chosen_lon": -0.0580853,
+    "distance_km": 0.08
   },
   "Ventoux, France": {
     "place": "Ventoux, France",
     "region": "France / Vallée du Rhône / Sud de la vallée du Rhône / Ventoux",
-    "latitude": 48.6778082,
-    "longitude": 2.1768592
+    "nominatim_lat": 48.6778082,
+    "nominatim_lon": 2.1768592,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 48.6778082,
+    "chosen_lon": 2.1768592,
+    "distance_km": null
   },
   "Côtes de Provence, France": {
     "place": "Côtes de Provence, France",
     "region": "France / Provence / Côtes de Provence",
-    "latitude": 43.4370436,
-    "longitude": 6.6527687
+    "nominatim_lat": 43.4368033,
+    "nominatim_lon": 6.6569158,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.4368033,
+    "chosen_lon": 6.6569158,
+    "distance_km": null
   },
   "Trebbiano d'Abruzzo, Italie": {
     "place": "Trebbiano d'Abruzzo, Italie",
     "region": "Italie / Central Italy / Abruzzo (Abruzzes) / Trebbiano d'Abruzzo",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Valpolicella Classico, Italie": {
     "place": "Valpolicella Classico, Italie",
     "region": "Italie / Northern Italy / Vénétie / Valpolicella / Valpolicella Classico",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Entre-Deux-Mers, France": {
     "place": "Entre-Deux-Mers, France",
     "region": "France / Bordeaux / Entre-Deux-Mers",
-    "latitude": 44.7934956,
-    "longitude": -0.1248404
+    "nominatim_lat": 44.7934956,
+    "nominatim_lon": -0.1248404,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.7934956,
+    "chosen_lon": -0.1248404,
+    "distance_km": null
   },
   "Moulis-en-Médoc, France": {
     "place": "Moulis-en-Médoc, France",
     "region": "France / Bordeaux / Médoc / Moulis-en-Médoc",
-    "latitude": 45.0564852,
-    "longitude": -0.7736381
+    "nominatim_lat": 45.0564852,
+    "nominatim_lon": -0.7736381,
+    "wikipedia_lat": 45.0603,
+    "wikipedia_lon": -0.7692,
+    "wikipedia_page": "Moulis-en-Médoc",
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.0564852,
+    "chosen_lon": -0.7736381,
+    "distance_km": 0.55
   },
   "Corse, France": {
     "place": "Corse, France",
     "region": "France / Corse",
-    "latitude": 42.188098,
-    "longitude": 9.0683139
+    "nominatim_lat": 42.188098,
+    "nominatim_lon": 9.0683139,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 42.188098,
+    "chosen_lon": 9.0683139,
+    "distance_km": null
   },
   "Chambolle-Musigny, France": {
     "place": "Chambolle-Musigny, France",
     "region": "France / Bourgogne / Côte de Nuits / Chambolle-Musigny",
-    "latitude": 47.1864158,
-    "longitude": 4.9533347
+    "nominatim_lat": 47.1864158,
+    "nominatim_lon": 4.9533347,
+    "wikipedia_lat": 47.1864,
+    "wikipedia_lon": 4.9533,
+    "wikipedia_page": "Chambolle-Musigny",
+    "chosen_source": "nominatim",
+    "chosen_lat": 47.1864158,
+    "chosen_lon": 4.9533347,
+    "distance_km": 0.0
   },
   "Santenay, France": {
     "place": "Santenay, France",
     "region": "France / Bourgogne / Côte de Beaune / Santenay",
-    "latitude": 46.9115071,
-    "longitude": 4.6996302
+    "nominatim_lat": 46.9115071,
+    "nominatim_lon": 4.6996302,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 46.9115071,
+    "chosen_lon": 4.6996302,
+    "distance_km": null
   },
   "Menetou-Salon, France": {
     "place": "Menetou-Salon, France",
     "region": "France / La vallée de la Loire / Haute-Loire / Menetou-Salon",
-    "latitude": 47.2315397,
-    "longitude": 2.4886282
+    "nominatim_lat": 47.2315397,
+    "nominatim_lon": 2.4886282,
+    "wikipedia_lat": 47.2328,
+    "wikipedia_lon": 2.4872,
+    "wikipedia_page": "Menetou-Salon",
+    "chosen_source": "nominatim",
+    "chosen_lat": 47.2315397,
+    "chosen_lon": 2.4886282,
+    "distance_km": 0.18
   },
   "Bandol, France": {
     "place": "Bandol, France",
     "region": "France / Provence / Bandol",
-    "latitude": 43.1357717,
-    "longitude": 5.7523647
+    "nominatim_lat": 43.1357717,
+    "nominatim_lon": 5.7523647,
+    "wikipedia_lat": 43.137094,
+    "wikipedia_lon": 5.731603,
+    "wikipedia_page": "Bandol",
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.1357717,
+    "chosen_lon": 5.7523647,
+    "distance_km": 1.69
   },
   "Bourgogne Hautes Côtes de Beaune, France": {
     "place": "Bourgogne Hautes Côtes de Beaune, France",
     "region": "France / Bourgogne / Bourgogne Hautes Côtes de Beaune",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Bourgueil, France": {
     "place": "Bourgueil, France",
     "region": "France / La vallée de la Loire / Loire moyenne / Touraine / Bourgueil",
-    "latitude": 47.2827691,
-    "longitude": 0.1788873
+    "nominatim_lat": 47.2827691,
+    "nominatim_lon": 0.1788873,
+    "wikipedia_lat": 47.2831,
+    "wikipedia_lon": 0.1692,
+    "wikipedia_page": "Bourgueil",
+    "chosen_source": "nominatim",
+    "chosen_lat": 47.2827691,
+    "chosen_lon": 0.1788873,
+    "distance_km": 0.73
   },
   "Crozes-Hermitage, France": {
     "place": "Crozes-Hermitage, France",
     "region": "France / Vallée du Rhône / Nord de la vallée du Rhône / Crozes-Hermitage",
-    "latitude": 45.0907,
-    "longitude": 4.84592
+    "nominatim_lat": 45.0907,
+    "nominatim_lon": 4.84592,
+    "wikipedia_lat": 45.0908,
+    "wikipedia_lon": 4.8467,
+    "wikipedia_page": "Crozes-Hermitage",
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.0907,
+    "chosen_lon": 4.84592,
+    "distance_km": 0.06
   },
   "Rully, France": {
     "place": "Rully, France",
     "region": "France / Bourgogne / Côte Chalonnaise / Rully",
-    "latitude": 49.2359777,
-    "longitude": 2.7280667
+    "nominatim_lat": 49.2359777,
+    "nominatim_lon": 2.7280667,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 49.2359777,
+    "chosen_lon": 2.7280667,
+    "distance_km": null
   },
   "Canon-Fronsac, France": {
     "place": "Canon-Fronsac, France",
     "region": "France / Bordeaux / Libournais / Canon-Fronsac",
-    "latitude": 44.9252738,
-    "longitude": -0.2988797
+    "nominatim_lat": 44.9261675,
+    "nominatim_lon": -0.3018095,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.9261675,
+    "chosen_lon": -0.3018095,
+    "distance_km": null
   },
   "Estrémadure, Espagne": {
     "place": "Estrémadure, Espagne",
     "region": "Espagne / Estrémadure",
-    "latitude": 39.1748426,
-    "longitude": -6.1529891
+    "nominatim_lat": 39.1748426,
+    "nominatim_lon": -6.1529891,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 39.1748426,
+    "chosen_lon": -6.1529891,
+    "distance_km": null
   },
   "Terre di Chieti, Italie": {
     "place": "Terre di Chieti, Italie",
     "region": "Italie / Central Italy / Abruzzo (Abruzzes) / Terre di Chieti",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Brindisi, Italie": {
     "place": "Brindisi, Italie",
     "region": "Italie / Southern Italy / Pouilles / Brindisi",
-    "latitude": 40.6358599,
-    "longitude": 17.6884975
+    "nominatim_lat": 40.6358599,
+    "nominatim_lon": 17.6884975,
+    "wikipedia_lat": 40.63333333,
+    "wikipedia_lon": 17.93333333,
+    "wikipedia_page": "Brindisi",
+    "chosen_source": "nominatim",
+    "chosen_lat": 40.6358599,
+    "chosen_lon": 17.6884975,
+    "distance_km": 20.66
   },
   "Valence, Espagne": {
     "place": "Valence, Espagne",
     "region": "Espagne / Valence",
-    "latitude": 39.4697065,
-    "longitude": -0.3763353
+    "nominatim_lat": 39.4697065,
+    "nominatim_lon": -0.3763353,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 39.4697065,
+    "chosen_lon": -0.3763353,
+    "distance_km": null
   },
   "Chénas, France": {
     "place": "Chénas, France",
     "region": "France / Beaujolais / Chénas",
-    "latitude": 46.2119329,
-    "longitude": 4.7190138
+    "nominatim_lat": 46.2119329,
+    "nominatim_lon": 4.7190138,
+    "wikipedia_lat": 46.2131,
+    "wikipedia_lon": 4.7203,
+    "wikipedia_page": "Chénas",
+    "chosen_source": "nominatim",
+    "chosen_lat": 46.2119329,
+    "chosen_lon": 4.7190138,
+    "distance_km": 0.16
   },
   "Chianti, Italie": {
     "place": "Chianti, Italie",
     "region": "Italie / Central Italy / Toscane / Chianti",
-    "latitude": 43.5824597,
-    "longitude": 11.3168731
+    "nominatim_lat": 43.5824597,
+    "nominatim_lon": 11.3168731,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.5824597,
+    "chosen_lon": 11.3168731,
+    "distance_km": null
   },
   "Mâcon Villages, France": {
     "place": "Mâcon Villages, France",
     "region": "France / Bourgogne / Mâconnais / Mâcon / Mâcon Villages",
-    "latitude": 46.3205221,
-    "longitude": 4.8182182
+    "nominatim_lat": 46.3205221,
+    "nominatim_lon": 4.8182182,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 46.3205221,
+    "chosen_lon": 4.8182182,
+    "distance_km": null
   },
   "Chassagne-Montrachet 1er Cru La Boudriotte, France": {
     "place": "Chassagne-Montrachet 1er Cru La Boudriotte, France",
     "region": "France / Bourgogne / Côte de Beaune / Chassagne-Montrachet / Chassagne-Montrachet Premier Cru / Chassagne-Montrachet 1er Cru La Boudriotte",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Friuli Grave, Italie": {
     "place": "Friuli Grave, Italie",
     "region": "Italie / Northern Italy / Frioul-Vénétie Julienne / Friuli Grave",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Langhe, Italie": {
     "place": "Langhe, Italie",
     "region": "Italie / Northern Italy / Piémont / Langhe",
-    "latitude": 44.493036,
-    "longitude": 7.974639
+    "nominatim_lat": 44.493036,
+    "nominatim_lon": 7.974639,
+    "wikipedia_lat": 44.61,
+    "wikipedia_lon": 7.97,
+    "wikipedia_page": "Langhe",
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.493036,
+    "chosen_lon": 7.974639,
+    "distance_km": 13.01
   },
   "Beaune, France": {
     "place": "Beaune, France",
     "region": "France / Bourgogne / Côte de Beaune / Beaune",
-    "latitude": 47.0239064,
-    "longitude": 4.8380426
+    "nominatim_lat": 47.0239064,
+    "nominatim_lon": 4.8380426,
+    "wikipedia_lat": 47.025,
+    "wikipedia_lon": 4.8397,
+    "wikipedia_page": "Beaune",
+    "chosen_source": "nominatim",
+    "chosen_lat": 47.0239064,
+    "chosen_lon": 4.8380426,
+    "distance_km": 0.17
   },
   "Collines Rhodaniennes, France": {
     "place": "Collines Rhodaniennes, France",
     "region": "France / Vin de Pays / Comtés Rhodaniens / Collines Rhodaniennes",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Pic Saint-Loup, France": {
     "place": "Pic Saint-Loup, France",
     "region": "France / Languedoc-Roussillon / Languedoc / Pic Saint-Loup",
-    "latitude": 43.7788923,
-    "longitude": 3.81117
+    "nominatim_lat": 43.7788923,
+    "nominatim_lon": 3.81117,
+    "wikipedia_lat": 43.77861111,
+    "wikipedia_lon": 3.81138889,
+    "wikipedia_page": "Pic Saint-Loup",
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.7788923,
+    "chosen_lon": 3.81117,
+    "distance_km": 0.04
   },
   "Vins des Allobroges, France": {
     "place": "Vins des Allobroges, France",
     "region": "France / Vin de Pays / Comtés Rhodaniens / Vins des Allobroges",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Barbaresco, Italie": {
     "place": "Barbaresco, Italie",
     "region": "Italie / Northern Italy / Piémont / Barbaresco",
-    "latitude": 44.7254469,
-    "longitude": 8.0806959
+    "nominatim_lat": 44.7254469,
+    "nominatim_lon": 8.0806959,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.7254469,
+    "chosen_lon": 8.0806959,
+    "distance_km": null
   },
   "Côte de Brouilly, France": {
     "place": "Côte de Brouilly, France",
     "region": "France / Beaujolais / Côte de Brouilly",
-    "latitude": 46.1005732,
-    "longitude": 4.654668
+    "nominatim_lat": 46.1005732,
+    "nominatim_lon": 4.654668,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 46.1005732,
+    "chosen_lon": 4.654668,
+    "distance_km": null
   },
   "Bourgogne Aligoté, France": {
     "place": "Bourgogne Aligoté, France",
     "region": "France / Bourgogne / Bourgogne Aligoté",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Viré-Clessé, France": {
     "place": "Viré-Clessé, France",
     "region": "France / Bourgogne / Mâconnais / Viré-Clessé",
-    "latitude": 46.4493784,
-    "longitude": 4.8436685
+    "nominatim_lat": 46.4493784,
+    "nominatim_lon": 4.8436685,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 46.4493784,
+    "chosen_lon": 4.8436685,
+    "distance_km": null
   },
   "Rubicone, Italie": {
     "place": "Rubicone, Italie",
     "region": "Italie / Northern Italy / Émilie-Romagne / Emilia / Rubicone",
-    "latitude": 44.0660923,
-    "longitude": 12.3609442
+    "nominatim_lat": 44.0660923,
+    "nominatim_lon": 12.3609442,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.0660923,
+    "chosen_lon": 12.3609442,
+    "distance_km": null
   },
   "Costers del Segre, Espagne": {
     "place": "Costers del Segre, Espagne",
     "region": "Espagne / Catalogne / Costers del Segre",
-    "latitude": 41.5022982,
-    "longitude": 0.827399
+    "nominatim_lat": 41.5022982,
+    "nominatim_lon": 0.827399,
+    "wikipedia_lat": 41.60222222,
+    "wikipedia_lon": 0.57305556,
+    "wikipedia_page": "Costers del Segre",
+    "chosen_source": "nominatim",
+    "chosen_lat": 41.5022982,
+    "chosen_lon": 0.827399,
+    "distance_km": 23.9
   },
   "Volnay, France": {
     "place": "Volnay, France",
     "region": "France / Bourgogne / Côte de Beaune / Volnay",
-    "latitude": 47.0016955,
-    "longitude": 4.7811102
+    "nominatim_lat": 47.0016955,
+    "nominatim_lon": 4.7811102,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 47.0016955,
+    "chosen_lon": 4.7811102,
+    "distance_km": null
   },
   "Corbières-Boutenac, France": {
     "place": "Corbières-Boutenac, France",
     "region": "France / Languedoc-Roussillon / Corbières / Corbières-Boutenac",
-    "latitude": 43.1491503,
-    "longitude": 2.7954157
+    "nominatim_lat": 43.1491503,
+    "nominatim_lon": 2.7954157,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.1491503,
+    "chosen_lon": 2.7954157,
+    "distance_km": null
   },
   "Aloxe-Corton 1er Cru Les Maréchaudes, France": {
     "place": "Aloxe-Corton 1er Cru Les Maréchaudes, France",
     "region": "France / Bourgogne / Côte de Beaune / Aloxe-Corton / Aloxe-Corton Premier Cru / Aloxe-Corton 1er Cru Les Maréchaudes",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Pouilly-Vinzelles, France": {
     "place": "Pouilly-Vinzelles, France",
     "region": "France / Bourgogne / Mâconnais / Pouilly-Vinzelles",
-    "latitude": 46.2789102,
-    "longitude": 4.7825637
+    "nominatim_lat": 46.2789102,
+    "nominatim_lon": 4.7825637,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 46.2789102,
+    "chosen_lon": 4.7825637,
+    "distance_km": null
   },
   "Lussac-Saint-Émilion, France": {
     "place": "Lussac-Saint-Émilion, France",
     "region": "France / Bordeaux / Libournais / Saint-Émilion / Lussac-Saint-Émilion",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Languedoc-Roussillon, France": {
     "place": "Languedoc-Roussillon, France",
     "region": "France / Languedoc-Roussillon",
-    "latitude": 43.6542031,
-    "longitude": 3.6746699
+    "nominatim_lat": 43.6542031,
+    "nominatim_lon": 3.6746699,
+    "wikipedia_lat": 43.66666667,
+    "wikipedia_lon": 3.16666667,
+    "wikipedia_page": "Languedoc-Roussillon",
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.6542031,
+    "chosen_lon": 3.6746699,
+    "distance_km": 40.89
   },
   "Navarra, Espagne": {
     "place": "Navarra, Espagne",
     "region": "Espagne / Navarra",
-    "latitude": 42.6125488,
-    "longitude": -1.8307877
+    "nominatim_lat": 42.6125488,
+    "nominatim_lon": -1.8307877,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 42.6125488,
+    "chosen_lon": -1.8307877,
+    "distance_km": null
   },
   "Empordà, Espagne": {
     "place": "Empordà, Espagne",
     "region": "Espagne / Catalogne / Empordà",
-    "latitude": 42.2902495,
-    "longitude": 2.9751099
+    "nominatim_lat": 42.2902495,
+    "nominatim_lon": 2.9751099,
+    "wikipedia_lat": 42.08194444,
+    "wikipedia_lon": 3.07194444,
+    "wikipedia_page": "Empordà",
+    "chosen_source": "nominatim",
+    "chosen_lat": 42.2902495,
+    "chosen_lon": 2.9751099,
+    "distance_km": 24.5
   },
   "Minervois, France": {
     "place": "Minervois, France",
     "region": "France / Languedoc-Roussillon / Minervois",
-    "latitude": 43.2718,
-    "longitude": 2.52099
+    "nominatim_lat": 43.2718,
+    "nominatim_lon": 2.52099,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.2718,
+    "chosen_lon": 2.52099,
+    "distance_km": null
   },
   "Venezia Giulia, Italie": {
     "place": "Venezia Giulia, Italie",
     "region": "Italie / Northern Italy / Frioul-Vénétie Julienne / Venezia Giulia",
-    "latitude": 44.4782982,
-    "longitude": 11.3818595
+    "nominatim_lat": 44.4783119,
+    "nominatim_lon": 11.3819068,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.4783119,
+    "chosen_lon": 11.3819068,
+    "distance_km": null
   },
   "Castel del Monte, Italie": {
     "place": "Castel del Monte, Italie",
     "region": "Italie / Southern Italy / Pouilles / Castel del Monte",
-    "latitude": 41.0847439,
-    "longitude": 16.2711145
+    "nominatim_lat": 41.0847439,
+    "nominatim_lon": 16.2711145,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 41.0847439,
+    "chosen_lon": 16.2711145,
+    "distance_km": null
   },
   "Alicante, Espagne": {
     "place": "Alicante, Espagne",
     "region": "Espagne / Valence / Alicante",
-    "latitude": 38.3436365,
-    "longitude": -0.4881708
+    "nominatim_lat": 38.3436365,
+    "nominatim_lon": -0.4881708,
+    "wikipedia_lat": 38.34527778,
+    "wikipedia_lon": -0.48305556,
+    "wikipedia_page": "Alicante",
+    "chosen_source": "nominatim",
+    "chosen_lat": 38.3436365,
+    "chosen_lon": -0.4881708,
+    "distance_km": 0.48
   },
   "Dominio de Valdepusa, Espagne": {
     "place": "Dominio de Valdepusa, Espagne",
     "region": "Espagne / Castille / Dominio de Valdepusa",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Sierras de Málaga, Espagne": {
     "place": "Sierras de Málaga, Espagne",
     "region": "Espagne / Andalucía / Sierras de Málaga",
-    "latitude": 36.9220029,
-    "longitude": -4.0946425
+    "nominatim_lat": 36.9220029,
+    "nominatim_lon": -4.0946425,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 36.9220029,
+    "chosen_lon": -4.0946425,
+    "distance_km": null
   },
   "Arínzano, Espagne": {
     "place": "Arínzano, Espagne",
     "region": "Espagne / Navarra / Arínzano",
-    "latitude": 42.630781,
-    "longitude": -1.9934938
+    "nominatim_lat": 42.630781,
+    "nominatim_lon": -1.9934938,
+    "wikipedia_lat": 42.63033333,
+    "wikipedia_lon": -1.99375,
+    "wikipedia_page": "Arínzano",
+    "chosen_source": "nominatim",
+    "chosen_lat": 42.630781,
+    "chosen_lon": -1.9934938,
+    "distance_km": 0.05
   },
   "Valdeorras, Espagne": {
     "place": "Valdeorras, Espagne",
     "region": "Espagne / Galice / Valdeorras",
-    "latitude": 42.3483416,
-    "longitude": -6.9659982
+    "nominatim_lat": 42.3483416,
+    "nominatim_lon": -6.9659982,
+    "wikipedia_lat": 42.38888889,
+    "wikipedia_lon": -7.04722222,
+    "wikipedia_page": "Valdeorras",
+    "chosen_source": "nominatim",
+    "chosen_lat": 42.3483416,
+    "chosen_lon": -6.9659982,
+    "distance_km": 8.05
   },
   "Hérault, France": {
     "place": "Hérault, France",
     "region": "France / Vin de Pays / Pays d'Oc / Hérault",
-    "latitude": 43.591422,
-    "longitude": 3.3553309
+    "nominatim_lat": 43.591422,
+    "nominatim_lon": 3.3553309,
+    "wikipedia_lat": 43.35,
+    "wikipedia_lon": 3.21666667,
+    "wikipedia_page": "Hérault",
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.591422,
+    "chosen_lon": 3.3553309,
+    "distance_km": 29.08
   },
   "Côtes de Bourg, France": {
     "place": "Côtes de Bourg, France",
     "region": "France / Bordeaux / Côtes de Bordeaux / Côtes de Bourg",
-    "latitude": 45.7984176,
-    "longitude": 1.1369884
+    "nominatim_lat": 45.7982714,
+    "nominatim_lon": 1.1369307,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.7982714,
+    "chosen_lon": 1.1369307,
+    "distance_km": null
   },
   "Montefalco Sagrantino, Italie": {
     "place": "Montefalco Sagrantino, Italie",
     "region": "Italie / Central Italy / Ombrie / Montefalco / Montefalco Sagrantino",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Malaga, Espagne": {
     "place": "Malaga, Espagne",
     "region": "Espagne / Andalucía / Malaga",
-    "latitude": 36.7213028,
-    "longitude": -4.4216366
+    "nominatim_lat": 36.7213028,
+    "nominatim_lon": -4.4216366,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 36.7213028,
+    "chosen_lon": -4.4216366,
+    "distance_km": null
   },
   "Valpolicella, Italie": {
     "place": "Valpolicella, Italie",
     "region": "Italie / Northern Italy / Vénétie / Valpolicella",
-    "latitude": 45.5296706,
-    "longitude": 10.9400217
+    "nominatim_lat": 45.5296706,
+    "nominatim_lon": 10.9400217,
+    "wikipedia_lat": 45.5167,
+    "wikipedia_lon": 10.8833,
+    "wikipedia_page": "Valpolicella",
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.5296706,
+    "chosen_lon": 10.9400217,
+    "distance_km": 4.65
   },
   "Friuli Isonzo, Italie": {
     "place": "Friuli Isonzo, Italie",
     "region": "Italie / Northern Italy / Frioul-Vénétie Julienne / Friuli Isonzo",
-    "latitude": 41.4628133,
-    "longitude": 12.9047599
+    "nominatim_lat": 41.4628133,
+    "nominatim_lon": 12.9047599,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 41.4628133,
+    "chosen_lon": 12.9047599,
+    "distance_km": null
   },
   "Sardegna, Italie": {
     "place": "Sardegna, Italie",
     "region": "Italie / Southern Italy / Sardegna",
-    "latitude": 40.0912813,
-    "longitude": 9.0305773
+    "nominatim_lat": 40.0912813,
+    "nominatim_lon": 9.0305773,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 40.0912813,
+    "chosen_lon": 9.0305773,
+    "distance_km": null
   },
   "Piémont, Italie": {
     "place": "Piémont, Italie",
     "region": "Italie / Northern Italy / Piémont",
-    "latitude": 45.060735,
-    "longitude": 7.923549
+    "nominatim_lat": 45.060735,
+    "nominatim_lon": 7.923549,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.060735,
+    "chosen_lon": 7.923549,
+    "distance_km": null
   },
   "Utiel-Requena, Espagne": {
     "place": "Utiel-Requena, Espagne",
     "region": "Espagne / Valence / Utiel-Requena",
-    "latitude": 39.5492855,
-    "longitude": -1.2511657
+    "nominatim_lat": 39.5492855,
+    "nominatim_lon": -1.2511657,
+    "wikipedia_lat": 39.50615833,
+    "wikipedia_lon": -1.18102778,
+    "wikipedia_page": "Utiel-Requena",
+    "chosen_source": "nominatim",
+    "chosen_lat": 39.5492855,
+    "chosen_lon": -1.2511657,
+    "distance_km": 7.69
   },
   "Côtes du Roussillon, France": {
     "place": "Côtes du Roussillon, France",
     "region": "France / Languedoc-Roussillon / Côtes du Roussillon",
-    "latitude": 45.3709088,
-    "longitude": 4.8124715
+    "nominatim_lat": 45.3709088,
+    "nominatim_lon": 4.8124715,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.3709088,
+    "chosen_lon": 4.8124715,
+    "distance_km": null
   },
   "Côtes Catalanes, France": {
     "place": "Côtes Catalanes, France",
     "region": "France / Vin de Pays / Pays d'Oc / Côtes Catalanes",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Collioure, France": {
     "place": "Collioure, France",
     "region": "France / Languedoc-Roussillon / Collioure",
-    "latitude": 42.52505,
-    "longitude": 3.0831554
+    "nominatim_lat": 42.52505,
+    "nominatim_lon": 3.0831554,
+    "wikipedia_lat": 42.5267,
+    "wikipedia_lon": 3.0814,
+    "wikipedia_page": "Collioure",
+    "chosen_source": "nominatim",
+    "chosen_lat": 42.52505,
+    "chosen_lon": 3.0831554,
+    "distance_km": 0.23
   },
   "Côtes de Thongue, France": {
     "place": "Côtes de Thongue, France",
     "region": "France / Vin de Pays / Pays d'Oc / Côtes de Thongue",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Colli di Conegliano, Italie": {
     "place": "Colli di Conegliano, Italie",
     "region": "Italie / Northern Italy / Vénétie / Colli di Conegliano",
-    "latitude": 45.887008,
-    "longitude": 12.2905471
+    "nominatim_lat": 45.887008,
+    "nominatim_lon": 12.2905471,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.887008,
+    "chosen_lon": 12.2905471,
+    "distance_km": null
   },
   "Chassagne-Montrachet 1er Cru Morgeot, France": {
     "place": "Chassagne-Montrachet 1er Cru Morgeot, France",
     "region": "France / Bourgogne / Côte de Beaune / Chassagne-Montrachet / Chassagne-Montrachet Premier Cru / Chassagne-Montrachet 1er Cru Morgeot",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Cannonau di Sardegna, Italie": {
     "place": "Cannonau di Sardegna, Italie",
     "region": "Italie / Southern Italy / Sardegna / Cannonau di Sardegna",
-    "latitude": 40.2568421,
-    "longitude": 9.6219585
+    "nominatim_lat": 40.2568421,
+    "nominatim_lon": 9.6219585,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 40.2568421,
+    "chosen_lon": 9.6219585,
+    "distance_km": null
   },
   "Orcia, Italie": {
     "place": "Orcia, Italie",
     "region": "Italie / Central Italy / Toscane / Orcia",
-    "latitude": 42.9629844,
-    "longitude": 11.3801194
+    "nominatim_lat": 42.9629844,
+    "nominatim_lon": 11.3801194,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 42.9629844,
+    "chosen_lon": 11.3801194,
+    "distance_km": null
   },
   "Bolgheri Superiore, Italie": {
     "place": "Bolgheri Superiore, Italie",
     "region": "Italie / Central Italy / Toscane / Bolgheri / Bolgheri Superiore",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Carmignano, Italie": {
     "place": "Carmignano, Italie",
     "region": "Italie / Central Italy / Toscane / Carmignano",
-    "latitude": 43.8140654,
-    "longitude": 11.0190297
+    "nominatim_lat": 43.8140654,
+    "nominatim_lon": 11.0190297,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.8140654,
+    "chosen_lon": 11.0190297,
+    "distance_km": null
   },
   "Carignano del Sulcis, Italie": {
     "place": "Carignano del Sulcis, Italie",
     "region": "Italie / Southern Italy / Sardegna / Carignano del Sulcis",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Collio, Italie": {
     "place": "Collio, Italie",
     "region": "Italie / Northern Italy / Frioul-Vénétie Julienne / Collio",
-    "latitude": 45.8093124,
-    "longitude": 10.3328723
+    "nominatim_lat": 45.8093124,
+    "nominatim_lon": 10.3328723,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.8093124,
+    "chosen_lon": 10.3328723,
+    "distance_km": null
   },
   "Rosso di Montalcino, Italie": {
     "place": "Rosso di Montalcino, Italie",
     "region": "Italie / Central Italy / Toscane / Rosso di Montalcino",
-    "latitude": 43.0555284,
-    "longitude": 11.3594386
+    "nominatim_lat": 43.0555284,
+    "nominatim_lon": 11.3594386,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.0555284,
+    "chosen_lon": 11.3594386,
+    "distance_km": null
   },
   "Ombrie, Italie": {
     "place": "Ombrie, Italie",
     "region": "Italie / Central Italy / Ombrie",
-    "latitude": 42.965916,
-    "longitude": 12.490236
+    "nominatim_lat": 42.965916,
+    "nominatim_lon": 12.490236,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 42.965916,
+    "chosen_lon": 12.490236,
+    "distance_km": null
   },
   "Colli del Limbara, Italie": {
     "place": "Colli del Limbara, Italie",
     "region": "Italie / Southern Italy / Sardegna / Colli del Limbara",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Vallée d'Aoste, Italie": {
     "place": "Vallée d'Aoste, Italie",
     "region": "Italie / Northern Italy / Vallée d'Aoste",
-    "latitude": 45.730099,
-    "longitude": 7.387426
+    "nominatim_lat": 45.730099,
+    "nominatim_lon": 7.387426,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.730099,
+    "chosen_lon": 7.387426,
+    "distance_km": null
   },
   "Trentin-Haut-Adige, Italie": {
     "place": "Trentin-Haut-Adige, Italie",
     "region": "Italie / Northern Italy / Trentin-Haut-Adige",
-    "latitude": 46.441472,
-    "longitude": 11.282121
+    "nominatim_lat": 46.441472,
+    "nominatim_lon": 11.282121,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 46.441472,
+    "chosen_lon": 11.282121,
+    "distance_km": null
   },
   "Priorat, Espagne": {
     "place": "Priorat, Espagne",
     "region": "Espagne / Catalogne / Priorat",
-    "latitude": 41.2137983,
-    "longitude": 0.8116236
+    "nominatim_lat": 41.2137983,
+    "nominatim_lon": 0.8116236,
+    "wikipedia_lat": 41.13333333,
+    "wikipedia_lon": 0.81666667,
+    "wikipedia_page": "Priorat",
+    "chosen_source": "nominatim",
+    "chosen_lat": 41.2137983,
+    "chosen_lon": 0.8116236,
+    "distance_km": 8.96
   },
   "Pla de Bages, Espagne": {
     "place": "Pla de Bages, Espagne",
     "region": "Espagne / Catalogne / Pla de Bages",
-    "latitude": 41.778578,
-    "longitude": 1.8903822
+    "nominatim_lat": 41.778578,
+    "nominatim_lon": 1.8903822,
+    "wikipedia_lat": 41.72055556,
+    "wikipedia_lon": 1.83972222,
+    "wikipedia_page": "Pla de Bages",
+    "chosen_source": "nominatim",
+    "chosen_lat": 41.778578,
+    "chosen_lon": 1.8903822,
+    "distance_km": 7.7
   },
   "Ribeiro, Espagne": {
     "place": "Ribeiro, Espagne",
     "region": "Espagne / Galice / Ribeiro",
-    "latitude": 42.3199064,
-    "longitude": -8.1522669
+    "nominatim_lat": 42.3199064,
+    "nominatim_lon": -8.1522669,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 42.3199064,
+    "chosen_lon": -8.1522669,
+    "distance_km": null
   },
   "Catalogne, Espagne": {
     "place": "Catalogne, Espagne",
     "region": "Espagne / Catalogne",
-    "latitude": 41.8523094,
-    "longitude": 1.5745043
+    "nominatim_lat": 41.8523094,
+    "nominatim_lon": 1.5745043,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 41.8523094,
+    "chosen_lon": 1.5745043,
+    "distance_km": null
   },
   "Montsant, Espagne": {
     "place": "Montsant, Espagne",
     "region": "Espagne / Catalogne / Tarragone / Montsant",
-    "latitude": 41.116962,
-    "longitude": 1.2110984
+    "nominatim_lat": 41.1171253,
+    "nominatim_lon": 1.211005,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 41.1171253,
+    "chosen_lon": 1.211005,
+    "distance_km": null
   },
   "Majorque, Espagne": {
     "place": "Majorque, Espagne",
     "region": "Espagne / Îles Baléares / Majorque",
-    "latitude": 39.613432,
-    "longitude": 2.8829185
+    "nominatim_lat": 39.613432,
+    "nominatim_lon": 2.8829185,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 39.613432,
+    "chosen_lon": 2.8829185,
+    "distance_km": null
   },
   "Campo de Borja, Espagne": {
     "place": "Campo de Borja, Espagne",
     "region": "Espagne / Aragón / Campo de Borja",
-    "latitude": 41.7865415,
-    "longitude": -1.5058323
+    "nominatim_lat": 41.7865415,
+    "nominatim_lon": -1.5058323,
+    "wikipedia_lat": 41.81666667,
+    "wikipedia_lon": -1.53333333,
+    "wikipedia_page": "Campo de Borja",
+    "chosen_source": "nominatim",
+    "chosen_lat": 41.7865415,
+    "chosen_lon": -1.5058323,
+    "distance_km": 4.05
   },
   "Santenay 1er Cru Clos Rousseau, France": {
     "place": "Santenay 1er Cru Clos Rousseau, France",
     "region": "France / Bourgogne / Côte de Beaune / Santenay / Santenay Premier Cru / Santenay 1er Cru Clos Rousseau",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Pouilly-Fumé, France": {
     "place": "Pouilly-Fumé, France",
     "region": "France / La vallée de la Loire / Haute-Loire / Pouilly-Fumé",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Bourgogne Côte d’Or, France": {
     "place": "Bourgogne Côte d’Or, France",
     "region": "France / Bourgogne / Bourgogne Côte d’Or",
-    "latitude": 47.3253598,
-    "longitude": 5.0293776
+    "nominatim_lat": 47.3253598,
+    "nominatim_lon": 5.0293776,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 47.3253598,
+    "chosen_lon": 5.0293776,
+    "distance_km": null
   },
   "Auxey-Duresses Premier Cru, France": {
     "place": "Auxey-Duresses Premier Cru, France",
     "region": "France / Bourgogne / Côte de Beaune / Auxey-Duresses / Auxey-Duresses Premier Cru",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Jurançon, France": {
     "place": "Jurançon, France",
     "region": "France / Sud-Ouest de la France / Pyrénées / Jurançon",
-    "latitude": 43.2871825,
-    "longitude": -0.3896425
+    "nominatim_lat": 43.2871825,
+    "nominatim_lon": -0.3896425,
+    "wikipedia_lat": 43.2883,
+    "wikipedia_lon": -0.3869,
+    "wikipedia_page": "Jurançon",
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.2871825,
+    "chosen_lon": -0.3896425,
+    "distance_km": 0.25
   },
   "Givry Premier Cru, France": {
     "place": "Givry Premier Cru, France",
     "region": "France / Bourgogne / Côte Chalonnaise / Givry / Givry Premier Cru",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Alsace Grand Cru Altenberg de Bergbieten, France": {
     "place": "Alsace Grand Cru Altenberg de Bergbieten, France",
     "region": "France / Alsace / Alsace Grand Cru / Alsace Grand Cru Altenberg de Bergbieten",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Hermitage, France": {
     "place": "Hermitage, France",
     "region": "France / Vallée du Rhône / Nord de la vallée du Rhône / Hermitage",
-    "latitude": 47.6406711,
-    "longitude": -2.7637153
+    "nominatim_lat": 47.6406711,
+    "nominatim_lon": -2.7637153,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 47.6406711,
+    "chosen_lon": -2.7637153,
+    "distance_km": null
   },
   "Ajaccio, France": {
     "place": "Ajaccio, France",
     "region": "France / Corse / Ajaccio",
-    "latitude": 41.9263991,
-    "longitude": 8.7376029
+    "nominatim_lat": 41.9263991,
+    "nominatim_lon": 8.7376029,
+    "wikipedia_lat": 41.9267,
+    "wikipedia_lon": 8.7369,
+    "wikipedia_page": "Ajaccio",
+    "chosen_source": "nominatim",
+    "chosen_lat": 41.9263991,
+    "chosen_lon": 8.7376029,
+    "distance_km": 0.07
   },
   "Côtes de Gascogne, France": {
     "place": "Côtes de Gascogne, France",
     "region": "France / Vin de Pays / Comté Tolosan / Côtes de Gascogne",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Palette, France": {
     "place": "Palette, France",
     "region": "France / Provence / Palette",
-    "latitude": 43.5104611,
-    "longitude": 5.4889374
+    "nominatim_lat": 43.5104611,
+    "nominatim_lon": 5.4889374,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.5104611,
+    "chosen_lon": 5.4889374,
+    "distance_km": null
   },
   "Chablis 1er Cru Mont de Milieu, France": {
     "place": "Chablis 1er Cru Mont de Milieu, France",
     "region": "France / Bourgogne / Chablis / Chablis Premier Cru / Chablis 1er Cru Mont de Milieu",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Terrasses du Larzac, France": {
     "place": "Terrasses du Larzac, France",
     "region": "France / Languedoc-Roussillon / Languedoc / Terrasses du Larzac",
-    "latitude": 43.7152761,
-    "longitude": 3.4888802
+    "nominatim_lat": 43.7152761,
+    "nominatim_lon": 3.4888802,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.7152761,
+    "chosen_lon": 3.4888802,
+    "distance_km": null
   },
   "Aloxe-Corton 1er Cru Les Chaillots, France": {
     "place": "Aloxe-Corton 1er Cru Les Chaillots, France",
     "region": "France / Bourgogne / Côte de Beaune / Aloxe-Corton / Aloxe-Corton Premier Cru / Aloxe-Corton 1er Cru Les Chaillots",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Charentais, France": {
     "place": "Charentais, France",
     "region": "France / Vin de Pays / Atlantique / Charentais",
-    "latitude": 47.2725916,
-    "longitude": 0.8223418
+    "nominatim_lat": 47.2725916,
+    "nominatim_lon": 0.8223418,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 47.2725916,
+    "chosen_lon": 0.8223418,
+    "distance_km": null
   },
   "Saint-Romain, France": {
     "place": "Saint-Romain, France",
     "region": "France / Bourgogne / Côte de Beaune / Saint-Romain",
-    "latitude": 46.9982395,
-    "longitude": 4.7083847
+    "nominatim_lat": 46.9982395,
+    "nominatim_lon": 4.7083847,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 46.9982395,
+    "chosen_lon": 4.7083847,
+    "distance_km": null
   },
   "Monbazillac, France": {
     "place": "Monbazillac, France",
     "region": "France / Sud-Ouest de la France / Guyenne / Monbazillac",
-    "latitude": 44.795,
-    "longitude": 0.4925
+    "nominatim_lat": 44.795,
+    "nominatim_lon": 0.4925,
+    "wikipedia_lat": 44.795,
+    "wikipedia_lon": 0.4925,
+    "wikipedia_page": "Monbazillac",
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.795,
+    "chosen_lon": 0.4925,
+    "distance_km": 0.0
   },
   "Pernand-Vergelesses 1er Cru En Caradeux, France": {
     "place": "Pernand-Vergelesses 1er Cru En Caradeux, France",
     "region": "France / Bourgogne / Côte de Beaune / Pernand-Vergelesses / Pernand-Vergelesses Premier Cru / Pernand-Vergelesses 1er Cru En Caradeux",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Taurasi, Italie": {
     "place": "Taurasi, Italie",
     "region": "Italie / Southern Italy / Campanie / Taurasi",
-    "latitude": 41.0083503,
-    "longitude": 14.9574387
+    "nominatim_lat": 41.0083503,
+    "nominatim_lon": 14.9574387,
+    "wikipedia_lat": 41,
+    "wikipedia_lon": 14.95,
+    "wikipedia_page": "Taurasi",
+    "chosen_source": "nominatim",
+    "chosen_lat": 41.0083503,
+    "chosen_lon": 14.9574387,
+    "distance_km": 1.12
   },
   "Tintilia del Molise, Italie": {
     "place": "Tintilia del Molise, Italie",
     "region": "Italie / Southern Italy / Molise / Tintilia del Molise",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Frioul-Vénétie Julienne, Italie": {
     "place": "Frioul-Vénétie Julienne, Italie",
     "region": "Italie / Northern Italy / Frioul-Vénétie Julienne",
-    "latitude": 46.151042,
-    "longitude": 13.055904
+    "nominatim_lat": 46.151042,
+    "nominatim_lon": 13.055904,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 46.151042,
+    "chosen_lon": 13.055904,
+    "distance_km": null
   },
   "Gigondas, France": {
     "place": "Gigondas, France",
     "region": "France / Vallée du Rhône / Sud de la vallée du Rhône / Gigondas",
-    "latitude": 44.1641127,
-    "longitude": 5.0051053
+    "nominatim_lat": 44.1641127,
+    "nominatim_lon": 5.0051053,
+    "wikipedia_lat": 44.1647,
+    "wikipedia_lon": 5.0053,
+    "wikipedia_page": "Gigondas",
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.1641127,
+    "chosen_lon": 5.0051053,
+    "distance_km": 0.07
   },
   "Chablis 1er Cru Vaillons, France": {
     "place": "Chablis 1er Cru Vaillons, France",
     "region": "France / Bourgogne / Chablis / Chablis Premier Cru / Chablis 1er Cru Vaillons",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Rioja Alavesa, Espagne": {
     "place": "Rioja Alavesa, Espagne",
     "region": "Espagne / Rioja / Rioja Alavesa",
-    "latitude": 42.544151,
-    "longitude": -2.5454224
+    "nominatim_lat": 42.544151,
+    "nominatim_lon": -2.5454224,
+    "wikipedia_lat": 42.55305556,
+    "wikipedia_lon": -2.60333333,
+    "wikipedia_page": "Rioja Alavesa",
+    "chosen_source": "nominatim",
+    "chosen_lat": 42.544151,
+    "chosen_lon": -2.5454224,
+    "distance_km": 4.85
   },
   "Tierra de León, Espagne": {
     "place": "Tierra de León, Espagne",
     "region": "Espagne / Castille-et-León / Tierra de León",
-    "latitude": 41.2558502,
-    "longitude": -5.7087521
+    "nominatim_lat": 41.2558502,
+    "nominatim_lon": -5.7087521,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 41.2558502,
+    "chosen_lon": -5.7087521,
+    "distance_km": null
   },
   "Chassagne-Montrachet, France": {
     "place": "Chassagne-Montrachet, France",
     "region": "France / Bourgogne / Côte de Beaune / Chassagne-Montrachet",
-    "latitude": 46.93636,
-    "longitude": 4.72736
+    "nominatim_lat": 46.93636,
+    "nominatim_lon": 4.72736,
+    "wikipedia_lat": 46.9378,
+    "wikipedia_lon": 4.7292,
+    "wikipedia_page": "Chassagne-Montrachet",
+    "chosen_source": "nominatim",
+    "chosen_lat": 46.93636,
+    "chosen_lon": 4.72736,
+    "distance_km": 0.21
   },
   "Chablis 1er Cru Côte de Léchet, France": {
     "place": "Chablis 1er Cru Côte de Léchet, France",
     "region": "France / Bourgogne / Chablis / Chablis Premier Cru / Chablis 1er Cru Côte de Léchet",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Jerez-Xérès-Sherry, Espagne": {
     "place": "Jerez-Xérès-Sherry, Espagne",
     "region": "Espagne / Andalucía / Jerez-Xérès-Sherry",
-    "latitude": 36.6905077,
-    "longitude": -6.134887
+    "nominatim_lat": 36.6905077,
+    "nominatim_lon": -6.134887,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 36.6905077,
+    "chosen_lon": -6.134887,
+    "distance_km": null
   },
   "Ardèche, France": {
     "place": "Ardèche, France",
     "region": "France / Vin de Pays / Ardèche",
-    "latitude": 44.815194,
-    "longitude": 4.3986525
+    "nominatim_lat": 44.815194,
+    "nominatim_lon": 4.3986525,
+    "wikipedia_lat": 44.66666667,
+    "wikipedia_lon": 4.41666667,
+    "wikipedia_page": "Ardèche",
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.815194,
+    "chosen_lon": 4.3986525,
+    "distance_km": 16.58
   },
   "Alsace Grand Cru Brand, France": {
     "place": "Alsace Grand Cru Brand, France",
     "region": "France / Alsace / Alsace Grand Cru / Alsace Grand Cru Brand",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Alsace Grand Cru Sonnenglanz, France": {
     "place": "Alsace Grand Cru Sonnenglanz, France",
     "region": "France / Alsace / Alsace Grand Cru / Alsace Grand Cru Sonnenglanz",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Bizkaiko Txakolina, Espagne": {
     "place": "Bizkaiko Txakolina, Espagne",
     "region": "Espagne / País Vasco / Bizkaiko Txakolina",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": 43.32555556,
+    "wikipedia_lon": -2.98888889,
+    "wikipedia_page": "Bizkaiko Txakolina",
+    "chosen_source": "wikipedia",
+    "chosen_lat": 43.32555556,
+    "chosen_lon": -2.98888889,
+    "distance_km": null
   },
   "Alsace Grand Cru Saering, France": {
     "place": "Alsace Grand Cru Saering, France",
     "region": "France / Alsace / Alsace Grand Cru / Alsace Grand Cru Saering",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Saint-Aubin 1er Cru Sur le Sentier du Clou, France": {
     "place": "Saint-Aubin 1er Cru Sur le Sentier du Clou, France",
     "region": "France / Bourgogne / Côte de Beaune / Saint-Aubin / Saint-Aubin Premier Cru / Saint-Aubin 1er Cru Sur le Sentier du Clou",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Maury, France": {
     "place": "Maury, France",
     "region": "France / Languedoc-Roussillon / Maury",
-    "latitude": 42.8102692,
-    "longitude": 2.5935825
+    "nominatim_lat": 42.8102692,
+    "nominatim_lon": 2.5935825,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 42.8102692,
+    "chosen_lon": 2.5935825,
+    "distance_km": null
   },
   "Rosso Piceno, Italie": {
     "place": "Rosso Piceno, Italie",
     "region": "Italie / Central Italy / Marche / Rosso Piceno",
-    "latitude": 42.940282,
-    "longitude": 13.6987781
+    "nominatim_lat": 42.937322,
+    "nominatim_lon": 13.6991924,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 42.937322,
+    "chosen_lon": 13.6991924,
+    "distance_km": null
   },
   "Teroldego Rotaliano, Italie": {
     "place": "Teroldego Rotaliano, Italie",
     "region": "Italie / Northern Italy / Trentin-Haut-Adige / Teroldego Rotaliano",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Barbera d'Asti, Italie": {
     "place": "Barbera d'Asti, Italie",
     "region": "Italie / Northern Italy / Piémont / Barbera d'Asti",
-    "latitude": 44.8524209,
-    "longitude": 8.2414217
+    "nominatim_lat": 44.8524209,
+    "nominatim_lon": 8.2414217,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.8524209,
+    "chosen_lon": 8.2414217,
+    "distance_km": null
   },
   "Valcalepio, Italie": {
     "place": "Valcalepio, Italie",
     "region": "Italie / Northern Italy / Lombardie / Valcalepio",
-    "latitude": 45.668183,
-    "longitude": 9.8142017
+    "nominatim_lat": 45.668183,
+    "nominatim_lon": 9.8142017,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.668183,
+    "chosen_lon": 9.8142017,
+    "distance_km": null
   },
   "Roero, Italie": {
     "place": "Roero, Italie",
     "region": "Italie / Northern Italy / Piémont / Roero",
-    "latitude": 44.7806865,
-    "longitude": 7.9311892
+    "nominatim_lat": 44.7806865,
+    "nominatim_lon": 7.9311892,
+    "wikipedia_lat": 44.7,
+    "wikipedia_lon": 7.85,
+    "wikipedia_page": "Roero",
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.7806865,
+    "chosen_lon": 7.9311892,
+    "distance_km": 11.03
   },
   "Colli Euganei, Italie": {
     "place": "Colli Euganei, Italie",
     "region": "Italie / Northern Italy / Vénétie / Colli Euganei",
-    "latitude": 45.3106318,
-    "longitude": 11.7100786
+    "nominatim_lat": 45.3106318,
+    "nominatim_lon": 11.7100786,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.3106318,
+    "chosen_lon": 11.7100786,
+    "distance_km": null
   },
   "Contea di Sclafani, Italie": {
     "place": "Contea di Sclafani, Italie",
     "region": "Italie / Southern Italy / Terre Siciliane / Contea di Sclafani",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Romangia, Italie": {
     "place": "Romangia, Italie",
     "region": "Italie / Southern Italy / Sardegna / Romangia",
-    "latitude": 40.7346859,
-    "longitude": 8.5650945
+    "nominatim_lat": 40.7346859,
+    "nominatim_lon": 8.5650945,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 40.7346859,
+    "chosen_lon": 8.5650945,
+    "distance_km": null
   },
   "Botticino, Italie": {
     "place": "Botticino, Italie",
     "region": "Italie / Northern Italy / Lombardie / Botticino",
-    "latitude": 45.5432619,
-    "longitude": 10.3231835
+    "nominatim_lat": 45.5432619,
+    "nominatim_lon": 10.3231835,
+    "wikipedia_lat": 45.53333333,
+    "wikipedia_lon": 10.23333333,
+    "wikipedia_page": "Botticino",
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.5432619,
+    "chosen_lon": 10.3231835,
+    "distance_km": 7.08
   },
   "Galice, Espagne": {
     "place": "Galice, Espagne",
     "region": "Espagne / Galice",
-    "latitude": 42.61946,
-    "longitude": -7.863112
+    "nominatim_lat": 42.61946,
+    "nominatim_lon": -7.863112,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 42.61946,
+    "chosen_lon": -7.863112,
+    "distance_km": null
   },
   "Jura, France": {
     "place": "Jura, France",
     "region": "France / Jura",
-    "latitude": 46.7833625,
-    "longitude": 5.7832857
+    "nominatim_lat": 46.7833625,
+    "nominatim_lon": 5.7832857,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 46.7833625,
+    "chosen_lon": 5.7832857,
+    "distance_km": null
   },
   "Montello e Colli Asolani, Italie": {
     "place": "Montello e Colli Asolani, Italie",
     "region": "Italie / Northern Italy / Vénétie / Montello e Colli Asolani",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Côtes du Jura, France": {
     "place": "Côtes du Jura, France",
     "region": "France / Jura / Côtes du Jura",
-    "latitude": 46.6070168,
-    "longitude": 5.9161609
+    "nominatim_lat": 46.6070168,
+    "nominatim_lon": 5.9161609,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 46.6070168,
+    "chosen_lon": 5.9161609,
+    "distance_km": null
   },
   "Benaco Bresciano, Italie": {
     "place": "Benaco Bresciano, Italie",
     "region": "Italie / Northern Italy / Lombardie / Benaco Bresciano",
-    "latitude": 45.7682776,
-    "longitude": 10.7598962
+    "nominatim_lat": 45.773197,
+    "nominatim_lon": 10.7661998,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.773197,
+    "chosen_lon": 10.7661998,
+    "distance_km": null
   },
   "Lombardie, Italie": {
     "place": "Lombardie, Italie",
     "region": "Italie / Northern Italy / Lombardie",
-    "latitude": 45.5703694,
-    "longitude": 9.7732524
+    "nominatim_lat": 45.5703694,
+    "nominatim_lon": 9.7732524,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.5703694,
+    "chosen_lon": 9.7732524,
+    "distance_km": null
   },
   "Rosazzo, Italie": {
     "place": "Rosazzo, Italie",
     "region": "Italie / Northern Italy / Frioul-Vénétie Julienne / Colli Orientali del Friuli / Rosazzo",
-    "latitude": 45.9970608,
-    "longitude": 13.4415949
+    "nominatim_lat": 45.9970608,
+    "nominatim_lon": 13.4415949,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.9970608,
+    "chosen_lon": 13.4415949,
+    "distance_km": null
   },
   "Valdadige Terradeiforti, Italie": {
     "place": "Valdadige Terradeiforti, Italie",
     "region": "Italie / Northern Italy / Trentin-Haut-Adige / Valdadige / Valdadige Terradeiforti",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Offida, Italie": {
     "place": "Offida, Italie",
     "region": "Italie / Central Italy / Marche / Offida",
-    "latitude": 42.9348208,
-    "longitude": 13.6910435
+    "nominatim_lat": 42.9348208,
+    "nominatim_lon": 13.6910435,
+    "wikipedia_lat": 42.93333333,
+    "wikipedia_lon": 13.68333333,
+    "wikipedia_page": "Offida",
+    "chosen_source": "nominatim",
+    "chosen_lat": 42.9348208,
+    "chosen_lon": 13.6910435,
+    "distance_km": 0.65
   },
   "Etna, Italie": {
     "place": "Etna, Italie",
     "region": "Italie / Southern Italy / Terre Siciliane / Etna",
-    "latitude": 37.7510251,
-    "longitude": 14.9940321
+    "nominatim_lat": 37.7510251,
+    "nominatim_lon": 14.9940321,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 37.7510251,
+    "chosen_lon": 14.9940321,
+    "distance_km": null
   },
   "Valcamonica, Italie": {
     "place": "Valcamonica, Italie",
     "region": "Italie / Northern Italy / Lombardie / Valcamonica",
-    "latitude": 41.9328025,
-    "longitude": 12.5259175
+    "nominatim_lat": 41.9328025,
+    "nominatim_lon": 12.5259175,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 41.9328025,
+    "chosen_lon": 12.5259175,
+    "distance_km": null
   },
   "Vernaccia di San Gimignano, Italie": {
     "place": "Vernaccia di San Gimignano, Italie",
     "region": "Italie / Central Italy / Toscane / San Gimignano / Vernaccia di San Gimignano",
-    "latitude": 43.4680172,
-    "longitude": 11.0419989
+    "nominatim_lat": 43.4680172,
+    "nominatim_lon": 11.0419989,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.4680172,
+    "chosen_lon": 11.0419989,
+    "distance_km": null
   },
   "Côte toscane, Italie": {
     "place": "Côte toscane, Italie",
     "region": "Italie / Central Italy / Toscane / Côte toscane",
-    "latitude": 42.7752349,
-    "longitude": 10.1511591
+    "nominatim_lat": 42.7752349,
+    "nominatim_lon": 10.1511591,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 42.7752349,
+    "chosen_lon": 10.1511591,
+    "distance_km": null
   },
   "Rosso Veronese, Italie": {
     "place": "Rosso Veronese, Italie",
     "region": "Italie / Northern Italy / Vénétie / Vérone / Rosso Veronese",
-    "latitude": 45.6286888,
-    "longitude": 10.8083183
+    "nominatim_lat": 45.6286888,
+    "nominatim_lon": 10.8083183,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.6286888,
+    "chosen_lon": 10.8083183,
+    "distance_km": null
   },
   "Torgiano Rosso Riserva, Italie": {
     "place": "Torgiano Rosso Riserva, Italie",
     "region": "Italie / Central Italy / Ombrie / Torgiano / Torgiano Rosso Riserva",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Molise, Italie": {
     "place": "Molise, Italie",
     "region": "Italie / Southern Italy / Molise",
-    "latitude": 41.684672,
-    "longitude": 14.595614
+    "nominatim_lat": 41.684672,
+    "nominatim_lon": 14.595614,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 41.684672,
+    "chosen_lon": 14.595614,
+    "distance_km": null
   },
   "Alghero, Italie": {
     "place": "Alghero, Italie",
     "region": "Italie / Southern Italy / Sardegna / Alghero",
-    "latitude": 40.5587291,
-    "longitude": 8.3153206
+    "nominatim_lat": 40.5587291,
+    "nominatim_lon": 8.3153206,
+    "wikipedia_lat": 40.56,
+    "wikipedia_lon": 8.315,
+    "wikipedia_page": "Alghero",
+    "chosen_source": "nominatim",
+    "chosen_lat": 40.5587291,
+    "chosen_lon": 8.3153206,
+    "distance_km": 0.14
   },
   "Terre del Volturno, Italie": {
     "place": "Terre del Volturno, Italie",
     "region": "Italie / Southern Italy / Campanie / Terre del Volturno",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Sforzato della Valtellina, Italie": {
     "place": "Sforzato della Valtellina, Italie",
     "region": "Italie / Northern Italy / Lombardie / Valteline / Sforzato della Valtellina",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Givry, France": {
     "place": "Givry, France",
     "region": "France / Bourgogne / Côte Chalonnaise / Givry",
-    "latitude": 46.7831191,
-    "longitude": 4.7432564
+    "nominatim_lat": 46.7831191,
+    "nominatim_lon": 4.7432564,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 46.7831191,
+    "chosen_lon": 4.7432564,
+    "distance_km": null
   },
   "Aloxe-Corton, France": {
     "place": "Aloxe-Corton, France",
     "region": "France / Bourgogne / Côte de Beaune / Aloxe-Corton",
-    "latitude": 47.0653471,
-    "longitude": 4.8596328
+    "nominatim_lat": 47.0653471,
+    "nominatim_lon": 4.8596328,
+    "wikipedia_lat": 47.0664,
+    "wikipedia_lon": 4.8603,
+    "wikipedia_page": "Aloxe-Corton",
+    "chosen_source": "nominatim",
+    "chosen_lat": 47.0653471,
+    "chosen_lon": 4.8596328,
+    "distance_km": 0.13
   },
   "Coteaux de l'Aubance, France": {
     "place": "Coteaux de l'Aubance, France",
     "region": "France / La vallée de la Loire / Loire moyenne / Coteaux de l'Aubance",
-    "latitude": 47.381651,
-    "longitude": -0.5124141
+    "nominatim_lat": 47.381651,
+    "nominatim_lon": -0.5124141,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 47.381651,
+    "chosen_lon": -0.5124141,
+    "distance_km": null
   },
   "Saint-Aubin Premier Cru, France": {
     "place": "Saint-Aubin Premier Cru, France",
     "region": "France / Bourgogne / Côte de Beaune / Saint-Aubin / Saint-Aubin Premier Cru",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Chablis 1er Cru Vaucoupin, France": {
     "place": "Chablis 1er Cru Vaucoupin, France",
     "region": "France / Bourgogne / Chablis / Chablis Premier Cru / Chablis 1er Cru Vaucoupin",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Beaune 1er Cru Les Grèves, France": {
     "place": "Beaune 1er Cru Les Grèves, France",
     "region": "France / Bourgogne / Côte de Beaune / Beaune / Beaune Premier Cru / Beaune 1er Cru Les Grèves",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Volnay 1er Cru Clos de la Barre, France": {
     "place": "Volnay 1er Cru Clos de la Barre, France",
     "region": "France / Bourgogne / Côte de Beaune / Volnay / Volnay Premier Cru / Volnay 1er Cru Clos de la Barre",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Savigny-lès-Beaune, France": {
     "place": "Savigny-lès-Beaune, France",
     "region": "France / Bourgogne / Côte de Beaune / Savigny-lès-Beaune",
-    "latitude": 47.0628612,
-    "longitude": 4.8185532
+    "nominatim_lat": 47.0628612,
+    "nominatim_lon": 4.8185532,
+    "wikipedia_lat": 47.0642,
+    "wikipedia_lon": 4.8192,
+    "wikipedia_page": "Savigny-lès-Beaune",
+    "chosen_source": "nominatim",
+    "chosen_lat": 47.0628612,
+    "chosen_lon": 4.8185532,
+    "distance_km": 0.16
   },
   "Puisseguin-Saint-Émilion, France": {
     "place": "Puisseguin-Saint-Émilion, France",
     "region": "France / Bordeaux / Libournais / Saint-Émilion / Puisseguin-Saint-Émilion",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Gaillac, France": {
     "place": "Gaillac, France",
     "region": "France / Sud-Ouest de la France / Haut-Pays / Gaillac",
-    "latitude": 43.9016766,
-    "longitude": 1.8967943
+    "nominatim_lat": 43.9016766,
+    "nominatim_lon": 1.8967943,
+    "wikipedia_lat": 43.9014,
+    "wikipedia_lon": 1.8992,
+    "wikipedia_page": "Gaillac",
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.9016766,
+    "chosen_lon": 1.8967943,
+    "distance_km": 0.2
   },
   "Mercurey 1er Cru Le Clos du Roy, France": {
     "place": "Mercurey 1er Cru Le Clos du Roy, France",
     "region": "France / Bourgogne / Côte Chalonnaise / Mercurey / Mercurey Premier Cru / Mercurey 1er Cru Le Clos du Roy",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Saint-Pourçain, France": {
     "place": "Saint-Pourçain, France",
     "region": "France / La vallée de la Loire / Saint-Pourçain",
-    "latitude": 46.2919771,
-    "longitude": 3.7287426
+    "nominatim_lat": 46.2919771,
+    "nominatim_lon": 3.7287426,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 46.2919771,
+    "chosen_lon": 3.7287426,
+    "distance_km": null
   },
   "Les Baux-de-Provence, France": {
     "place": "Les Baux-de-Provence, France",
     "region": "France / Provence / Les Baux-de-Provence",
-    "latitude": 43.7436458,
-    "longitude": 4.7950342
+    "nominatim_lat": 43.7436458,
+    "nominatim_lon": 4.7950342,
+    "wikipedia_lat": 43.7439,
+    "wikipedia_lon": 4.7953,
+    "wikipedia_page": "Les Baux-de-Provence",
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.7436458,
+    "chosen_lon": 4.7950342,
+    "distance_km": 0.04
   },
   "Savigny-lès-Beaune 1er Cru Les Peuillets, France": {
     "place": "Savigny-lès-Beaune 1er Cru Les Peuillets, France",
     "region": "France / Bourgogne / Côte de Beaune / Savigny-lès-Beaune / Savigny-lès-Beaune Premier Cru / Savigny-lès-Beaune 1er Cru Les Peuillets",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Saint-Drézéry, France": {
     "place": "Saint-Drézéry, France",
     "region": "France / Languedoc-Roussillon / Languedoc / Saint-Drézéry",
-    "latitude": 43.7314311,
-    "longitude": 3.9775826
+    "nominatim_lat": 43.7314311,
+    "nominatim_lon": 3.9775826,
+    "wikipedia_lat": 43.7342,
+    "wikipedia_lon": 3.9828,
+    "wikipedia_page": "Saint-Drézéry",
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.7314311,
+    "chosen_lon": 3.9775826,
+    "distance_km": 0.52
   },
   "delle Venezie, Italie": {
     "place": "delle Venezie, Italie",
     "region": "Italie / Northern Italy / Vénétie / delle Venezie",
-    "latitude": 45.3485187,
-    "longitude": 11.9571797
+    "nominatim_lat": 45.3485187,
+    "nominatim_lon": 11.9571797,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.3485187,
+    "chosen_lon": 11.9571797,
+    "distance_km": null
   },
   "Soave Superiore, Italie": {
     "place": "Soave Superiore, Italie",
     "region": "Italie / Northern Italy / Vénétie / Soave / Soave Superiore",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Latium, Italie": {
     "place": "Latium, Italie",
     "region": "Italie / Central Italy / Latium",
-    "latitude": 41.9808038,
-    "longitude": 12.7662312
+    "nominatim_lat": 41.9808038,
+    "nominatim_lon": 12.7662312,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 41.9808038,
+    "chosen_lon": 12.7662312,
+    "distance_km": null
   },
   "Monthélie, France": {
     "place": "Monthélie, France",
     "region": "France / Bourgogne / Côte de Beaune / Monthélie",
-    "latitude": 46.9928724,
-    "longitude": 4.7658083
+    "nominatim_lat": 46.9928724,
+    "nominatim_lon": 4.7658083,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 46.9928724,
+    "chosen_lon": 4.7658083,
+    "distance_km": null
   },
   "Emilia, Italie": {
     "place": "Emilia, Italie",
     "region": "Italie / Northern Italy / Émilie-Romagne / Emilia",
-    "latitude": 44.4914458,
-    "longitude": 11.3435713
+    "nominatim_lat": 44.4914458,
+    "nominatim_lon": 11.3435713,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 44.4914458,
+    "chosen_lon": 11.3435713,
+    "distance_km": null
   },
   "Morellino di Scansano, Italie": {
     "place": "Morellino di Scansano, Italie",
     "region": "Italie / Central Italy / Toscane / Morellino di Scansano",
-    "latitude": 42.7125537,
-    "longitude": 11.2280516
+    "nominatim_lat": 42.7125537,
+    "nominatim_lon": 11.2280516,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 42.7125537,
+    "chosen_lon": 11.2280516,
+    "distance_km": null
   },
   "Chablis 1er Cru Fourchaume, France": {
     "place": "Chablis 1er Cru Fourchaume, France",
     "region": "France / Bourgogne / Chablis / Chablis Premier Cru / Chablis 1er Cru Fourchaume",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Contessa Entellina, Italie": {
     "place": "Contessa Entellina, Italie",
     "region": "Italie / Southern Italy / Terre Siciliane / Contessa Entellina",
-    "latitude": 37.7309803,
-    "longitude": 13.1831444
+    "nominatim_lat": 37.7309803,
+    "nominatim_lon": 13.1831444,
+    "wikipedia_lat": 37.73333333,
+    "wikipedia_lon": 13.18333333,
+    "wikipedia_page": "Contessa Entellina",
+    "chosen_source": "nominatim",
+    "chosen_lat": 37.7309803,
+    "chosen_lon": 13.1831444,
+    "distance_km": 0.26
   },
   "Montefalco, Italie": {
     "place": "Montefalco, Italie",
     "region": "Italie / Central Italy / Ombrie / Montefalco",
-    "latitude": 42.8918739,
-    "longitude": 12.6500673
+    "nominatim_lat": 42.8918739,
+    "nominatim_lon": 12.6500673,
+    "wikipedia_lat": 42.88333333,
+    "wikipedia_lon": 12.65,
+    "wikipedia_page": "Montefalco",
+    "chosen_source": "nominatim",
+    "chosen_lat": 42.8918739,
+    "chosen_lon": 12.6500673,
+    "distance_km": 0.95
   },
   "Ribeira Sacra, Espagne": {
     "place": "Ribeira Sacra, Espagne",
     "region": "Espagne / Galice / Ribeira Sacra",
-    "latitude": 42.5195881,
-    "longitude": -7.5141181
+    "nominatim_lat": 42.5195881,
+    "nominatim_lon": -7.5141181,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 42.5195881,
+    "chosen_lon": -7.5141181,
+    "distance_km": null
   },
   "Cortona, Italie": {
     "place": "Cortona, Italie",
     "region": "Italie / Central Italy / Toscane / Cortona",
-    "latitude": 43.2752976,
-    "longitude": 11.9850623
+    "nominatim_lat": 43.2752976,
+    "nominatim_lon": 11.9850623,
+    "wikipedia_lat": 43.27555556,
+    "wikipedia_lon": 11.98805556,
+    "wikipedia_page": "Cortona",
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.2752976,
+    "chosen_lon": 11.9850623,
+    "distance_km": 0.24
   },
   "Montepulciano d'Abruzzo Colline Teramane, Italie": {
     "place": "Montepulciano d'Abruzzo Colline Teramane, Italie",
     "region": "Italie / Central Italy / Abruzzo (Abruzzes) / Montepulciano d'Abruzzo / Montepulciano d'Abruzzo Colline Teramane",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Valteline, Italie": {
     "place": "Valteline, Italie",
     "region": "Italie / Northern Italy / Lombardie / Valteline",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Fiano di Avellino, Italie": {
     "place": "Fiano di Avellino, Italie",
     "region": "Italie / Southern Italy / Campanie / Fiano di Avellino",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Vino Nobile di Montepulciano, Italie": {
     "place": "Vino Nobile di Montepulciano, Italie",
     "region": "Italie / Central Italy / Toscane / Vino Nobile di Montepulciano",
-    "latitude": 43.0716467,
-    "longitude": 11.8054771
+    "nominatim_lat": 43.0716467,
+    "nominatim_lon": 11.8054771,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.0716467,
+    "chosen_lon": 11.8054771,
+    "distance_km": null
   },
   "Faro, Italie": {
     "place": "Faro, Italie",
     "region": "Italie / Southern Italy / Terre Siciliane / Faro",
-    "latitude": 40.770398,
-    "longitude": 14.0168089
+    "nominatim_lat": 40.770398,
+    "nominatim_lon": 14.0168089,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 40.770398,
+    "chosen_lon": 14.0168089,
+    "distance_km": null
   },
   "Valdarno di Sopra, Italie": {
     "place": "Valdarno di Sopra, Italie",
     "region": "Italie / Central Italy / Toscane / Valdarno di Sopra",
-    "latitude": 43.5305228,
-    "longitude": 11.6321888
+    "nominatim_lat": 43.5305228,
+    "nominatim_lon": 11.6321888,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 43.5305228,
+    "chosen_lon": 11.6321888,
+    "distance_km": null
   },
   "Colli Trevigiani, Italie": {
     "place": "Colli Trevigiani, Italie",
     "region": "Italie / Northern Italy / Vénétie / Colli Trevigiani",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Montagny Premier Cru, France": {
     "place": "Montagny Premier Cru, France",
     "region": "France / Bourgogne / Côte Chalonnaise / Montagny / Montagny Premier Cru",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Breganze, Italie": {
     "place": "Breganze, Italie",
     "region": "Italie / Northern Italy / Vénétie / Breganze",
-    "latitude": 45.7081441,
-    "longitude": 11.5647668
+    "nominatim_lat": 45.7081441,
+    "nominatim_lon": 11.5647668,
+    "wikipedia_lat": 45.7,
+    "wikipedia_lon": 11.56666667,
+    "wikipedia_page": "Breganze",
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.7081441,
+    "chosen_lon": 11.5647668,
+    "distance_km": 0.92
   },
   "Soave Classico, Italie": {
     "place": "Soave Classico, Italie",
     "region": "Italie / Northern Italy / Vénétie / Soave / Soave Classico",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   },
   "Val di Cornia, Italie": {
     "place": "Val di Cornia, Italie",
     "region": "Italie / Central Italy / Toscane / Val di Cornia",
-    "latitude": 42.9583727,
-    "longitude": 10.5498752
+    "nominatim_lat": 42.9583727,
+    "nominatim_lon": 10.5498752,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 42.9583727,
+    "chosen_lon": 10.5498752,
+    "distance_km": null
   },
   "Sant'Antimo, Italie": {
     "place": "Sant'Antimo, Italie",
     "region": "Italie / Central Italy / Toscane / Sant'Antimo",
-    "latitude": 40.945711,
-    "longitude": 14.231429
+    "nominatim_lat": 40.945711,
+    "nominatim_lon": 14.231429,
+    "wikipedia_lat": 40.95,
+    "wikipedia_lon": 14.23333333,
+    "wikipedia_page": "Sant'Antimo",
+    "chosen_source": "nominatim",
+    "chosen_lat": 40.945711,
+    "chosen_lon": 14.231429,
+    "distance_km": 0.5
   },
   "Vermentino di Gallura, Italie": {
     "place": "Vermentino di Gallura, Italie",
     "region": "Italie / Southern Italy / Sardegna / Vermentino di Gallura",
-    "latitude": 40.9195406,
-    "longitude": 9.4720744
+    "nominatim_lat": 40.9195406,
+    "nominatim_lon": 9.4720744,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 40.9195406,
+    "chosen_lon": 9.4720744,
+    "distance_km": null
   },
   "Ghemme, Italie": {
     "place": "Ghemme, Italie",
     "region": "Italie / Northern Italy / Piémont / Ghemme",
-    "latitude": 45.5983455,
-    "longitude": 8.4209035
+    "nominatim_lat": 45.5983455,
+    "nominatim_lon": 8.4209035,
+    "wikipedia_lat": 45.6,
+    "wikipedia_lon": 8.41666667,
+    "wikipedia_page": "Ghemme",
+    "chosen_source": "nominatim",
+    "chosen_lat": 45.5983455,
+    "chosen_lon": 8.4209035,
+    "distance_km": 0.38
   },
   "Beaune Premier Cru, France": {
     "place": "Beaune Premier Cru, France",
     "region": "France / Bourgogne / Côte de Beaune / Beaune / Beaune Premier Cru",
-    "latitude": 47.0354971,
-    "longitude": 4.8256215
+    "nominatim_lat": 47.0354971,
+    "nominatim_lon": 4.8256215,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": "nominatim",
+    "chosen_lat": 47.0354971,
+    "chosen_lon": 4.8256215,
+    "distance_km": null
   },
   "Mâcon-Cruzille, France": {
     "place": "Mâcon-Cruzille, France",
     "region": "France / Bourgogne / Mâconnais / Mâcon / Mâcon-Cruzille",
-    "latitude": null,
-    "longitude": null
+    "nominatim_lat": null,
+    "nominatim_lon": null,
+    "wikipedia_lat": null,
+    "wikipedia_lon": null,
+    "wikipedia_page": null,
+    "chosen_source": null,
+    "chosen_lat": null,
+    "chosen_lon": null,
+    "distance_km": null
   }
 }
