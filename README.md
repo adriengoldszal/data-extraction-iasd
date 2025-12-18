@@ -132,14 +132,15 @@ Shows database structure and sample queries.
 ### 6. Map Visualization
 
 ```bash
-cd map
-python wine_map.py
+python taste_map.py
 ```
 
-Opens `wines_map.html` in your browser with:
+Creates `wine_taste_map.html` with:
 - Clustered markers (zoom to expand)
-- Color-coded by country
+- Color-coded by flavour-metric
 - Popups with wine details
+
+  ![taste_LB.png](taste_LB.png)
 
 ## Data Storage Justification
 
