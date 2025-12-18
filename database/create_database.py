@@ -34,11 +34,11 @@ def create_database(db_path='../data/wines.db'):
     
     # Drop existing tables to recreate
     cursor.execute('DROP TABLE IF EXISTS wines')
-    cursor.execute('DROP TABLE IF EXISTS regions')
+    cursor.execute('DROP TABLE IF EXISTS places')
     
-    # Create regions table
+    # Create places table
     cursor.execute('''
-    CREATE TABLE regions (
+    CREATE TABLE places (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
         place TEXT UNIQUE NOT NULL,
         region TEXT,
@@ -62,7 +62,7 @@ def create_database(db_path='../data/wines.db'):
         name TEXT NOT NULL,
         rating REAL,
         price TEXT,
-        region_id INTEGER,
+        place_id INTEGER,
         grapes TEXT,
         wine_style TEXT,
         alcohol_content TEXT,
@@ -74,7 +74,7 @@ def create_database(db_path='../data/wines.db'):
         taste_dry_sweet REAL,
         taste_soft_acidic REAL,
         food_pairings TEXT,
-        FOREIGN KEY (region_id) REFERENCES regions(id)
+        FOREIGN KEY (place_id) REFERENCES places(id)
     )
     ''')
     
@@ -83,14 +83,14 @@ def create_database(db_path='../data/wines.db'):
     return conn
 
 
-def populate_regions(conn, geocoded_locations):
-    """Populate regions table"""
+def populate_places(conn, geocoded_locations):
+    """Populate places table"""
     cursor = conn.cursor()
-    region_ids = {}
+    place_ids = {}
     
     for place, data in geocoded_locations.items():
         cursor.execute('''
-        INSERT INTO regions (
+        INSERT INTO places (
             place, region, latitude, longitude, country,
             source, nominatim_lat, nominatim_lon, 
             wikipedia_lat, wikipedia_lon, distance_km
@@ -109,19 +109,19 @@ def populate_regions(conn, geocoded_locations):
             data.get('distance_km'),
         ))
         
-        region_ids[place] = cursor.lastrowid
+        place_ids[place] = cursor.lastrowid
     
     conn.commit()
-    return region_ids
+    return place_ids
 
 
-def populate_wines(conn, wines, region_ids):
+def populate_wines(conn, wines, place_ids):
     """Populate wines table"""
     cursor = conn.cursor()
     
     for wine in wines:
         place = wine.get('place', '')
-        region_id = region_ids.get(place)
+        place_id = place_ids.get(place)
         
         # Extract rating as float
         rating_str = wine.get('rating', '0').replace(',', '.')
@@ -143,7 +143,7 @@ def populate_wines(conn, wines, region_ids):
         
         cursor.execute('''
         INSERT INTO wines (
-            vineyard, name, rating, price, region_id, 
+            vineyard, name, rating, price, place_id, 
             grapes, wine_style, alcohol_content, allergens, 
             description, url, taste_light_bold, 
             taste_smooth_tannic, taste_dry_sweet, taste_soft_acidic,
@@ -154,7 +154,7 @@ def populate_wines(conn, wines, region_ids):
             wine.get('name'),
             rating,
             wine.get('price'),
-            region_id,
+            place_id,
             wine.get('grapes'),
             wine.get('wine_style'),
             wine.get('teneur_en_alcool'),
@@ -179,56 +179,56 @@ def print_database_summary(conn):
     print("DATABASE SUMMARY")
     print(f"{'='*60}")
     
-    # Count regions
-    cursor.execute('SELECT COUNT(*) FROM regions')
-    total_regions = cursor.fetchone()[0]
+    # Count places
+    cursor.execute('SELECT COUNT(*) FROM places')
+    total_places = cursor.fetchone()[0]
     
-    cursor.execute('SELECT COUNT(*) FROM regions WHERE latitude IS NOT NULL')
-    geocoded_regions = cursor.fetchone()[0]
+    cursor.execute('SELECT COUNT(*) FROM places WHERE latitude IS NOT NULL')
+    geocoded_places = cursor.fetchone()[0]
     
-    cursor.execute('SELECT COUNT(*) FROM regions WHERE source = "nominatim"')
-    nominatim_regions = cursor.fetchone()[0]
+    cursor.execute('SELECT COUNT(*) FROM places WHERE source = "nominatim"')
+    nominatim_places = cursor.fetchone()[0]
     
-    cursor.execute('SELECT COUNT(*) FROM regions WHERE source = "wikipedia"')
-    wikipedia_regions = cursor.fetchone()[0]
+    cursor.execute('SELECT COUNT(*) FROM places WHERE source = "wikipedia"')
+    wikipedia_places = cursor.fetchone()[0]
     
     # Count wines
     cursor.execute('SELECT COUNT(*) FROM wines')
     total_wines = cursor.fetchone()[0]
     
-    cursor.execute('SELECT COUNT(DISTINCT region_id) FROM wines WHERE region_id IS NOT NULL')
-    wines_with_region = cursor.fetchone()[0]
+    cursor.execute('SELECT COUNT(DISTINCT place_id) FROM wines WHERE place_id IS NOT NULL')
+    wines_with_place = cursor.fetchone()[0]
     
     # Count by country
     cursor.execute('''
         SELECT country, COUNT(*) as cnt 
-        FROM regions 
+        FROM places 
         WHERE country IS NOT NULL 
         GROUP BY country 
         ORDER BY cnt DESC
     ''')
     countries = cursor.fetchall()
     
-    print(f"\nRegions table:")
-    print(f"  Total regions:          {total_regions}")
-    print(f"  With coordinates:       {geocoded_regions}")
-    print(f"  Source: Nominatim:      {nominatim_regions}")
-    print(f"  Source: Wikipedia:      {wikipedia_regions}")
+    print(f"\nPlaces table:")
+    print(f"  Total places:           {total_places}")
+    print(f"  With coordinates:       {geocoded_places}")
+    print(f"  Source: Nominatim:      {nominatim_places}")
+    print(f"  Source: Wikipedia:      {wikipedia_places}")
     
     print(f"\nWines table:")
     print(f"  Total wines:            {total_wines}")
-    print(f"  Linked to regions:      {wines_with_region}")
+    print(f"  Linked to places:       {wines_with_place}")
     
-    print(f"\nRegions by country:")
+    print(f"\nPlaces by country:")
     for country, count in countries[:5]:
         print(f"  {country}: {count}")
     
     # Sample queries
     print(f"\nSample data (top 5 wines by rating):")
     cursor.execute('''
-        SELECT w.name, w.vineyard, w.rating, r.place
+        SELECT w.name, w.vineyard, w.rating, p.place
         FROM wines w
-        JOIN regions r ON w.region_id = r.id
+        JOIN places p ON w.place_id = p.id
         WHERE w.rating IS NOT NULL
         ORDER BY w.rating DESC
         LIMIT 5
@@ -257,12 +257,12 @@ def main():
     conn = create_database()
     
     # Populate tables
-    print("Populating regions...")
-    region_ids = populate_regions(conn, geocoded)
-    print(f"  Inserted {len(region_ids)} regions")
+    print("Populating places...")
+    place_ids = populate_places(conn, geocoded)
+    print(f"  Inserted {len(place_ids)} places")
     
     print("Populating wines...")
-    populate_wines(conn, wines, region_ids)
+    populate_wines(conn, wines, place_ids)
     print(f"  Inserted {len(wines)} wines")
     
     # Print summary

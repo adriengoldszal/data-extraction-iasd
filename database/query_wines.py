@@ -29,10 +29,10 @@ def list_french_wines(cursor):
     print("=" * 50)
     
     cursor.execute('''
-        SELECT w.vineyard, w.name, w.rating, w.price, r.place, w.grapes
+        SELECT w.vineyard, w.name, w.rating, w.price, p.place, w.grapes
         FROM wines w
-        JOIN regions r ON w.region_id = r.id
-        WHERE r.country = 'France'
+        JOIN places p ON w.place_id = p.id
+        WHERE p.country = 'France'
         ORDER BY w.rating DESC
         LIMIT 10
     ''')

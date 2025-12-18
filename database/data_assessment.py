@@ -80,17 +80,17 @@ def analyze_foreign_keys(cursor):
     print("FOREIGN KEY INTEGRITY")
     print(f"{'='*70}")
     
-    # Check wines without valid region_id
+    # Check wines without valid place_id
     cursor.execute("""
         SELECT COUNT(*) FROM wines 
-        WHERE region_id IS NULL OR region_id NOT IN (SELECT id FROM regions)
+        WHERE place_id IS NULL OR place_id NOT IN (SELECT id FROM places)
     """)
     orphan_wines = cursor.fetchone()[0]
     
     cursor.execute("SELECT COUNT(*) FROM wines")
     total_wines = cursor.fetchone()[0]
     
-    print(f"\nWines without valid region: {orphan_wines} / {total_wines} ({orphan_wines/total_wines*100:.1f}%)")
+    print(f"\nWines without valid place: {orphan_wines} / {total_wines} ({orphan_wines/total_wines*100:.1f}%)")
 
 
 def analyze_data_quality(cursor):
@@ -134,11 +134,11 @@ def analyze_data_quality(cursor):
             SUM(CASE WHEN latitude IS NULL THEN 1 ELSE 0 END) as no_coords,
             SUM(CASE WHEN source = 'nominatim' THEN 1 ELSE 0 END) as nominatim,
             SUM(CASE WHEN source = 'wikipedia' THEN 1 ELSE 0 END) as wikipedia
-        FROM regions
+        FROM places
     """)
     row = cursor.fetchone()
     print(f"\nGeocoding:")
-    print(f"  Total regions: {row[0]}")
+    print(f"  Total places: {row[0]}")
     print(f"  Without coordinates: {row[1]} ({row[1]/row[0]*100:.1f}%)")
     print(f"  Source - Nominatim: {row[2]} ({row[2]/row[0]*100:.1f}%)")
     print(f"  Source - Wikipedia: {row[3]} ({row[3]/row[0]*100:.1f}%)")
@@ -174,17 +174,17 @@ def analyze_by_country(cursor):
     
     cursor.execute("""
         SELECT 
-            r.country,
-            COUNT(DISTINCT r.id) as regions,
+            p.country,
+            COUNT(DISTINCT p.id) as places,
             COUNT(w.id) as wines,
             AVG(w.rating) as avg_rating
-        FROM regions r
-        LEFT JOIN wines w ON r.id = w.region_id
-        GROUP BY r.country
+        FROM places p
+        LEFT JOIN wines w ON p.id = w.place_id
+        GROUP BY p.country
         ORDER BY wines DESC
     """)
     
-    print(f"\n{'Country':<20} {'Regions':<10} {'Wines':<10} {'Avg Rating'}")
+    print(f"\n{'Country':<20} {'Places':<10} {'Wines':<10} {'Avg Rating'}")
     print("-" * 55)
     for row in cursor.fetchall():
         country = row[0] or "Unknown"
@@ -226,15 +226,15 @@ def main():
     cursor.execute("SELECT COUNT(*) FROM wines")
     total_wines = cursor.fetchone()[0]
     
-    cursor.execute("SELECT COUNT(*) FROM regions")
-    total_regions = cursor.fetchone()[0]
+    cursor.execute("SELECT COUNT(*) FROM places")
+    total_places = cursor.fetchone()[0]
     
-    cursor.execute("SELECT COUNT(*) FROM regions WHERE latitude IS NOT NULL")
-    geocoded_regions = cursor.fetchone()[0]
+    cursor.execute("SELECT COUNT(*) FROM places WHERE latitude IS NOT NULL")
+    geocoded_places = cursor.fetchone()[0]
     
     print(f"\n  Total wines:            {total_wines}")
-    print(f"  Total regions:          {total_regions}")
-    print(f"  Geocoded regions:       {geocoded_regions} ({geocoded_regions/total_regions*100:.1f}%)")
+    print(f"  Total places:           {total_places}")
+    print(f"  Geocoded places:        {geocoded_places} ({geocoded_places/total_places*100:.1f}%)")
     print(f"\n{'='*70}")
     
     conn.close()

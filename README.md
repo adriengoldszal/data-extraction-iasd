@@ -104,7 +104,7 @@ python create_database.py
 
 Creates a SQLite database from the geocoded data:
 
-- **regions** table: place, coordinates, country, source used, both source coordinates
+- **places** table: place, coordinates, country, source used, both source coordinates
 - **wines** table: vineyard, name, rating, price, grapes, wine_style, taste characteristics, food pairings
 
 ### 4. Database Quality Assessment
