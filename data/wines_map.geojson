@@ -14,7 +14,13 @@
         "place": "Bordeaux, France",
         "country": "France",
         "wine_count": 29,
-        "wines": "Rouge 2006 (Bad Boy (Mauvais Garçon)); Rouge 2007 (Bad Boy (Mauvais Garçon)); Rouge 2009 (Bad Boy (Mauvais Garçon)); Rouge 2016 (Bad Boy (Mauvais Garçon)); Rouge 2018 (Bad Boy (Mauvais Garçon)); Rouge 2019 (Bad Boy (Mauvais Garçon)); Frank's Réserve Bordeaux 2021 (Chateau L'Heyrisson); Le Merle Blanc de Château Clarke Bordeaux Blanc 2023 (Château Clarke); Bordeaux 2013 (Château Compassant); Bordeaux 2014 (Château Compassant); Bordeaux 2019 (Château Compassant); Le Cygne Bordeaux Blanc 2022 (Château Fonréaud); Blanc De Bordeaux 2020 (Château Fourcas Hosten); Le Plus Bordeaux 2022 (Château Gory); Le G de Guiraud Bordeaux Blanc Sec 2023 (Château Guiraud); Château Latapie Réserve 2020 (Château Latapie); Château Latapie Réserve 2022 (Château Latapie); D:Vin 2018 (Château Lauduc); Bordeaux 2018 (Château Marjosse); Réserve de Famille 2020 (Château Martet); Réserve de Famille 2021 (Château Martet); Réserve de Famille Blanc 2021 (Château Martet); Bordeaux Blanc Sec 2023 (Château Roc Meynard); Auguste 2020 (Château de Birazel); Bordeaux 2017 (Domaine de Cambes); Bordeaux 2020 (Domaine de Cambes); Bordeaux 2021 (Domaine de Cambes); Bordeaux 2022 (Right Bank); Château Ballan Larquette Prestige 2019 (Vignobles Chaigne et Fils)"
+        "wines": "D:Vin 2018 (Château Lauduc); Bordeaux 2022 (Right Bank); Bordeaux Blanc Sec 2023 (Château Roc Meynard); Le Cygne Bordeaux Blanc 2022 (Château Fonréaud); Réserve de Famille 2021 (Château Martet); Le Merle Blanc de Château Clarke Bordeaux Blanc 2023 (Château Clarke); Château Latapie Réserve 2022 (Château Latapie); Château Ballan Larquette Prestige 2019 (Vignobles Chaigne et Fils); Le G de Guiraud Bordeaux Blanc Sec 2023 (Château Guiraud); Château Latapie Réserve 2020 (Château Latapie)",
+        "source": "nominatim",
+        "nominatim_lat": 44.841225,
+        "nominatim_lon": -0.5800364,
+        "wikipedia_lat": 44.84,
+        "wikipedia_lon": -0.58,
+        "distance_km": 0.14
       }
     },
     {
@@ -30,7 +36,13 @@
         "place": "Saint-Chinian, France",
         "country": "France",
         "wine_count": 2,
-        "wines": "Cabanette 2022 (Château la Dournie); Sous le Figuier 2022 (Château la Dournie)"
+        "wines": "Cabanette 2022 (Château la Dournie); Sous le Figuier 2022 (Château la Dournie)",
+        "source": "nominatim",
+        "nominatim_lat": 43.4215,
+        "nominatim_lon": 2.94677,
+        "wikipedia_lat": 43.4231,
+        "wikipedia_lon": 2.9478,
+        "distance_km": 0.2
       }
     },
     {
@@ -46,7 +58,13 @@
         "place": "Brunello di Montalcino, Italie",
         "country": "Italie",
         "wine_count": 40,
-        "wines": "Brunello di Montalcino 2020 (Altesino); Pian delle Vigne Brunello di Montalcino 2020 (Antinori); Brunello di Montalcino 2017 (Azienda Agricola Innocenti); Brunello di Montalcino 2020 (Azienda Agricola La Torre); Brunello di Montalcino 2020 (Banfi); Brunello di Montalcino 2017 (Beatesca); Leonardo da Vinci Brunello di Montalcino 2020 (Cantine Leonardo da Vinci); Brunello di Montalcino 2020 (Caparzo); Brunello di Montalcino 2019 (Caprili); Brunello di Montalcino 2020 (Casanuova delle Cerbaie); Brunello di Montalcino 2020 (Castello Finoto); Brunello di Montalcino 2020 (Castello Giulio); Brunello di Montalcino 2020 (Col d'Orcia); Brunello di Montalcino 2020 (Collosorbo); Brunello di Montalcino 2020 (Fanti); Vallocchio Brunello di Montalcino 2020 (Fanti); Brunello di Montalcino 2019 (Fattoria dei Barbi); Brunello di Montalcino 2019 (Geografico); Brunello di Montalcino 2019 (La Lecciaia); Brunello di Montalcino Riserva 2018 (La Lecciaia); Poggio Abate Brunello di Montalcino Riserva 2018 (La Poderina); Brunello di Montalcino 2019 (Mastrojanni); Brunello di Montalcino 2020 (Palazzo); Brunello di Montalcino Riserva 2017 (Piccini); Brunello di Montalcino 2017 (Poggio Antico); Brunello di Montalcino 2018 (Poggio Antico); Brunello di Montalcino 2019 (Poggio Antico); Brunello di Montalcino 2020 (Rabissi); Esperienza Numero 8 Brunello di Montalcino 2018 (Rocca delle Macìe); Tenuta Greppone Mazzi Brunello di Montalcino 2019 (Ruffino); Campogiovanni Brunello di Montalcino 2020 (San Felice); Brunello di Montalcino 2018 (San Polo); Brunello di Montalcino 2020 (Santa Giulia); Brunello di Montalcino 2015 (Sassetti Livio); Brunello di Montalcino 2020 (Sasso di Sole); Pelagrilli Brunello di Montalcino 2020 (Siro Pacenti); Brunello di Montalcino 2020 (Tenuta CastelGiocondo); Brunello di Montalcino 2019 (Tenuta La Fuga); Brunello di Montalcino 2018 (Tenute Silvio Nardi); Brunello di Montalcino Riserva 2018 (Villa Poggio Salvi)"
+        "wines": "Brunello di Montalcino 2020 (Castello Finoto); Brunello di Montalcino 2020 (Castello Giulio); Brunello di Montalcino 2017 (Azienda Agricola Innocenti); Brunello di Montalcino 2020 (Santa Giulia); Brunello di Montalcino 2020 (Sasso di Sole); Brunello di Montalcino Riserva 2017 (Piccini); Brunello di Montalcino 2019 (Geografico); Vallocchio Brunello di Montalcino 2020 (Fanti); Brunello di Montalcino 2019 (Poggio Antico); Brunello di Montalcino 2020 (Azienda Agricola La Torre)",
+        "source": "nominatim",
+        "nominatim_lat": 43.3204995,
+        "nominatim_lon": 11.3281859,
+        "wikipedia_lat": 43.0352026,
+        "wikipedia_lon": 11.4217104,
+        "distance_km": 32.62
       }
     },
     {
@@ -62,7 +80,13 @@
         "place": "Côtes-du-Rhône, France",
         "country": "France",
         "wine_count": 6,
-        "wines": "Fontaine du Sud Côtes du Rhône 2024 (Château de Gourdon); Le Grand Chemin Rouge 2023 (Château de Gourdon); Terrasse à l'Ombre Côtes du Rhône 2023 (Château de Gourdon); Le Tonton Côtes du Rhône 2024 (Domaine Le Père Brun); Côtes-du-Rhône Rouge 2022 (E. Guigal); L'Esprit de Terra 2016 (Terra 6840)"
+        "wines": "Le Grand Chemin Rouge 2023 (Château de Gourdon); Terrasse à l'Ombre Côtes du Rhône 2023 (Château de Gourdon); L'Esprit de Terra 2016 (Terra 6840); Fontaine du Sud Côtes du Rhône 2024 (Château de Gourdon); Côtes-du-Rhône Rouge 2022 (E. Guigal); Le Tonton Côtes du Rhône 2024 (Domaine Le Père Brun)",
+        "source": "nominatim",
+        "nominatim_lat": 45.8643547,
+        "nominatim_lon": 4.5956929,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -78,7 +102,13 @@
         "place": "Chablis, France",
         "country": "France",
         "wine_count": 4,
-        "wines": "Les Sureaux Chablis 2023 (Domaine Chanson); En Boucheran Chablis 2022 (Domaine Eleni et Edouard Vocoret); Bienommée Chablis 2023 (L&C Poitout); Chablis 2023 (Vignobles Angst)"
+        "wines": "Chablis 2023 (Vignobles Angst); Les Sureaux Chablis 2023 (Domaine Chanson); Bienommée Chablis 2023 (L&C Poitout); En Boucheran Chablis 2022 (Domaine Eleni et Edouard Vocoret)",
+        "source": "nominatim",
+        "nominatim_lat": 47.8152073,
+        "nominatim_lon": 3.8001657,
+        "wikipedia_lat": 47.8156,
+        "wikipedia_lon": 3.7975,
+        "distance_km": 0.2
       }
     },
     {
@@ -94,7 +124,13 @@
         "place": "Fleurie, France",
         "country": "France",
         "wine_count": 6,
-        "wines": "La Demoiselle Fleurie 2018 (Domaine du Clos des Garands); La Demoiselle Fleurie 2021 (Domaine du Clos des Garands); La Demoiselle Fleurie 2023 (Domaine du Clos des Garands); Les Deux Granites Fleurie 2021 (Jean Etienne Chermette); Fleurie 2020 (Jean Foillard); Fleurie 2021 (Jean Foillard)"
+        "wines": "La Demoiselle Fleurie 2023 (Domaine du Clos des Garands); Les Deux Granites Fleurie 2021 (Jean Etienne Chermette); Fleurie 2020 (Jean Foillard); Fleurie 2021 (Jean Foillard); La Demoiselle Fleurie 2018 (Domaine du Clos des Garands); La Demoiselle Fleurie 2021 (Domaine du Clos des Garands)",
+        "source": "nominatim",
+        "nominatim_lat": 46.1920243,
+        "nominatim_lon": 4.6981214,
+        "wikipedia_lat": 46.193,
+        "wikipedia_lon": 4.698,
+        "distance_km": 0.11
       }
     },
     {
@@ -110,7 +146,13 @@
         "place": "Vacqueyras, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Novae Vacqueyras 2023 (Famille Gilly)"
+        "wines": "Novae Vacqueyras 2023 (Famille Gilly)",
+        "source": "nominatim",
+        "nominatim_lat": 44.1382621,
+        "nominatim_lon": 4.9823958,
+        "wikipedia_lat": 44.138,
+        "wikipedia_lon": 4.9831,
+        "distance_km": 0.06
       }
     },
     {
@@ -118,15 +160,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.0318516,
-          42.0105947
+          12.39444444,
+          42.36611111
         ]
       },
       "properties": {
         "place": "Abruzzo (Abruzzes), Italie",
         "country": "Italie",
         "wine_count": 7,
-        "wines": "Cinque Autoctoni Collection Limited Release N.V. (Fantini); Edizione Cinque Autoctoni N.V. (Fantini); 8 Limited Edition N.V. (Feudi Bizantini); 24 Carati N.V. (Tenuta Antonini); Limited Edition 10 Vendemmie Bianco N.V. (Tenuta Ulisse); Giannicola di Carlo Apoteo Rosso 2021 (Vigna Madre); Giannicola di Carlo Rosso da Uve Appassite 2022 (Vigna Madre)"
+        "wines": "Cinque Autoctoni Collection Limited Release N.V. (Fantini); Edizione Cinque Autoctoni N.V. (Fantini); 24 Carati N.V. (Tenuta Antonini); Giannicola di Carlo Apoteo Rosso 2021 (Vigna Madre); 8 Limited Edition N.V. (Feudi Bizantini); Giannicola di Carlo Rosso da Uve Appassite 2022 (Vigna Madre); Limited Edition 10 Vendemmie Bianco N.V. (Tenuta Ulisse)",
+        "source": "wikipedia",
+        "nominatim_lat": 42.0105947,
+        "nominatim_lon": 14.0318516,
+        "wikipedia_lat": 42.36611111,
+        "wikipedia_lon": 12.39444444,
+        "distance_km": 140.57
       }
     },
     {
@@ -142,7 +190,13 @@
         "place": "Maremma Toscana, Italie",
         "country": "Italie",
         "wine_count": 6,
-        "wines": "Avvoltore 2019 (Morisfarms); Maremma Toscana 2016 (Poggio Mandorlo); Maremma Toscana 2020 (Rocca di Frassinello); Albus Maremma Toscana Riserva 2022 (Tenuta Moraia); Vermentino Maremma 2024 (Tenuta Moraia); Vesper Riserva Maremma Toscana 2020 (Tenuta Moraia)"
+        "wines": "Albus Maremma Toscana Riserva 2022 (Tenuta Moraia); Vesper Riserva Maremma Toscana 2020 (Tenuta Moraia); Vermentino Maremma 2024 (Tenuta Moraia); Avvoltore 2019 (Morisfarms); Maremma Toscana 2020 (Rocca di Frassinello); Maremma Toscana 2016 (Poggio Mandorlo)",
+        "source": "nominatim",
+        "nominatim_lat": 42.7027722,
+        "nominatim_lon": 11.1367433,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -158,7 +212,13 @@
         "place": "Graves, France",
         "country": "France",
         "wine_count": 7,
-        "wines": "Graves Blanc 2023 (Château Calvimont); Graves 2019 (Château Haura); Les Oiseaux Graves Rouge 2016 (Château de Chantegrive); Graves Rouge 2021 (Château de Janicon); Callipyge Graves Blanc 2023 (Château de Respide); Callipyge Graves Rouge 2020 (Château de Respide); Graves Blanc 2023 (Domaine du Salut)"
+        "wines": "Callipyge Graves Blanc 2023 (Château de Respide); Callipyge Graves Rouge 2020 (Château de Respide); Graves Rouge 2021 (Château de Janicon); Graves Blanc 2023 (Château Calvimont); Graves Blanc 2023 (Domaine du Salut); Graves 2019 (Château Haura); Les Oiseaux Graves Rouge 2016 (Château de Chantegrive)",
+        "source": "nominatim",
+        "nominatim_lat": 45.6500048,
+        "nominatim_lon": -0.1060768,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -174,7 +234,13 @@
         "place": "Toro, Espagne",
         "country": "Espagne",
         "wine_count": 13,
-        "wines": "Numanthia 2016 (Bodega Numanthia); Numanthia 2017 (Bodega Numanthia); Numanthia 2019 (Bodega Numanthia); Numanthia 2020 (Bodega Numanthia); San Román 2021 (Bodegas San Román); Rompesedas 2019 (Coral Duero); El Titán del Bendito 2022 (Dominio del Bendito); Selección Tinto 2020 (Latarce); El Pillo Viñas Rebeldes 2021 (Pagos del Rey); Victorino 2021 (Teso La Monja); Victorino 2022 (Teso La Monja); Victorino 2023 (Teso La Monja); Matteria Viñas Viejas 2018 (Yaso)"
+        "wines": "Numanthia 2019 (Bodega Numanthia); Rompesedas 2019 (Coral Duero); El Pillo Viñas Rebeldes 2021 (Pagos del Rey); El Titán del Bendito 2022 (Dominio del Bendito); San Román 2021 (Bodegas San Román); Numanthia 2020 (Bodega Numanthia); Matteria Viñas Viejas 2018 (Yaso); Numanthia 2017 (Bodega Numanthia); Numanthia 2016 (Bodega Numanthia); Selección Tinto 2020 (Latarce)",
+        "source": "nominatim",
+        "nominatim_lat": 41.5216963,
+        "nominatim_lon": -5.3939824,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -190,7 +256,13 @@
         "place": "Barolo, Italie",
         "country": "Italie",
         "wine_count": 28,
-        "wines": "Barolo 'Ginestra' 2020 (Aldo Clerico); Undicicomuni Barolo 2016 (Arnaldo Rivera); Barolo 2018 (Batasiolo); Barolo 2021 (Batasiolo); Barolo Boscareto 2015 (Batasiolo); Barolo Briccolina 2010 (Batasiolo); Barolo Briccolina 2014 (Batasiolo); Barolo Briccolina 2016 (Batasiolo); Barolo Brunate 2014 (Batasiolo); Barolo Bussia Vigneto Bofani 2014 (Batasiolo); Barolo Bussia Vigneto Bofani 2016 (Batasiolo); Barolo Riserva 2017 (Batasiolo); Barolo Riserva 10 Anni 2015 (BelColle); Barolo 2020 (Brovia); Barolo Rocche di Castelletto 2021 (Cascina Chicco); Castelletto Barolo 2018 (Castello di Perno); Barolo Massara 2017 (Castello di Verduno); Linea 1878 Barolo 2020 (Collina San Ponzio); Treturne Barolo 2020 (Fogliati); Vigna La Rosa Barolo 2017 (Fontanafredda); La Tartufaia Barolo 2021 (Giulia Negri); Vigneto Garretti Barolo 2021 (La Spinetta); Barolo Ludo 2018 (Luigi Einaudi); Barolo del Comune di la Morra 2021 (Marcarini); Barolo Parafada 2021 (Palladino); Perarmando Barolo 2021 (Parusso); Barolo 2021 (Prunotto); Barolo del Comune di Serralunga d'Alba 2021 (Schiavenza)"
+        "wines": "Barolo Briccolina 2016 (Batasiolo); Barolo Bussia Vigneto Bofani 2016 (Batasiolo); Barolo Ludo 2018 (Luigi Einaudi); Barolo Briccolina 2010 (Batasiolo); Barolo Riserva 2017 (Batasiolo); Linea 1878 Barolo 2020 (Collina San Ponzio); Undicicomuni Barolo 2016 (Arnaldo Rivera); Barolo 2018 (Batasiolo); Barolo 2021 (Batasiolo); Vigneto Garretti Barolo 2021 (La Spinetta)",
+        "source": "nominatim",
+        "nominatim_lat": 44.6108408,
+        "nominatim_lon": 7.9428448,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -206,7 +278,13 @@
         "place": "Pomerol, France",
         "country": "France",
         "wine_count": 29,
-        "wines": "Le Benjamin de Beauregard Pomerol 2015 (Château Beauregard); Le Benjamin de Beauregard Pomerol 2017 (Château Beauregard); Pomerol 2014 (Château Chêne Liège); Pomerol 2016 (Château Elisee); Pomerol 2006 (Château Feytit-Clinet); L'Hospitalet de Gazin Pomerol 2016 (Château Gazin); Haut Mazeyres 2019 (Château Haut Mazeyres); Pomerol 2019 (Château La Croix St. Georges); Pomerol 2020 (Château La Croix St. Georges); Pomerol 2021 (Château La Croix St. Georges); Le Temps de La Rose Figeac 2019 (Château La Rose Figeac); Pomerol 2021 (Château La Rose Figeac); Pomerol 2020 (Château Lafleur-Gazin); Pomerol 2018 (Château Lagrange); Pomerol 2011 (Château Le Moulin); Pomerol 2017 (Château Le Moulin); Pomerol 2020 (Château Maillet); Pomerol 2020 (Château Marzy); Pomerol 2018 (Château Moulinet-Lasserre); Pomerol 2016 (Château Pierhem); Pomerol 2020 (Château Prieurs de la Commanderie); Le Carillon de Rouget Pomerol 2020 (Château Rouget); Pomerol 2017 (Château Rouget); Pomerol 2018 (Château Rouget); Pomerol 2020 (Château l'Enclos); Blason de L’Evangile Pomerol 2023 (Château l'Évangile); Pomerol 2017 (Le Clos du Beau-Père); Pomerol 2018 (Le Clos du Beau-Père); Pomerol 2019 (Le Clos du Beau-Père)"
+        "wines": "Pomerol 2020 (Château Maillet); Pomerol 2011 (Château Le Moulin); Pomerol 2018 (Château Rouget); Le Benjamin de Beauregard Pomerol 2015 (Château Beauregard); Le Benjamin de Beauregard Pomerol 2017 (Château Beauregard); Pomerol 2017 (Château Rouget); Pomerol 2017 (Château Le Moulin); Pomerol 2017 (Le Clos du Beau-Père); Pomerol 2014 (Château Chêne Liège); Le Carillon de Rouget Pomerol 2020 (Château Rouget)",
+        "source": "nominatim",
+        "nominatim_lat": 44.9311234,
+        "nominatim_lon": -0.1999904,
+        "wikipedia_lat": 44.9328,
+        "wikipedia_lon": -0.1992,
+        "distance_km": 0.2
       }
     },
     {
@@ -222,7 +300,13 @@
         "place": "Abadía Retuerta, Espagne",
         "country": "Espagne",
         "wine_count": 7,
-        "wines": "Cuvée Palomar 2020 (Abadía Retuerta); Cuvée Palomar 2021 (Abadía Retuerta); LeDomaine Blanco de Guarda 2022 (Abadía Retuerta); LeDomaine Blanco de Guarda 2023 (Abadía Retuerta); LeDomaine Blanco de Guarda 2024 (Abadía Retuerta); Selección Especial 2020 (Abadía Retuerta); Selección Especial 2021 (Abadía Retuerta)"
+        "wines": "Selección Especial 2020 (Abadía Retuerta); LeDomaine Blanco de Guarda 2024 (Abadía Retuerta); Selección Especial 2021 (Abadía Retuerta); Cuvée Palomar 2020 (Abadía Retuerta); Cuvée Palomar 2021 (Abadía Retuerta); LeDomaine Blanco de Guarda 2023 (Abadía Retuerta); LeDomaine Blanco de Guarda 2022 (Abadía Retuerta)",
+        "source": "nominatim",
+        "nominatim_lat": 41.6165363,
+        "nominatim_lon": -4.4109323,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -238,7 +322,13 @@
         "place": "Pouilles, Italie",
         "country": "Italie",
         "wine_count": 42,
-        "wines": "La Signora Primitivo 2018 (Azienda Agricola Morella); Old Vines Primitivo 2016 (Azienda Agricola Morella); Old Vines Primitivo 2019 (Azienda Agricola Morella); Old Vines Primitivo 2021 (Azienda Agricola Morella); Appassimento 2024 (Bastioni della Rocca); Negroamaro 2021 (Calitro); Canace Nero di Troia 2022 (Cantina Diomede); 1954 Primitivo Puglia 2021 (Cantine Paradiso); 1954 Primitivo Puglia 2022 (Cantine Paradiso); Pillastro Primitivo Puglia 2023 (Cantine due Palme); 3 Passo Rosso 2023 (Cielo e Terra); 3 Passo Rosso 2024 (Cielo e Terra); Trebbiano - Pinot Grigio 2024 (Cielo e Terra); Myor 2022 (Colli Della Murgia); Il Primitivo 2022 (Domini San Pietro); Il Susumaniello 2022 (Domini San Pietro); Primitivo - Negroamaro 2024 (Elettra); Primitivo 2022 (Elettra); Collezione Old Vines Primitivo 2022 (Gran Appasso); Platinum Collection Zinfandel 2024 (Grande Alberone); Vigne Nostrane Appassimento Rosso 2024 (La Calla); Tecnica del Salasso Tre di Tre 2023 (Lupo Meraviglia); Lionel Goat 10 Collection Primitivo 2022 (MM Winemaker); Rosso 17° 2021 (Maccone); Rosso 17° 2023 (Maccone); Susumaniello 2023 (Masca del Tacco); Appassimento Primitivo 2024 (Maxale); Stuni 2021 (Montedidio); Flétris 2021 (Montemajor); Duna Susumaniello 2022 (Podere 29); Gelso d'Oro Nero di Troia 2022 (Podere 29); Riccio Verdeca 2023 (Puglia Pop); Riccio Verdeca 2024 (Puglia Pop); Stellare Primitivo 2022 (Risveglio); Negroamaro 2022 (Salsedine); Talò Nero di Troia 2023 (San Marzano); No. 32 Appassimento Primitivo 2022 (Tank); Fiano di Bocca di Lupo 2023 (Tenuta Bocca di Lupo); Fructuositas Primitivo 2021 (Tenuta Romana); Fructuositas Primitivo 2023 (Tenuta Romana); Paralupi Appassimento 2022 (Varvaglione); Edizione Privata Primitivo di Puglia 2024 (Vecchio Marone)"
+        "wines": "Riccio Verdeca 2024 (Puglia Pop); 3 Passo Rosso 2024 (Cielo e Terra); Duna Susumaniello 2022 (Podere 29); Appassimento 2024 (Bastioni della Rocca); Edizione Privata Primitivo di Puglia 2024 (Vecchio Marone); 1954 Primitivo Puglia 2021 (Cantine Paradiso); Platinum Collection Zinfandel 2024 (Grande Alberone); Flétris 2021 (Montemajor); 1954 Primitivo Puglia 2022 (Cantine Paradiso); Il Susumaniello 2022 (Domini San Pietro)",
+        "source": "nominatim",
+        "nominatim_lat": 40.9842539,
+        "nominatim_lon": 16.6210027,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -254,7 +344,13 @@
         "place": "Ribera del Duero, Espagne",
         "country": "Espagne",
         "wine_count": 64,
-        "wines": "Aalto 2022 (Aalto); Aalto 2023 (Aalto); Reserva de Familia Tinto Fino 2021 (Arrocal); Village 2023 (Arrocal); Reserva Especial Ribera del Duero 2020 (Arzuaga); Reserva Ribera del Duero 2021 (Arzuaga); Ribera del Duero Crianza 2023 (Arzuaga); Christina Ribera del Duero 2019 (Astrales); Interpretación 2021 (Ausàs); Negón 2013 (Bodega Negón Gonzales); Silvanus Edicion Limitada Ribera del Duero 2020 (Bodegas Asenjo & Manso); Nuestro 20 Meses 2016 (Bodegas Diaz Bayo); Corimbo I 2017 (Bodegas La Horra); Ribera del Duero Una Cepa I 2019 (Bodegas Valduero); La Baraja 2017 (Bodegas Vilano); La Baraja 2019 (Bodegas Vilano); Terra Incognita 2020 (Bodegas Vilano); Vilano 2021 (Bodegas Vilano); Bosque de Matasnos Etiqueta Blanca 2022 (Bosque de Matasnos); Reserva 2020 (Carmelo Rodero); Altrejo Vendimia Seleccionada 2020 (Cid Bermúdez); Dominio del Pidio Albillo 2023 (Cillar de Silos); Ribera del Duero Tinto Fino 2022 (Cuentaviñas); Dominio de Atauta 2020 (Dominio de Atauta); PSI 2023 (Dominio de Pingus); Malleolus 2022 (Emilio Moro); Avizor 2020 (Finca Rodma); Cosecha 2021 (Hacienda Monasterio); Cosecha 2022 (Hacienda Monasterio); Pagos de Anguix Prado Lobo 2018 (Juvé & Camps); Cinco Elementos Essentia 2020 (La Cepa Alta); Moradillo de Roa 2020 (Legaris); Año de Gracia 2018 (Lynus); 8000 2021 (Marques de Burgos); Ribera del Duero Reserva 2021 (Matarromera); 1076 Tinto 2020 (Milsetentayseis); Reserva 2021 (Montecastro); Tinto 2020 (Pago de Carraovejas); Tinto 2023 (Pago de Carraovejas); Un Sueño En Las Alturas 2021 (Pago de Los Capellanes); 409 Tinto 2023 (Pagos del Rey); 18 Meses 2022 (Petit Vega); 28 Meses 2019 (Petit Vega); Viña El Chorro 2020 (Pico Cuadro); 17 2021 (Pinea); Gran Reserva 2015 (Protos); Gran Reserva 2016 (Protos); Gran Reserva 2017 (Protos); Tinto 2018 (Sei Solo); T3rno Seleccion de 3 Parcelas Ribera del Duero 2019 (Tarsus); Clarete de Guarda 2020 (Territorio Luthier); Hispania Blanco 2021 (Territorio Luthier); Hispania Blanco 2022 (Territorio Luthier); Hispania Tinto 2020 (Territorio Luthier); Lara O 2022 (Territorio Luthier); Territorio Luthier Blanco de Guarda 2022 (Territorio Luthier); Territorio Luthier Reserva 2019 (Territorio Luthier); 3er Año Ribera del Duero Tinto 2022 (Tomás Postigo); Unanimous Pago de San Vicente 2021 (Tres Piedras); Juegabolos 2020 (Valderiz); La Fleur 2017 (Vivaltus); Reserva 2020 (Viña Pedrosa); Caballero Zifar 2021 (Zifar); Finca El Otero 2019 (Áster)"
+        "wines": "Reserva de Familia Tinto Fino 2021 (Arrocal); La Baraja 2017 (Bodegas Vilano); La Baraja 2019 (Bodegas Vilano); Terra Incognita 2020 (Bodegas Vilano); 28 Meses 2019 (Petit Vega); Nuestro 20 Meses 2016 (Bodegas Diaz Bayo); 17 2021 (Pinea); 18 Meses 2022 (Petit Vega); Altrejo Vendimia Seleccionada 2020 (Cid Bermúdez); Viña El Chorro 2020 (Pico Cuadro)",
+        "source": "nominatim",
+        "nominatim_lat": 41.6591121,
+        "nominatim_lon": -3.6815871,
+        "wikipedia_lat": 41.68333333,
+        "wikipedia_lon": -3.68333333,
+        "distance_km": 2.7
       }
     },
     {
@@ -270,7 +366,13 @@
         "place": "Vino d'Italia, Italie",
         "country": "Italie",
         "wine_count": 6,
-        "wines": "Astrale Special Edition 2021 (Astrale); Rosso N.V. (Astrale); Tre Autoctoni N.V. (Gran Sasso); Nagòtt Vin Rouge 2023 (La Plantze); Cinquanta Collezione N.V. (San Marzano); Vinum Italicum No 3 Opera 2021 (Tinazzi)"
+        "wines": "Tre Autoctoni N.V. (Gran Sasso); Rosso N.V. (Astrale); Astrale Special Edition 2021 (Astrale); Vinum Italicum No 3 Opera 2021 (Tinazzi); Nagòtt Vin Rouge 2023 (La Plantze); Cinquanta Collezione N.V. (San Marzano)",
+        "source": "nominatim",
+        "nominatim_lat": 44.6395339,
+        "nominatim_lon": 11.188386,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -286,7 +388,13 @@
         "place": "Toscane, Italie",
         "country": "Italie",
         "wine_count": 60,
-        "wines": "ExcelsuS 2019 (Banfi); ExcelsuS 2020 (Banfi); Collezione Famiglia Vecciano Toscana 2023 (Barbanera); Gigino 80 Anniversario 2022 (Barbanera); Gigino 80 Anniversario Bianco 2024 (Barbanera); Gigino 80 Anniversario Grande 2019 (Barbanera); Gigino 80 Anniversario Grande 2022 (Barbanera); Mocenni Particella 91 2020 (Bindi Sergardi); Esse Syrah 2017 (Borgo La Torre); Ilatraia 2021 (Brancaia); Il Borgo Toscana 2022 (Cabreo); S.to Ippolito 2022 (Cantine Leonardo da Vinci); Leone Sangiovese 2014 (Carobbio); Magaldo Rosso 2016 (Carobbio); Pietraforte Cabernet Sauvignon 2015 (Carobbio); Pietraforte Cabernet Sauvignon 2017 (Carobbio); Mormoreto Toscana 2022 (Castello Nipozzano); Sammarco 2020 (Castello dei Rampolla); Haiku 2020 (Castello di Ama); Sassoalloro Oro 2021 (Castello di Montepó); Coevo Toscana 2015 (Cecchi); Toscana Rosso 2021 (Collazzi); Futuro 2020 (Colombaio di Cencio); I Tre Borri Toscana Rosso 2019 (Corzano e Paterno); Bosco del Grillo Governo 2023 (Geografico); Cabraia Rosso Toscana 2020 (Gualdo del Re); Trebbiano Bianco 2023 (Icario); Toscana 2020 (Il Borro); Toscana Rosso 2022 (La Madonnina); Nove Legni 2017 (Le Forconate); Vigna Baragazza Villa di Bagnolo Pinot Nero 2020 (Marchesi Pancrazi); Poggio alle Gazze 2023 (Ornellaia); 4 volte 25 - Rosso N.V. (PavoNero); Boggina B Bianco 2021 (Petrolo); Boggina B Bianco 2022 (Petrolo); Sasso al Poggio Toscana 2022 (Piccini); Macchie Terre di Casole Sangiovese 2019 (Pietro Caciorgna); Le Stanze Toscana 2021 (Poliziano); Curioso 2022 (Ponte Lungo); Curioso 2024 (Ponte Lungo); Curioso Grand Edizione 2023 (Ponte Lungo); Regina di Renieri 2020 (Renieri); Casalferro 2019 (Ricasoli); Modus Primo 2020 (Ruffino); Numero Sei 2023 (Sassotondo); Lamaione Toscana 2022 (Tenuta CastelGiocondo); Guardoalto 2017 (Tenuta Il Quinto); Lupo Bianco Toscana Rosso 2018 (Tenuta L'Impostino); Integritas Cuvée Bianco 2023 (Tenuta Romana); Guidalberto 2023 (Tenuta San Guido); Indaco 2019 (Tenuta dei Sette Cieli); Pinot Nero Toscana Vini Franchetti Sancaba Rosso 2024 (Tenuta di Trinoro); Solista Syrah 2006 (Terralsole); Bernardeschi Governo 2024 (Terrescure); Lotto Unico 2021 (Terrescure); Refenero 2022 (Terrescure); Toscana Rapace 2022 (Uccelliera); Donna di Valiano Chardonnay 2024 (Valiano); Vino in Musica 2018 (Valiano); Vallepicciola Bianco Igt Toscana 2023 (Vallepicciola)"
+        "wines": "Mocenni Particella 91 2020 (Bindi Sergardi); Bernardeschi Governo 2024 (Terrescure); 4 volte 25 - Rosso N.V. (PavoNero); Donna di Valiano Chardonnay 2024 (Valiano); Curioso Grand Edizione 2023 (Ponte Lungo); Bosco del Grillo Governo 2023 (Geografico); Curioso 2022 (Ponte Lungo); Vino in Musica 2018 (Valiano); Curioso 2024 (Ponte Lungo); Sasso al Poggio Toscana 2022 (Piccini)",
+        "source": "nominatim",
+        "nominatim_lat": 43.4586541,
+        "nominatim_lon": 11.1389204,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -302,7 +410,13 @@
         "place": "Vallée du Rhône, France",
         "country": "France",
         "wine_count": 3,
-        "wines": "Azénor 2023 (Domaine du Tau); GT-Syrah 2021 (LePlan-Vermeersch); GT-X 2021 (LePlan-Vermeersch)"
+        "wines": "GT-X 2021 (LePlan-Vermeersch); Azénor 2023 (Domaine du Tau); GT-Syrah 2021 (LePlan-Vermeersch)",
+        "source": "nominatim",
+        "nominatim_lat": 44.1965617,
+        "nominatim_lon": 4.7381118,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -318,7 +432,13 @@
         "place": "Touraine, France",
         "country": "France",
         "wine_count": 2,
-        "wines": "Solaris 2023 (Domaine Sauvète); Le Sauvignon 2023 (Le Château de Fontenay)"
+        "wines": "Solaris 2023 (Domaine Sauvète); Le Sauvignon 2023 (Le Château de Fontenay)",
+        "source": "nominatim",
+        "nominatim_lat": 47.2232046,
+        "nominatim_lon": 0.6866703,
+        "wikipedia_lat": 47.4,
+        "wikipedia_lon": 0.68333333,
+        "distance_km": 19.66
       }
     },
     {
@@ -334,7 +454,13 @@
         "place": "Fronsac, France",
         "country": "France",
         "wine_count": 2,
-        "wines": "Les Avertis 2016 (Château Renard Mondesir); Fronsac 2020 (Clos du Roy)"
+        "wines": "Les Avertis 2016 (Château Renard Mondesir); Fronsac 2020 (Clos du Roy)",
+        "source": "nominatim",
+        "nominatim_lat": 42.9509183,
+        "nominatim_lon": 0.6487221,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -350,7 +476,13 @@
         "place": "Gers, France",
         "country": "France",
         "wine_count": 3,
-        "wines": "Solo 2019 (Domaine de Gensac); Terre à Terre Blanc 2022 (Domaine de Gensac); Terre à Terre Rouge 2018 (Domaine de Gensac)"
+        "wines": "Terre à Terre Blanc 2022 (Domaine de Gensac); Terre à Terre Rouge 2018 (Domaine de Gensac); Solo 2019 (Domaine de Gensac)",
+        "source": "nominatim",
+        "nominatim_lat": 43.6955276,
+        "nominatim_lon": 0.4101019,
+        "wikipedia_lat": 43.65,
+        "wikipedia_lon": 0.58333333,
+        "distance_km": 14.82
       }
     },
     {
@@ -366,7 +498,13 @@
         "place": "Minervois-La Livinière, France",
         "country": "France",
         "wine_count": 6,
-        "wines": "Eclipse La Livinière 2020 (Domaine de Tholomies); Villa Mon Rêve 2019 (Gayda); Villa Mon Rêve 2020 (Gayda); Villa Mon Rêve 2021 (Gayda); Minervois La Livinière Le Viala 2022 (Gérard Bertrand); Soleil Rouge 2020 (Les Combes Cachées)"
+        "wines": "Soleil Rouge 2020 (Les Combes Cachées); Villa Mon Rêve 2020 (Gayda); Villa Mon Rêve 2021 (Gayda); Villa Mon Rêve 2019 (Gayda); Minervois La Livinière Le Viala 2022 (Gérard Bertrand); Eclipse La Livinière 2020 (Domaine de Tholomies)",
+        "source": "nominatim",
+        "nominatim_lat": 43.3847068,
+        "nominatim_lon": 2.6698267,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -382,7 +520,13 @@
         "place": "Marche, Italie",
         "country": "Italie",
         "wine_count": 10,
-        "wines": "Le Vaglie Thirty Together 2024 (Azienda Santa Barbara - Stefano Antonucci); 8 Otto Borghi 2022 (Casal Farneto); Biancanima 2021 (Guerrieri); Biancanima 2022 (Guerrieri); Guerriero Bianco 2023 (Guerrieri); Guerriero Nero 2023 (Guerrieri); Guerriero del Mare 2021 (Guerrieri); Guerriero del Mare 2023 (Guerrieri); Guerriero della Terra 2022 (Guerrieri); Leo N.V. (Guerrieri)"
+        "wines": "Guerriero del Mare 2021 (Guerrieri); Guerriero del Mare 2023 (Guerrieri); Guerriero Nero 2023 (Guerrieri); Guerriero della Terra 2022 (Guerrieri); Guerriero Bianco 2023 (Guerrieri); Leo N.V. (Guerrieri); Biancanima 2022 (Guerrieri); Le Vaglie Thirty Together 2024 (Azienda Santa Barbara - Stefano Antonucci); Biancanima 2021 (Guerrieri); 8 Otto Borghi 2022 (Casal Farneto)",
+        "source": "nominatim",
+        "nominatim_lat": 43.3458388,
+        "nominatim_lon": 13.1415872,
+        "wikipedia_lat": 43.61666667,
+        "wikipedia_lon": 13.51666667,
+        "distance_km": 42.69
       }
     },
     {
@@ -390,15 +534,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.190058,
-          40.248604
+          18,
+          40.33333333
         ]
       },
       "properties": {
         "place": "Salento, Italie",
         "country": "Italie",
         "wine_count": 19,
-        "wines": "Ngudrà Primitivo del Salento 2023 (Barbanera); Amativo 2023 (Cantele); Settebraccia 2019 (Cantina Sampietrana); Tre Filari 2022 (Cantina Sampietrana); Otto Cento Primitivo 2022 (Cignomoro); Pepe Nero Primitivo Salento 2024 (Cignomoro); Santufili Primitivo 2021 (Mocavero); Tela di Ragno 2017 (Mocavero); Quattronotti Appassimento Limited Edition Night Harvest 2023 (Montemajor); Quattronotti Appassimento Limited Edition Night Harvest 2024 (Montemajor); Negroamaro del Salento Rosone 2023 (Mottura); Susu' Susumaniello 2023 (Risveglio); Edda Bianco 2022 (San Marzano); Susco 2021 (San Marzano); Timo Vermentino 2024 (San Marzano); Critèra Primitivo 2023 (Schola Sarmenti); Cubardi Primitivo 2023 (Schola Sarmenti); Diciotto Primitivo 2021 (Schola Sarmenti); Nauna Primitivo - Negroamaro 2023 (Schola Sarmenti)"
+        "wines": "Nauna Primitivo - Negroamaro 2023 (Schola Sarmenti); Settebraccia 2019 (Cantina Sampietrana); Cubardi Primitivo 2023 (Schola Sarmenti); Critèra Primitivo 2023 (Schola Sarmenti); Pepe Nero Primitivo Salento 2024 (Cignomoro); Negroamaro del Salento Rosone 2023 (Mottura); Quattronotti Appassimento Limited Edition Night Harvest 2023 (Montemajor); Susco 2021 (San Marzano); Susu' Susumaniello 2023 (Risveglio); Edda Bianco 2022 (San Marzano)",
+        "source": "wikipedia",
+        "nominatim_lat": 40.248604,
+        "nominatim_lon": 15.190058,
+        "wikipedia_lat": 40.33333333,
+        "wikipedia_lon": 18,
+        "distance_km": 238.5
       }
     },
     {
@@ -406,15 +556,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.160983,
-          50.7007285
+          7.5,
+          48.5
         ]
       },
       "properties": {
         "place": "Alsace, France",
         "country": "France",
         "wine_count": 7,
-        "wines": "Cuvée Michel Léon Gewürztraminer 2024 (Arthur Metz); Le Séducteur Gewürztraminer 2020 (Domaine Bleger Claude et Christophe); Heissenberg Riesling 2019 (Domaine Ostertag); Clos des Capucins Gewürztraminer Alsace Altenbourg Cuvée Laurence 2023 (Domaine Weinbach); Clos des Capucins Gewürztraminer Alsace Cuvée Laurence 2020 (Domaine Weinbach); Riesling Grossi Laüe 2015 (Hugel); La Traversèe Riesling 2015 (Kumpf et Meyer)"
+        "wines": "Le Séducteur Gewürztraminer 2020 (Domaine Bleger Claude et Christophe); Cuvée Michel Léon Gewürztraminer 2024 (Arthur Metz); Heissenberg Riesling 2019 (Domaine Ostertag); Clos des Capucins Gewürztraminer Alsace Altenbourg Cuvée Laurence 2023 (Domaine Weinbach); Clos des Capucins Gewürztraminer Alsace Cuvée Laurence 2020 (Domaine Weinbach); Riesling Grossi Laüe 2015 (Hugel); La Traversèe Riesling 2015 (Kumpf et Meyer)",
+        "source": "wikipedia",
+        "nominatim_lat": 50.7007285,
+        "nominatim_lon": 3.160983,
+        "wikipedia_lat": 48.5,
+        "wikipedia_lon": 7.5,
+        "distance_km": 396.96
       }
     },
     {
@@ -430,7 +586,13 @@
         "place": "Primitivo di Manduria, Italie",
         "country": "Italie",
         "wine_count": 30,
-        "wines": "Primitivo di Manduria 2017 (Attanasio); Primitivo di Manduria Riserva 2017 (Attanasio); Primitivo di Manduria 2024 (Brunilde di Menzione); Primitivo di Manduria Riserva 2021 (Brunilde di Menzione); Primitivo di Manduria Riserva 2019 (Calitro); Ritardatario Primitivo di Manduria 2022 (Cantina Sava); 80 Vecchie Vigne Primitivo di Manduria Old Vines 2022 (Cignomoro); Since 1974 Primitivo di Manduria 2023 (Emera); Gocce Primitivo di Manduria 2020 (Feudi Salentini); Se Primitivo di Manduria 2023 (Gianfranco Fino); Librante Primitivo di Manduria 2020 (Luca Attanasio); Lu Rappaio Primitivo di Manduria 2023 (Masca del Tacco); Piano Chiuso Riserva Primitivo di Manduria 2022 (Masca del Tacco); Duna Mirante Primitivo di Manduria 2020 (Masseria Borgo dei Trulli); Duna Mirante Primitivo di Manduria 2022 (Masseria Borgo dei Trulli); Mirea Primitivo di Manduria 2023 (Masseria Borgo dei Trulli); 1 Premium Edition Primitivo di Manduria Riserva 2021 (Masseria La Volpe); 1 Uno Primitivo di Manduria 2024 (Masseria La Volpe); 1 Uno Primitivo di Manduria Riserva 2022 (Masseria La Volpe); Mammasanta Primitivo di Manduria 2021 (Montemajor); Stilio Primitivo di Manduria 2023 (Mottura); Giunonico Riserva Primitivo di Manduria 2017 (Paololeo); Cotis Primitivo di Manduria 2019 (Pietra Pura); Luminaria Primitivo di Manduria 2022 (Puglia Pop); 60 Sessantanni Old Vines Primitivo di Manduria 2019 (San Marzano); Carrubo Primitivo di Manduria 2020 (Tormaresca); Cosimo Varvaglione Collezione Privata Primitivo di Manduria 2020 (Varvaglione); Cosimo Varvaglione Collezione Privata Primitivo di Manduria 2021 (Varvaglione); Papale Linea Oro Primitivo di Manduria 2020 (Varvaglione); Gloria Primitivo di Manduria 2022 (Vigneti Reale)"
+        "wines": "1 Uno Primitivo di Manduria Riserva 2022 (Masseria La Volpe); Luminaria Primitivo di Manduria 2022 (Puglia Pop); Cotis Primitivo di Manduria 2019 (Pietra Pura); Primitivo di Manduria 2024 (Brunilde di Menzione); 1 Uno Primitivo di Manduria 2024 (Masseria La Volpe); 80 Vecchie Vigne Primitivo di Manduria Old Vines 2022 (Cignomoro); Mammasanta Primitivo di Manduria 2021 (Montemajor); Gloria Primitivo di Manduria 2022 (Vigneti Reale); Primitivo di Manduria Riserva 2021 (Brunilde di Menzione); 1 Premium Edition Primitivo di Manduria Riserva 2021 (Masseria La Volpe)",
+        "source": "nominatim",
+        "nominatim_lat": 40.4058798,
+        "nominatim_lon": 17.6361498,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -446,7 +608,13 @@
         "place": "Châteauneuf-du-Pape, France",
         "country": "France",
         "wine_count": 31,
-        "wines": "Domaine Grand Veneur Châteauneuf-du-Pape 'Le Miocène' 2023 (Alain Jaume); Châteauneuf-du-Pape 2023 (Calvet); Le Blason du Prince Châteauneuf-du-Pape 2023 (Cellier des Princes); Les Hauts Des Coteaux Châteauneuf-du-Pape 2019 (Cellier des Princes); La Cuvée des Marchands Châteauneuf-du-Pape 2020 (Château Gigognan); Châteauneuf-du-Pape 2020 (Château La Nerthe); Privilège Châteauneuf-du-Pape 2023 (Château Maucoil); Châteauneuf-du-Pape Closerie de Vaudieu Rouge 2022 (Château de Vaudieu); Châteauneuf-du-Pape 2021 (Château de la Gardine); Châteauneuf-du-Pape 2022 (Château de la Gardine); Châteauneuf-du-Pape Blanc 2023 (Château de la Gardine); Châteauneuf-du-Pape 2022 (Clos Saint Jean); Châteauneuf-du-Pape Les Safres 2023 (Clos du Caillou); Châteauneuf-du-Pape 2020 (Domaine La Barroche); Châteauneuf-du-Pape 2020 (Domaine Pierre André); 1947 Châteauneuf du Pape 2020 (Domaine Tourbillon); Châteauneuf-du-Pape 2020 (Domaine de Beaurenard); Châteauneuf-du-Pape 2018 (Domaine de Marcoux); L'Insolite Châteauneuf-du-Pape 2015 (Domaine de Saint Paul); L'Insolite Châteauneuf-du-Pape 2019 (Domaine de Saint Paul); Châteauneuf-du-Pape (Tradition) Rouge 2020 (Domaine de la Janasse); Châteauneuf-du-Pape 2022 (Domaine du Banneret); Châteauneuf-du-Pape 2022 (Domaine du Grand Tinel); Châteauneuf-du-Pape Cuvée Paule Courtil 2015 (Domaine l'Or de Line); Châteauneuf du Pape Rouge 2023 (La Bastide Saint Dominique); Les Arpents des Contrebandiers Châteauneuf-du-Pape 2021 (Mas Saint Louis); L'Oratoire des Papes Châteauneuf-du-Pape 2022 (Ogier); L'Oratoire des Papes Châteauneuf-du-Pape 2023 (Ogier); Châteauneuf du Pape Rouge 'Caparaçon' 2022 (Olivier Ravoire); Châteauneuf-du-Pape 2022 (Piedlong); Premiere Pierre Châteauneuf-du-Pape 2024 (Pierre Usseglio)"
+        "wines": "L'Oratoire des Papes Châteauneuf-du-Pape 2022 (Ogier); Le Blason du Prince Châteauneuf-du-Pape 2023 (Cellier des Princes); Châteauneuf-du-Pape 2021 (Château de la Gardine); Châteauneuf-du-Pape Closerie de Vaudieu Rouge 2022 (Château de Vaudieu); Domaine Grand Veneur Châteauneuf-du-Pape 'Le Miocène' 2023 (Alain Jaume); La Cuvée des Marchands Châteauneuf-du-Pape 2020 (Château Gigognan); Châteauneuf-du-Pape Blanc 2023 (Château de la Gardine); 1947 Châteauneuf du Pape 2020 (Domaine Tourbillon); Châteauneuf-du-Pape 2022 (Clos Saint Jean); Châteauneuf-du-Pape 2022 (Domaine du Banneret)",
+        "source": "nominatim",
+        "nominatim_lat": 44.055989,
+        "nominatim_lon": 4.8317351,
+        "wikipedia_lat": 44.0569,
+        "wikipedia_lon": 4.8319,
+        "distance_km": 0.1
       }
     },
     {
@@ -462,7 +630,13 @@
         "place": "Südtirol - Alto Adige, Italie",
         "country": "Italie",
         "wine_count": 33,
-        "wines": "Burgum Novum Chardonnay Riserva 2022 (Castelfeder); Lafóa Gewürztraminer 2022 (Colterenzio (Schreckbichl)); Contessa Lene Sauvignon Blanc 2023 (Conti Thun); Gewürztraminer Vigna Kastelaz 2023 (Elena Walch); Anadûron Riesling 2019 (Falkenstein); Phileo Weissburgunder 2017 (Falkenstein); Phileo Weissburgunder 2018 (Falkenstein); Phileo Weissburgunder 2019 (Falkenstein); Aimè Gewürztraminer 2024 (Girlan); Tetrix Gewürztraminer 2022 (Grottner); Barthenau Vigna S. Michele 2022 (J. Hofstätter); Oberkerschbaum Sauvignon 2022 (J. Hofstätter); Quintessenz Riserva Cabernet Sauvignon 2021 (Kaltern); Private Cuvée 2022 (Pacherhof); Voglar Sauvignon 2019 (Peter Dipoli); Gratus Cabernet Sauvignon 2021 (Ritterhof); Vom Lehm Pinot Noir Riserva 2022 (Rohregger); Sanct Valentin Chardonnay 2023 (St. Michael-Eppan); Sanct Valentin Gewürztraminer 2024 (St. Michael-Eppan); Sanct Valentin Pinot Grigio 2023 (St. Michael-Eppan); Sanct Valentin Sauvignon 2024 (St. Michael-Eppan); Lahner Riesling 2022 (Taschlerhof); Lahner Riesling 2023 (Taschlerhof); Cuvée Terlaner (Classico) 2023 (Terlan (Terlano)); Gewürztraminer Lunare 2021 (Terlan (Terlano)); Gewürztraminer Lunare 2023 (Terlan (Terlano)); Pinot Bianco Riserva Vorberg 2022 (Terlan (Terlano)); Pinot Bianco Riserva Vorberg 2023 (Terlan (Terlano)); Riserva Nova Domus Terlaner 2022 (Terlan (Terlano)); Linticlarus Lagrein Riserva 2020 (Tiefenbrunner); Turmhof Gewürztraminer 2022 (Tiefenbrunner); Nussbaumer Gewürztraminer 2023 (Tramin); Stoan 2023 (Tramin)"
+        "wines": "Sanct Valentin Pinot Grigio 2023 (St. Michael-Eppan); Sanct Valentin Gewürztraminer 2024 (St. Michael-Eppan); Sanct Valentin Sauvignon 2024 (St. Michael-Eppan); Cuvée Terlaner (Classico) 2023 (Terlan (Terlano)); Sanct Valentin Chardonnay 2023 (St. Michael-Eppan); Gewürztraminer Vigna Kastelaz 2023 (Elena Walch); Pinot Bianco Riserva Vorberg 2022 (Terlan (Terlano)); Gewürztraminer Lunare 2021 (Terlan (Terlano)); Riserva Nova Domus Terlaner 2022 (Terlan (Terlano)); Lafóa Gewürztraminer 2022 (Colterenzio (Schreckbichl))",
+        "source": "nominatim",
+        "nominatim_lat": 46.9065378,
+        "nominatim_lon": 11.0957475,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -478,7 +652,35 @@
         "place": "Almansa, Espagne",
         "country": "Espagne",
         "wine_count": 7,
-        "wines": "Alaya Tierra 2022 (Atalaya); El Abuelo Reserva 2021 (Bodegas Piqueras); El Abuelo Selección Edición Limitada 2021 (Bodegas Piqueras); Gen One Red 2020 (Bodegas Piqueras); Los Losares Garnacha Tintorera 2021 (Bodegas Piqueras); Piqueras Vendimia Seleccionada Monastrell - Garnacha Tintorera 2019 (Bodegas Piqueras); Altado Monastrell 2022 (Finca Fella)"
+        "wines": "Gen One Red 2020 (Bodegas Piqueras); Los Losares Garnacha Tintorera 2021 (Bodegas Piqueras); El Abuelo Selección Edición Limitada 2021 (Bodegas Piqueras); Piqueras Vendimia Seleccionada Monastrell - Garnacha Tintorera 2019 (Bodegas Piqueras); Altado Monastrell 2022 (Finca Fella); El Abuelo Reserva 2021 (Bodegas Piqueras); Alaya Tierra 2022 (Atalaya)",
+        "source": "nominatim",
+        "nominatim_lat": 38.8682065,
+        "nominatim_lon": -1.0978627,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6041,
+          44.7597
+        ]
+      },
+      "properties": {
+        "place": "Pessac-Léognan, France",
+        "country": "France",
+        "wine_count": 18,
+        "wines": "Pessac-Léognan 2019 (Château Carrosse Martillac); Pessac-Léognan (Grand Cru Classé de Graves) 2014 (Château Malartic-Lagravière); Pessac-Léognan 2019 (Château Picque Caillou); Pessac-Léognan Blanc 2017 (Château Brown); Pessac-Léognan (Grand Cru Classé) 2020 (Château Olivier); Pessac-Léognan (Grand Cru Classé) 2019 (Château Olivier); Pessac-Léognan 2020 (Château Larrivet Haut-Brion); Pessac-Leognan 2015 (Clos Marsalette); Pessac-Léognan (Grand Cru Classé) 2017 (Château Olivier); Clémentin de Pape Clément Pessac-Léognan 2021 (Château Pape Clément)",
+        "source": "wikipedia",
+        "nominatim_lat": null,
+        "nominatim_lon": null,
+        "wikipedia_lat": 44.7597,
+        "wikipedia_lon": -0.6041,
+        "distance_km": null
       }
     },
     {
@@ -494,7 +696,13 @@
         "place": "Vérone, Italie",
         "country": "Italie",
         "wine_count": 4,
-        "wines": "Campo del Maestro Verona 2022 (Brunelli); Blend N°3 2019 (Cà dei Maghi); Decima Aurea Merlot 2020 (Tenuta Santa Maria 1735); Ca' de' Rocchi Corvè Corvina della Provincia di Verona 2023 (Tinazzi)"
+        "wines": "Campo del Maestro Verona 2022 (Brunelli); Ca' de' Rocchi Corvè Corvina della Provincia di Verona 2023 (Tinazzi); Blend N°3 2019 (Cà dei Maghi); Decima Aurea Merlot 2020 (Tenuta Santa Maria 1735)",
+        "source": "nominatim",
+        "nominatim_lat": 45.4384958,
+        "nominatim_lon": 10.9924122,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -510,7 +718,13 @@
         "place": "Nizza, Italie",
         "country": "Italie",
         "wine_count": 7,
-        "wines": "Nizza DOCG 2019 (Azienda Agricola Francesco Iandolo); Pomorosso Nizza 2021 (Coppo); Pragerolamo Nizza 2022 (Durio); Bricco Roche Riserva 2018 (Il Falchetto); La Court Barbera d'Asti Nizza Riserva 2020 (Michele Chiarlo); Costamiòle Riserva 2021 (Prunotto); Costamiòle Riserva 2022 (Prunotto)"
+        "wines": "Costamiòle Riserva 2021 (Prunotto); Pomorosso Nizza 2021 (Coppo); Costamiòle Riserva 2022 (Prunotto); Pragerolamo Nizza 2022 (Durio); Bricco Roche Riserva 2018 (Il Falchetto); La Court Barbera d'Asti Nizza Riserva 2020 (Michele Chiarlo); Nizza DOCG 2019 (Azienda Agricola Francesco Iandolo)",
+        "source": "nominatim",
+        "nominatim_lat": 37.992622,
+        "nominatim_lon": 15.4119128,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -526,7 +740,13 @@
         "place": "Margaux, France",
         "country": "France",
         "wine_count": 18,
-        "wines": "Margaux 2022 (Château Chantelune); Initial de Desmirail Margaux 2015 (Château Desmirail); Margaux (Grand Cru Classé) 2021 (Château Desmirail); Margaux 2017 (Château La Tour de Mons); Margaux 2016 (Château Labégorce); Margaux 2021 (Château Labégorce); La Dame de Malescot Margaux 2017 (Château Malescot St. Exupery); Margaux 2016 (Château Siran); Margaux 2017 (Château Siran); Margaux 2018 (Château Siran); Margaux 2021 (Château Siran); S de Siran Margaux 2019 (Château Siran); S de Siran Margaux 2020 (Château Siran); Margaux 2020 (Château Tayac); Blason d'Issan Margaux 2016 (Château d'Issan); Blason d'Issan Margaux 2018 (Château d'Issan); Château Marojallia Margaux 2014 (Domaines Philippe Porcheron); Château Marojallia Margaux 2015 (Domaines Philippe Porcheron)"
+        "wines": "Margaux 2022 (Château Chantelune); Margaux 2020 (Château Tayac); Margaux 2016 (Château Labégorce); Blason d'Issan Margaux 2016 (Château d'Issan); Margaux 2017 (Château La Tour de Mons); Blason d'Issan Margaux 2018 (Château d'Issan); Margaux 2021 (Château Labégorce); Château Marojallia Margaux 2015 (Domaines Philippe Porcheron); Château Marojallia Margaux 2014 (Domaines Philippe Porcheron); Margaux 2016 (Château Siran)",
+        "source": "nominatim",
+        "nominatim_lat": 45.0463335,
+        "nominatim_lon": -0.6729117,
+        "wikipedia_lat": 45.0419,
+        "wikipedia_lon": -0.6756,
+        "distance_km": 0.54
       }
     },
     {
@@ -542,7 +762,13 @@
         "place": "Marsannay, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Marsannay Sans Soufre Ajouté 2018 (René Bouvier)"
+        "wines": "Marsannay Sans Soufre Ajouté 2018 (René Bouvier)",
+        "source": "nominatim",
+        "nominatim_lat": 47.2705441,
+        "nominatim_lon": 4.9884218,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -558,7 +784,13 @@
         "place": "Cahors, France",
         "country": "France",
         "wine_count": 3,
-        "wines": "L’Ephémère Cahors 2022 (Château de Rouffiac); Rouffiac Malbec Cahors 2023 (Château de Rouffiac); La Marguerite Cahors 2018 (Cosse Maisonneuve)"
+        "wines": "L’Ephémère Cahors 2022 (Château de Rouffiac); Rouffiac Malbec Cahors 2023 (Château de Rouffiac); La Marguerite Cahors 2018 (Cosse Maisonneuve)",
+        "source": "nominatim",
+        "nominatim_lat": 44.4495,
+        "nominatim_lon": 1.4364999,
+        "wikipedia_lat": 44.4483,
+        "wikipedia_lon": 1.4414,
+        "distance_km": 0.41
       }
     },
     {
@@ -574,7 +806,13 @@
         "place": "Fitou, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Rebelle Fitou 2023 (Château Wiala)"
+        "wines": "Rebelle Fitou 2023 (Château Wiala)",
+        "source": "nominatim",
+        "nominatim_lat": 42.8940931,
+        "nominatim_lon": 2.9817326,
+        "wikipedia_lat": 42.8944,
+        "wikipedia_lon": 2.9794,
+        "distance_km": 0.19
       }
     },
     {
@@ -590,7 +828,13 @@
         "place": "Pays d'Oc, France",
         "country": "France",
         "wine_count": 14,
-        "wines": "Cuvée Vieilles Vignes 2024 (Cabalié); Côtes Catalanes 2024 (Cabalié); Art' Blanc 2020 (Clos des Centenaires); Art' Blanc 2021 (Clos des Centenaires); Rouge 2021 (Domaine de Cigalus); Elite d'Or Blanc 2024 (Domaine de la Baume); Les Invincibles Le Capiteux 2021 (Domaine la Provenquière); Les Invincibles Le Généreux 2020 (Domaine la Provenquière); Les Invincibles Le Téméraire 2021 (Domaine la Provenquière); Marie Rose Chardonnay 2023 (Fabre Gouyric); An 940 Merlot 2022 (Gérard Bertrand); Les Brunes 2023 (Les Creisses); Le Beillou Carignan 2020 (Les Jamelles); Mourvèdre 2022 (Les Jamelles)"
+        "wines": "Marie Rose Chardonnay 2023 (Fabre Gouyric); Les Invincibles Le Téméraire 2021 (Domaine la Provenquière); Rouge 2021 (Domaine de Cigalus); Le Beillou Carignan 2020 (Les Jamelles); Les Invincibles Le Généreux 2020 (Domaine la Provenquière); Elite d'Or Blanc 2024 (Domaine de la Baume); Côtes Catalanes 2024 (Cabalié); Cuvée Vieilles Vignes 2024 (Cabalié); Les Invincibles Le Capiteux 2021 (Domaine la Provenquière); Mourvèdre 2022 (Les Jamelles)",
+        "source": "nominatim",
+        "nominatim_lat": 43.5890885,
+        "nominatim_lon": 1.4422712,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -606,7 +850,13 @@
         "place": "Rioja Alta, Espagne",
         "country": "Espagne",
         "wine_count": 2,
-        "wines": "Viña Gravonia 2014 (R. López de Heredia); Las Cenizas Tempranillo 2021 (Viñedos Hermanos Hernáiz)"
+        "wines": "Las Cenizas Tempranillo 2021 (Viñedos Hermanos Hernáiz); Viña Gravonia 2014 (R. López de Heredia)",
+        "source": "nominatim",
+        "nominatim_lat": 42.4157318,
+        "nominatim_lon": -2.8794739,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -622,7 +872,13 @@
         "place": "Vino de España, Espagne",
         "country": "Espagne",
         "wine_count": 8,
-        "wines": "Full Flap Red Blend 2021 (Bodegas Vilano); Full Flap Red Blend 2023 (Bodegas Vilano); Viura - Chardonnay 2024 (El Castilla); Kingpin N.V. (Félix Solís); Mucho Mas Gold N.V. (Félix Solís); Mucho Más Tinto - Black Edition N.V. (Félix Solís); Mucho Más Tinto N.V. (Félix Solís); The Guv'nor VIP N.V. (Félix Solís)"
+        "wines": "Full Flap Red Blend 2023 (Bodegas Vilano); Mucho Más Tinto N.V. (Félix Solís); The Guv'nor VIP N.V. (Félix Solís); Mucho Más Tinto - Black Edition N.V. (Félix Solís); Kingpin N.V. (Félix Solís); Full Flap Red Blend 2021 (Bodegas Vilano); Mucho Mas Gold N.V. (Félix Solís); Viura - Chardonnay 2024 (El Castilla)",
+        "source": "nominatim",
+        "nominatim_lat": 41.6672478,
+        "nominatim_lon": -4.7140284,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -638,7 +894,13 @@
         "place": "Castille-et-León, Espagne",
         "country": "Espagne",
         "wine_count": 5,
-        "wines": "Blanco de Parcela 2024 (Aalto); Godello Blanco 2023 (Bodegas Mauro); Mauro 2023 (Bodegas Mauro); Full Flap Albarín Blanco 2024 (Bodegas Vilano); Rejón Tempranillo 2021 (Tridente)"
+        "wines": "Full Flap Albarín Blanco 2024 (Bodegas Vilano); Godello Blanco 2023 (Bodegas Mauro); Mauro 2023 (Bodegas Mauro); Rejón Tempranillo 2021 (Tridente); Blanco de Parcela 2024 (Aalto)",
+        "source": "nominatim",
+        "nominatim_lat": 41.55005,
+        "nominatim_lon": -5.1387401,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -654,7 +916,13 @@
         "place": "Pauillac, France",
         "country": "France",
         "wine_count": 7,
-        "wines": "Lacoste Borie Pauillac 2020 (Château Grand-Puy-Lacoste); Pauillac (Grand Cru Classé) 2016 (Château Lynch-Moussas); Pauillac (Grand Cru Classé) 2020 (Château Lynch-Moussas); Château La Fleur Peyrabon Pauillac 2015 (Château Peyrabon); Les Griffons Pauillac 2018 (Château Pichon Baron); Fleur de Pédesclaux Pauillac 2016 (Château Pédesclaux); Pauillac (Grand Cru Classé) 2018 (Château Pédesclaux)"
+        "wines": "Pauillac (Grand Cru Classé) 2018 (Château Pédesclaux); Les Griffons Pauillac 2018 (Château Pichon Baron); Château La Fleur Peyrabon Pauillac 2015 (Château Peyrabon); Pauillac (Grand Cru Classé) 2020 (Château Lynch-Moussas); Lacoste Borie Pauillac 2020 (Château Grand-Puy-Lacoste); Fleur de Pédesclaux Pauillac 2016 (Château Pédesclaux); Pauillac (Grand Cru Classé) 2016 (Château Lynch-Moussas)",
+        "source": "nominatim",
+        "nominatim_lat": 45.1995626,
+        "nominatim_lon": -0.7484994,
+        "wikipedia_lat": 45.1999,
+        "wikipedia_lon": -0.7488,
+        "distance_km": 0.04
       }
     },
     {
@@ -670,7 +938,13 @@
         "place": "Nuits-Saint-Georges, France",
         "country": "France",
         "wine_count": 2,
-        "wines": "Nuits-Saint-Georges 2013 (Château de Pommard); Cuvée Dame Marguerite Vieilles Vignes Nuits-Saint-Georges 2018 (Domaine Armelle et Bernard Rion)"
+        "wines": "Cuvée Dame Marguerite Vieilles Vignes Nuits-Saint-Georges 2018 (Domaine Armelle et Bernard Rion); Nuits-Saint-Georges 2013 (Château de Pommard)",
+        "source": "nominatim",
+        "nominatim_lat": 47.1367598,
+        "nominatim_lon": 4.9489061,
+        "wikipedia_lat": 47.1383,
+        "wikipedia_lon": 4.9511,
+        "distance_km": 0.24
       }
     },
     {
@@ -686,7 +960,13 @@
         "place": "Pézenas, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Solen 2015 (Domaine Les Aurelles)"
+        "wines": "Solen 2015 (Domaine Les Aurelles)",
+        "source": "nominatim",
+        "nominatim_lat": 43.4611777,
+        "nominatim_lon": 3.4228323,
+        "wikipedia_lat": 43.4606,
+        "wikipedia_lon": 3.4236,
+        "distance_km": 0.09
       }
     },
     {
@@ -702,7 +982,13 @@
         "place": "Saumur, France",
         "country": "France",
         "wine_count": 3,
-        "wines": "Les Pentes Saumur 2016 (Clos de l'Écotard); Les Pentes Saumur 2022 (Clos de l'Écotard); Coulée de St-Cyr Saumur 2021 (Domaine Arnaud Lambert)"
+        "wines": "Coulée de St-Cyr Saumur 2021 (Domaine Arnaud Lambert); Les Pentes Saumur 2022 (Clos de l'Écotard); Les Pentes Saumur 2016 (Clos de l'Écotard)",
+        "source": "nominatim",
+        "nominatim_lat": 47.2596224,
+        "nominatim_lon": -0.0785177,
+        "wikipedia_lat": 47.26,
+        "wikipedia_lon": -0.0769,
+        "distance_km": 0.13
       }
     },
     {
@@ -718,7 +1004,13 @@
         "place": "Pouilly-Fuissé, France",
         "country": "France",
         "wine_count": 5,
-        "wines": "Pouilly-Fuissé 2023 (Chartron et Trébuchet); Pouilly-Fuissé 'Clos des Quarts' Monopole 2019 (Château des Quarts); Pouilly-Fuissé La Maréchaude 2022 (Domaine Saumaize-Michelin); Pouilly-Fuissé 'La Maréchaude' 2023 (Eve & Michel Rey); Clos des Prouges Pouilly-Fuissé 2020 (J.A. Ferret)"
+        "wines": "Pouilly-Fuissé La Maréchaude 2022 (Domaine Saumaize-Michelin); Pouilly-Fuissé 2023 (Chartron et Trébuchet); Clos des Prouges Pouilly-Fuissé 2020 (J.A. Ferret); Pouilly-Fuissé 'Clos des Quarts' Monopole 2019 (Château des Quarts); Pouilly-Fuissé 'La Maréchaude' 2023 (Eve & Michel Rey)",
+        "source": "nominatim",
+        "nominatim_lat": 46.2764517,
+        "nominatim_lon": 4.7858077,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -734,7 +1026,13 @@
         "place": "Savennières, France",
         "country": "France",
         "wine_count": 3,
-        "wines": "Clos des Perrières Savennières 2022 (Château Soucherie); Gaudrets 2020 (Domaine Belargus); Clos de Frémine Savennières 2023 (Thibaud Boudignon)"
+        "wines": "Gaudrets 2020 (Domaine Belargus); Clos des Perrières Savennières 2022 (Château Soucherie); Clos de Frémine Savennières 2023 (Thibaud Boudignon)",
+        "source": "nominatim",
+        "nominatim_lat": 47.3830917,
+        "nominatim_lon": -0.6570828,
+        "wikipedia_lat": 47.3838,
+        "wikipedia_lon": -0.6564,
+        "distance_km": 0.09
       }
     },
     {
@@ -750,7 +1048,13 @@
         "place": "Saint-Estèphe, France",
         "country": "France",
         "wine_count": 13,
-        "wines": "Saint-Estèphe 2016 (Château Andron-Blanquet); Saint-Estèphe (Grand Cru Classé) 2021 (Château Cos Labory); Saint-Estèphe 2018 (Château Haut-Marbuzet); Saint-Estèphe 2019 (Château Haut-Marbuzet); Saint-Estèphe 2019 (Château Laffitte-Carcasset); Saint-Estèphe (Grand Cru Classé) 2021 (Château Lafon-Rochet); Saint-Estèphe 2021 (Château Lilian Ladouys); Saint-Estèphe 2017 (Château Petit Bocq); Saint-Estèphe 2017 (Château Tour de Pez); Pagodes de Cos 2013 (Cos d'Estournel); Pagodes de Cos 2016 (Cos d'Estournel); Pagodes de Cos 2018 (Cos d'Estournel); Prestige Saint-Estèphe 2016 (Marquis de Saint-Estèphe)"
+        "wines": "Pagodes de Cos 2018 (Cos d'Estournel); Pagodes de Cos 2016 (Cos d'Estournel); Saint-Estèphe 2016 (Château Andron-Blanquet); Saint-Estèphe 2019 (Château Laffitte-Carcasset); Saint-Estèphe 2017 (Château Petit Bocq); Pagodes de Cos 2013 (Cos d'Estournel); Saint-Estèphe 2017 (Château Tour de Pez); Saint-Estèphe (Grand Cru Classé) 2021 (Château Cos Labory); Saint-Estèphe (Grand Cru Classé) 2021 (Château Lafon-Rochet); Prestige Saint-Estèphe 2016 (Marquis de Saint-Estèphe)",
+        "source": "nominatim",
+        "nominatim_lat": 45.5925,
+        "nominatim_lon": 0.6633333,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -766,7 +1070,13 @@
         "place": "Faugères, France",
         "country": "France",
         "wine_count": 3,
-        "wines": "Faugères 2019 (Leon Barral); Valinière Faugères 2019 (Leon Barral); Faugères Rouge 2019 (Mas Gabinèle (Thierry Rodriguez))"
+        "wines": "Valinière Faugères 2019 (Leon Barral); Faugères Rouge 2019 (Mas Gabinèle (Thierry Rodriguez)); Faugères 2019 (Leon Barral)",
+        "source": "nominatim",
+        "nominatim_lat": 43.5648186,
+        "nominatim_lon": 3.1901144,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -782,7 +1092,13 @@
         "place": "Vénétie, Italie",
         "country": "Italie",
         "wine_count": 9,
-        "wines": "Le Argille Cabernet di Cabernet 2021 (47 Anno Domini); Appassionante 2022 (Cielo e Terra); Kreda 2021 (De Stefani); Guido Rosso del Veneto 2018 (Manara); Cabernet Sauvignon 2021 (Marion); Hey French You Could Have Made This But You Didn't N.V. (Pasqua Vigneti e Cantine); Legacy Riposato Rosso Veneto 2021 (SalvaTerra); Ca' de' Rocchi Merlot Prato del Faggio 2024 (Tinazzi); Il Bianco Garganega - Chardonnay 2024 (Télos)"
+        "wines": "Legacy Riposato Rosso Veneto 2021 (SalvaTerra); Ca' de' Rocchi Merlot Prato del Faggio 2024 (Tinazzi); Appassionante 2022 (Cielo e Terra); Guido Rosso del Veneto 2018 (Manara); Kreda 2021 (De Stefani); Le Argille Cabernet di Cabernet 2021 (47 Anno Domini); Cabernet Sauvignon 2021 (Marion); Il Bianco Garganega - Chardonnay 2024 (Télos); Hey French You Could Have Made This But You Didn't N.V. (Pasqua Vigneti e Cantine)",
+        "source": "nominatim",
+        "nominatim_lat": 45.6476663,
+        "nominatim_lon": 11.8665254,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -790,15 +1106,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.482805,
-          42.2814642
+          -2.4674917,
+          42.3285528
         ]
       },
       "properties": {
         "place": "Rioja, Espagne",
         "country": "Espagne",
         "wine_count": 47,
-        "wines": "Gaminde 2016 (Allende); Mingortiz Rioja 2016 (Allende); Uva por Uva 2019 (Altanza); Félix Azpilicueta Colección Privada 2020 (Azpilicueta); Macán Clásico 2019 (Benjamin de Rothschild - Vega Sicilia); Macán Clásico 2020 (Benjamin de Rothschild - Vega Sicilia); Macán Clásico 2021 (Benjamin de Rothschild - Vega Sicilia); Qué Bonito Cacareaba Blanco 2023 (Bodega Contador (Benjamín Romeo)); Roda I Reserva Rioja 2019 (Bodegas Roda); Reserva 2019 (Castillo de Mendoza); Alomado 2022 (Cuentaviñas); Arriscado 2022 (Cuentaviñas); CDVIN Garnacha 2022 (Cuentaviñas); Rioja Blanco Reserva 2016 (Finca Valpiedra); Montes Obarenes Selección Terroir 2022 (Gómez Cruzado); Pancrudo 2019 (Gómez Cruzado); Viña Arana Gran Reserva 2016 (La Rioja Alta); Viña Arana Gran Reserva 2017 (La Rioja Alta); Viña Ardanza Reserva 2017 (La Rioja Alta); Viña Ardanza Reserva 2019 (La Rioja Alta); A Mano Rioja 2019 (Lan); Culmen Reserva Rioja 2017 (Lan); Maktub Reserva 2019 (Maktub by Paco Arango); Gran Reserva Rioja 2016 (Marques de Vargas); Gran Reserva Rioja 2018 (Marques de Vargas); Gran Reserva Rioja (Finca Ygay) 2016 (Marqués de Murrieta); Reserva XR 2021 (Marqués de Riscal); Viña Monty Reserva Blanco 2018 (Montecillo); Veguin de Murua Gran Reserva 2015 (Murua); Manttoni 2022 (Oxer Wines); Suzzane Rioja 2023 (Oxer Wines); Rioja Reserva (Tempranillo) 2019 (Ramón Bilbao); Grandes Lindes de Remelluri Jesusa Areta San Vicente de la Sonsierra 2019 (Remelluri); Rioja Blanco 2022 (Remírez de Ganuza); Rioja Reserva 2017 (Remírez de Ganuza); Rioja Reserva Fincas de Ganuza 2017 (Remírez de Ganuza); Delicia de Baco Crianza 2022 (Señorio de Villarrica); San Vicente Rioja 2014 (Señorío de San Vicente); San Vicente Rioja 2021 (Señorío de San Vicente); Finca el Bosque 2022 (Sierra Cantabria); Martelo Reserva 2019 (Torre de Oña); 200 Monges Rioja Reserva 2014 (Vinícola Real); Reserva 2017 (Viña Otano); Viñedo Singular 2020 (Viña Zaco); El Puntido 2019 (Viñedos de Páganos); El Puntido 2020 (Viñedos de Páganos); El Puntido 2022 (Viñedos de Páganos)"
+        "wines": "Reserva 2019 (Castillo de Mendoza); Rioja Reserva (Tempranillo) 2019 (Ramón Bilbao); Reserva 2017 (Viña Otano); Culmen Reserva Rioja 2017 (Lan); Montes Obarenes Selección Terroir 2022 (Gómez Cruzado); Rioja Reserva 2017 (Remírez de Ganuza); Veguin de Murua Gran Reserva 2015 (Murua); Mingortiz Rioja 2016 (Allende); Gran Reserva Rioja 2018 (Marques de Vargas); Uva por Uva 2019 (Altanza)",
+        "source": "nominatim",
+        "nominatim_lat": 42.3285528,
+        "nominatim_lon": -2.4674917,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -814,7 +1136,13 @@
         "place": "Fixin, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Fixin 2013 (Michel Noëllat)"
+        "wines": "Fixin 2013 (Michel Noëllat)",
+        "source": "nominatim",
+        "nominatim_lat": 47.2455008,
+        "nominatim_lon": 4.9728452,
+        "wikipedia_lat": 47.2464,
+        "wikipedia_lon": 4.973,
+        "distance_km": 0.1
       }
     },
     {
@@ -830,7 +1158,13 @@
         "place": "Savoie, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "La Peyse Chignin-Bergeron 2022 (Philippe Ravier)"
+        "wines": "La Peyse Chignin-Bergeron 2022 (Philippe Ravier)",
+        "source": "nominatim",
+        "nominatim_lat": 45.4948952,
+        "nominatim_lon": 6.3846604,
+        "wikipedia_lat": 45.58333333,
+        "wikipedia_lon": 6.33333333,
+        "distance_km": 10.62
       }
     },
     {
@@ -846,7 +1180,13 @@
         "place": "Vin de France, France",
         "country": "France",
         "wine_count": 9,
-        "wines": "L'Iranja 2021 (Camin Larredya); Château Grézan Séculaire 2021 (Famille Cros Pujol); Château Grézan Séculaire 2022 (Famille Cros Pujol); Morillon Blanc 2023 (Jeff Carrel); Les Villas Villa Chambre d'Amour Blanc 2023 (Lionel Osmin & Cie); Cuvée Marguerite 2024 (Matassa); Tattouine Rouge 2024 (Matassa); Tommy Ferriol 2024 (Matassa); Red Blend Reserve 2022 (Villa des Anges)"
+        "wines": "Morillon Blanc 2023 (Jeff Carrel); Les Villas Villa Chambre d'Amour Blanc 2023 (Lionel Osmin & Cie); Red Blend Reserve 2022 (Villa des Anges); L'Iranja 2021 (Camin Larredya); Cuvée Marguerite 2024 (Matassa); Tommy Ferriol 2024 (Matassa); Château Grézan Séculaire 2021 (Famille Cros Pujol); Tattouine Rouge 2024 (Matassa); Château Grézan Séculaire 2022 (Famille Cros Pujol)",
+        "source": "nominatim",
+        "nominatim_lat": 48.8683837,
+        "nominatim_lon": 2.6877273,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -854,15 +1194,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.3101247,
-          43.3962636
+          11.306961,
+          43.3947459
         ]
       },
       "properties": {
         "place": "Chianti Classico, Italie",
         "country": "Italie",
         "wine_count": 13,
-        "wines": "Badia a Passignano Gran Selezione Chianti Classico 2020 (Antinori); Tenuta Tignanello 'Marchese Antinori' Chianti Classico Riserva 2022 (Antinori); Mocenni Numero 89 Gran Selezione Chianti Classico 2018 (Bindi Sergardi); Lodoli Gran Selezione Chianti Classico 2020 (Colombaio di Cencio); Chianti Classico Riserva Novecento 2021 (Dievole); Vigna Grospoli Gran Selezione Chianti Classico 2020 (Fattoria di Lamole); Contessa di Radda Chianti Classico Riserva 2020 (Geografico); Zac Chianti Classico Gran Selezione 2020 (Principe Corsini); La Pieve Gran Selezione Chianti Classico 2021 (San Felice); Rialzi Chianti Classico Gran Selezione 2021 (Tenuta Perano); Chianti Classico Gran Selezione 2020 (Tenuta di Nozzole); La Forra Chianti Classico Riserva 2021 (Tenuta di Nozzole); San Lazzaro Chianti Classico Gran Selezione 2021 (Valiano)"
+        "wines": "Mocenni Numero 89 Gran Selezione Chianti Classico 2018 (Bindi Sergardi); Contessa di Radda Chianti Classico Riserva 2020 (Geografico); San Lazzaro Chianti Classico Gran Selezione 2021 (Valiano); Badia a Passignano Gran Selezione Chianti Classico 2020 (Antinori); Tenuta Tignanello 'Marchese Antinori' Chianti Classico Riserva 2022 (Antinori); Rialzi Chianti Classico Gran Selezione 2021 (Tenuta Perano); Zac Chianti Classico Gran Selezione 2020 (Principe Corsini); Chianti Classico Gran Selezione 2020 (Tenuta di Nozzole); Chianti Classico Riserva Novecento 2021 (Dievole); La Pieve Gran Selezione Chianti Classico 2021 (San Felice)",
+        "source": "nominatim",
+        "nominatim_lat": 43.3947459,
+        "nominatim_lon": 11.306961,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -878,7 +1224,13 @@
         "place": "Saint-Julien, France",
         "country": "France",
         "wine_count": 8,
-        "wines": "Croix de Beaucaillou Saint-Julien 2018 (Château Ducru-Beaucaillou); Saint-Julien 2021 (Château Gloria); Les Fiefs de Lagrange Saint-Julien 2016 (Château Lagrange); Les Fiefs de Lagrange Saint-Julien 2018 (Château Lagrange); Les Fiefs de Lagrange Saint-Julien 2021 (Château Lagrange); Saint-Julien (Grand Cru Classé) 2021 (Château Lagrange); Saint-Julien (Grand Cru Classé) 2021 (Château Saint-Pierre); Pavillon du Glana Saint-Julien 2020 (Château du Glana)"
+        "wines": "Pavillon du Glana Saint-Julien 2020 (Château du Glana); Saint-Julien (Grand Cru Classé) 2021 (Château Lagrange); Les Fiefs de Lagrange Saint-Julien 2016 (Château Lagrange); Les Fiefs de Lagrange Saint-Julien 2018 (Château Lagrange); Saint-Julien 2021 (Château Gloria); Les Fiefs de Lagrange Saint-Julien 2021 (Château Lagrange); Saint-Julien (Grand Cru Classé) 2021 (Château Saint-Pierre); Croix de Beaucaillou Saint-Julien 2018 (Château Ducru-Beaucaillou)",
+        "source": "nominatim",
+        "nominatim_lat": 47.4019947,
+        "nominatim_lon": 5.1364639,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -894,7 +1246,13 @@
         "place": "Lalande-de-Pomerol, France",
         "country": "France",
         "wine_count": 7,
-        "wines": "Lalande-de-Pomerol 2019 (Château Canon Chaigneau); Lalande de Pomerol 2018 (Château Haut-Châtain); Lalande de Pomerol 2016 (Château Pavillon Beauregard); Lalande de Pomerol 2019 (Château Pavillon Beauregard); Lalande-de-Pomerol 2016 (Château Siaurac); Lalande-de-Pomerol 2021 (Château Siaurac); Domaine des Sabines Lalande de Pomerol 2015 (Thunevin)"
+        "wines": "Lalande de Pomerol 2018 (Château Haut-Châtain); Lalande-de-Pomerol 2019 (Château Canon Chaigneau); Lalande de Pomerol 2016 (Château Pavillon Beauregard); Lalande de Pomerol 2019 (Château Pavillon Beauregard); Lalande-de-Pomerol 2016 (Château Siaurac); Lalande-de-Pomerol 2021 (Château Siaurac); Domaine des Sabines Lalande de Pomerol 2015 (Thunevin)",
+        "source": "nominatim",
+        "nominatim_lat": 44.9560756,
+        "nominatim_lon": -0.2104434,
+        "wikipedia_lat": 44.9567,
+        "wikipedia_lon": -0.2081,
+        "distance_km": 0.2
       }
     },
     {
@@ -910,7 +1268,13 @@
         "place": "Bolgheri, Italie",
         "country": "Italie",
         "wine_count": 6,
-        "wines": "Tenuta Guado al Tasso Cont'Ugo Bolgheri 2023 (Antinori); Tenuta Guado al Tasso Il Bruciato Bolgheri 2024 (Antinori); Varvàra Bolgheri 2023 (Castello di Bolgheri); Bolgheri 2023 (Donne Fittipaldi); Bolgheri Vermentino 2023 (Grattamacco); L'Invidio Bolgheri Rosso 2023 (Podere Sette)"
+        "wines": "L'Invidio Bolgheri Rosso 2023 (Podere Sette); Bolgheri 2023 (Donne Fittipaldi); Tenuta Guado al Tasso Cont'Ugo Bolgheri 2023 (Antinori); Varvàra Bolgheri 2023 (Castello di Bolgheri); Tenuta Guado al Tasso Il Bruciato Bolgheri 2024 (Antinori); Bolgheri Vermentino 2023 (Grattamacco)",
+        "source": "nominatim",
+        "nominatim_lat": 43.2340065,
+        "nominatim_lon": 10.6179334,
+        "wikipedia_lat": 43.23388889,
+        "wikipedia_lon": 10.61722222,
+        "distance_km": 0.06
       }
     },
     {
@@ -926,7 +1290,13 @@
         "place": "Colli Orientali del Friuli, Italie",
         "country": "Italie",
         "wine_count": 7,
-        "wines": "Merlot 2022 (I Clivi); Colmatiss Sauvignon 2023 (La Tunella); Rjgialla 2024 (La Tunella); Sauvignon 2024 (La Tunella); Rosso Celtico 2013 (Moschioni); Schioppettino di Cialla 2019 (Ronchi di Cialla); Ronco della Torre 2020 (Torre Rosazza)"
+        "wines": "Colmatiss Sauvignon 2023 (La Tunella); Rjgialla 2024 (La Tunella); Sauvignon 2024 (La Tunella); Rosso Celtico 2013 (Moschioni); Schioppettino di Cialla 2019 (Ronchi di Cialla); Ronco della Torre 2020 (Torre Rosazza); Merlot 2022 (I Clivi)",
+        "source": "nominatim",
+        "nominatim_lat": 46.002359,
+        "nominatim_lon": 13.4412506,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -942,7 +1312,13 @@
         "place": "Campanie, Italie",
         "country": "Italie",
         "wine_count": 3,
-        "wines": "Aglianico Campania Rue Dell'Inchiostro 2021 (Nativ); Suadens Campania Bianco 2023 (Nativ); Suadens Campania Rosso 2021 (Nativ)"
+        "wines": "Suadens Campania Bianco 2023 (Nativ); Suadens Campania Rosso 2021 (Nativ); Aglianico Campania Rue Dell'Inchiostro 2021 (Nativ)",
+        "source": "nominatim",
+        "nominatim_lat": 40.860672,
+        "nominatim_lon": 14.843984,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -950,15 +1326,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -16.6977504,
-          28.3774367
+          -3.015,
+          39.40111111
         ]
       },
       "properties": {
         "place": "La Mancha, Espagne",
         "country": "Espagne",
         "wine_count": 1,
-        "wines": "Syrah 2024 (Terra Linda)"
+        "wines": "Syrah 2024 (Terra Linda)",
+        "source": "wikipedia",
+        "nominatim_lat": 28.3774367,
+        "nominatim_lon": -16.6977504,
+        "wikipedia_lat": 39.40111111,
+        "wikipedia_lon": -3.015,
+        "distance_km": 1756.04
       }
     },
     {
@@ -974,7 +1356,13 @@
         "place": "Vermentino di Sardegna, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Is Argiolas Vermentino di Sardegna 2024 (Argiolas)"
+        "wines": "Is Argiolas Vermentino di Sardegna 2024 (Argiolas)",
+        "source": "nominatim",
+        "nominatim_lat": 40.9195406,
+        "nominatim_lon": 9.4720744,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -990,7 +1378,13 @@
         "place": "Valdepeñas, Espagne",
         "country": "Espagne",
         "wine_count": 2,
-        "wines": "Casa de la Nava Crianza 2022 (Bodegas y Viñedos Casa de la Nava); The Guv’nor N.V. (Félix Solís)"
+        "wines": "The Guv’nor N.V. (Félix Solís); Casa de la Nava Crianza 2022 (Bodegas y Viñedos Casa de la Nava)",
+        "source": "nominatim",
+        "nominatim_lat": 38.7594573,
+        "nominatim_lon": -3.3847392,
+        "wikipedia_lat": 38.76166667,
+        "wikipedia_lon": -3.385,
+        "distance_km": 0.25
       }
     },
     {
@@ -1006,7 +1400,13 @@
         "place": "Jumilla, Espagne",
         "country": "Espagne",
         "wine_count": 8,
-        "wines": "150 Aniversario Monastrell 2022 (Alceño); Clio 2023 (Bodegas El Nido); Las Gravas 2021 (Casa Castillo); Blanco 2024 (Juan Gil); Bruto 2022 (Juan Gil); Etiqueta Azul Blue Label Cuvée À 2023 (Juan Gil); Jumilla Blue Label 2022 (Juan Gil); Jumilla Blue Label 2023 (Juan Gil)"
+        "wines": "150 Aniversario Monastrell 2022 (Alceño); Blanco 2024 (Juan Gil); Etiqueta Azul Blue Label Cuvée À 2023 (Juan Gil); Clio 2023 (Bodegas El Nido); Bruto 2022 (Juan Gil); Jumilla Blue Label 2023 (Juan Gil); Jumilla Blue Label 2022 (Juan Gil); Las Gravas 2021 (Casa Castillo)",
+        "source": "nominatim",
+        "nominatim_lat": 38.4735408,
+        "nominatim_lon": -1.3285417,
+        "wikipedia_lat": 38.47916667,
+        "wikipedia_lon": -1.325,
+        "distance_km": 0.7
       }
     },
     {
@@ -1022,7 +1422,13 @@
         "place": "Isola dei Nuraghi, Italie",
         "country": "Italie",
         "wine_count": 5,
-        "wines": "Angialis Isola dei Nuraghi 2019 (Argiolas); Korem Isola dei Nuraghi 2021 (Argiolas); Korem Isola dei Nuraghi 2022 (Argiolas); 755mt Isola dei Nuraghi 2020 (Jankara); Barrua 2020 (Punica)"
+        "wines": "Korem Isola dei Nuraghi 2021 (Argiolas); Korem Isola dei Nuraghi 2022 (Argiolas); 755mt Isola dei Nuraghi 2020 (Jankara); Angialis Isola dei Nuraghi 2019 (Argiolas); Barrua 2020 (Punica)",
+        "source": "nominatim",
+        "nominatim_lat": 40.7092763,
+        "nominatim_lon": 9.698963,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1038,7 +1444,13 @@
         "place": "Murcie, Espagne",
         "country": "Espagne",
         "wine_count": 1,
-        "wines": "En Paradero Desconocido N.V. (Bodegas Bastida)"
+        "wines": "En Paradero Desconocido N.V. (Bodegas Bastida)",
+        "source": "nominatim",
+        "nominatim_lat": 37.9923795,
+        "nominatim_lon": -1.1305431,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1054,7 +1466,13 @@
         "place": "Irpinia, Italie",
         "country": "Italie",
         "wine_count": 7,
-        "wines": "Serpico 2014 (Feudi di San Gregorio); Satyricon Irpinia Campi Taurasini 2020 (Luigi Tecce); Quattro Cerri Aglianico Irpinia 2017 (Masseria Della Porta); Quattro Cerri Aglianico Irpinia 2018 (Masseria Della Porta); Quattro Cerri Aglianico Irpinia 2019 (Masseria Della Porta); Blu Onice Aglianico Irpinia 2020 (Nativ); Via del Campo Falanghina 2024 (Quintodecimo)"
+        "wines": "Blu Onice Aglianico Irpinia 2020 (Nativ); Satyricon Irpinia Campi Taurasini 2020 (Luigi Tecce); Via del Campo Falanghina 2024 (Quintodecimo); Quattro Cerri Aglianico Irpinia 2017 (Masseria Della Porta); Serpico 2014 (Feudi di San Gregorio); Quattro Cerri Aglianico Irpinia 2018 (Masseria Della Porta); Quattro Cerri Aglianico Irpinia 2019 (Masseria Della Porta)",
+        "source": "nominatim",
+        "nominatim_lat": 39.2278067,
+        "nominatim_lon": 9.1185486,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1070,7 +1488,13 @@
         "place": "Saint-Joseph, France",
         "country": "France",
         "wine_count": 7,
-        "wines": "Saint-Joseph Rouge 2023 (Bernard Gripa); Revirand Saint-Joseph 2022 (Domaine des Pierres Sèches); Saint Joseph Poivre et Sol 2022 (Francois Villard); Clos de la Ribaudy Saint-Joseph Rouge 2023 (Gilles Barge); Anges Saint-Joseph 2022 (Louis Chèze); Les Cerisiers Saint-Joseph 2023 (Luyton Fleury); Saint-Joseph 2020 (Stephane Montez - Domaine du Monteillet)"
+        "wines": "Saint-Joseph 2020 (Stephane Montez - Domaine du Monteillet); Les Cerisiers Saint-Joseph 2023 (Luyton Fleury); Clos de la Ribaudy Saint-Joseph Rouge 2023 (Gilles Barge); Saint Joseph Poivre et Sol 2022 (Francois Villard); Revirand Saint-Joseph 2022 (Domaine des Pierres Sèches); Anges Saint-Joseph 2022 (Louis Chèze); Saint-Joseph Rouge 2023 (Bernard Gripa)",
+        "source": "nominatim",
+        "nominatim_lat": 49.5344534,
+        "nominatim_lon": -1.529802,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1086,7 +1510,13 @@
         "place": "Haut-Médoc, France",
         "country": "France",
         "wine_count": 12,
-        "wines": "Vieilles Vignes Haut-Médoc 2016 (Château Bertrand Braneyre); Vieilles Vignes Haut-Médoc 2018 (Château Bertrand Braneyre); Haut-Médoc (3éme Grand Cru Classé en 1855) 2021 (Château La Lagune); Moulin du Château La Lagune 2015 (Château La Lagune); Haut-Médoc (Grand Cru Classé) 2018 (Château La Tour Carnet); Haut-Médoc (Grand Cru Classé) 2021 (Château La Tour Carnet); Haut-Médoc 2021 (Château Les Vimieres); Le Petit Verdot de Malescasse Haut-Médoc 2010 (Château Malescasse); Haut-Médoc 2018 (Château Prieuré de Beyzac); Haut-Médoc 2021 (Château Sociando-Mallet); Haut-Médoc (Grand Cru Classé) 2015 (Château de Camensac); Haut-Médoc (Grand Cru Classé) 2021 (Château de Camensac)"
+        "wines": "Haut-Médoc (Grand Cru Classé) 2018 (Château La Tour Carnet); Moulin du Château La Lagune 2015 (Château La Lagune); Vieilles Vignes Haut-Médoc 2016 (Château Bertrand Braneyre); Haut-Médoc (3éme Grand Cru Classé en 1855) 2021 (Château La Lagune); Vieilles Vignes Haut-Médoc 2018 (Château Bertrand Braneyre); Haut-Médoc (Grand Cru Classé) 2021 (Château de Camensac); Haut-Médoc (Grand Cru Classé) 2021 (Château La Tour Carnet); Haut-Médoc (Grand Cru Classé) 2015 (Château de Camensac); Haut-Médoc 2021 (Château Sociando-Mallet); Haut-Médoc 2018 (Château Prieuré de Beyzac)",
+        "source": "nominatim",
+        "nominatim_lat": 44.8736705,
+        "nominatim_lon": -0.6364252,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1102,7 +1532,13 @@
         "place": "Sancerre, France",
         "country": "France",
         "wine_count": 10,
-        "wines": "Génération XIX Sancerre Blanc 2017 (Alphonse Mellot); Sancerre Grande Cuvée Blanc 2023 (Comte Lafond); Le Grand Moulin Sancerre 2024 (Domaine Patrick Girault); Marie Dulac Sancerre 2023 (Domaine Serge Laloue); Sancerre Rouge 2022 (Domaine du Pré Semelé (Julien & Clément Raimbault)); Le Graveron Sancerre 2015 (Henri Bourgeois); Les Côtes aux Valets Sancerre Blanc 2016 (Henri Bourgeois); Sancerre D'Antan 2023 (Henri Bourgeois); Sancerre Pure 2024 (Henri Bourgeois); Le Château Sancerre 2020 (Vincent Pinard)"
+        "wines": "Le Graveron Sancerre 2015 (Henri Bourgeois); Le Château Sancerre 2020 (Vincent Pinard); Marie Dulac Sancerre 2023 (Domaine Serge Laloue); Le Grand Moulin Sancerre 2024 (Domaine Patrick Girault); Génération XIX Sancerre Blanc 2017 (Alphonse Mellot); Sancerre Rouge 2022 (Domaine du Pré Semelé (Julien & Clément Raimbault)); Les Côtes aux Valets Sancerre Blanc 2016 (Henri Bourgeois); Sancerre Grande Cuvée Blanc 2023 (Comte Lafond); Sancerre Pure 2024 (Henri Bourgeois); Sancerre D'Antan 2023 (Henri Bourgeois)",
+        "source": "nominatim",
+        "nominatim_lat": 47.3306906,
+        "nominatim_lon": 2.8390454,
+        "wikipedia_lat": 47.332,
+        "wikipedia_lon": 2.84,
+        "distance_km": 0.16
       }
     },
     {
@@ -1118,7 +1554,13 @@
         "place": "Cornas, France",
         "country": "France",
         "wine_count": 3,
-        "wines": "Les Eygats Cornas 2019 (Domaine Courbis); Cornas Les Grands Muriers 2020 (Ferraton Père & Fils); Domaine de Saint Pierre Cornas 2019 (Paul Jaboulet Aîné)"
+        "wines": "Domaine de Saint Pierre Cornas 2019 (Paul Jaboulet Aîné); Cornas Les Grands Muriers 2020 (Ferraton Père & Fils); Les Eygats Cornas 2019 (Domaine Courbis)",
+        "source": "nominatim",
+        "nominatim_lat": 44.963521,
+        "nominatim_lon": 4.847545,
+        "wikipedia_lat": 44.9611,
+        "wikipedia_lon": 4.85,
+        "distance_km": 0.33
       }
     },
     {
@@ -1134,7 +1576,13 @@
         "place": "Languedoc, France",
         "country": "France",
         "wine_count": 8,
-        "wines": "Les Boissieres 2006 (Alain Chabanon); Grés de Montpellier 2015 (Clos Sorian); L'Orée 2019 (Clos des Nines); Obladie 2020 (Clos des Nines); Lou Maset 2020 (Domaine d'Aupilhac); Obligation 2022 (Domaine de Blancardy); Naissance D'Un Grand Blanc Grenache Blanc 2023 (Domaine de Cazaban); Elixir Rouge 2023 (Domaine de Saint Clément)"
+        "wines": "Grés de Montpellier 2015 (Clos Sorian); L'Orée 2019 (Clos des Nines); Lou Maset 2020 (Domaine d'Aupilhac); Obladie 2020 (Clos des Nines); Les Boissieres 2006 (Alain Chabanon); Elixir Rouge 2023 (Domaine de Saint Clément); Naissance D'Un Grand Blanc Grenache Blanc 2023 (Domaine de Cazaban); Obligation 2022 (Domaine de Blancardy)",
+        "source": "nominatim",
+        "nominatim_lat": 43.6542031,
+        "nominatim_lon": 3.6746699,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1150,7 +1598,13 @@
         "place": "Chinon, France",
         "country": "France",
         "wine_count": 2,
-        "wines": "Le Coteau de Sonnay Chinon Blanc 2021 (Fabrice Gasnier); Vieilles Vignes Chinon 2022 (Philippe Alliet)"
+        "wines": "Le Coteau de Sonnay Chinon Blanc 2021 (Fabrice Gasnier); Vieilles Vignes Chinon 2022 (Philippe Alliet)",
+        "source": "nominatim",
+        "nominatim_lat": 47.1667182,
+        "nominatim_lon": 0.2402095,
+        "wikipedia_lat": 47.1678,
+        "wikipedia_lon": 0.2436,
+        "distance_km": 0.28
       }
     },
     {
@@ -1166,7 +1620,13 @@
         "place": "Luberon, France",
         "country": "France",
         "wine_count": 3,
-        "wines": "Grand Blanc de Sannes 2022 (Château de Sannes); Terre de Sannes 2022 (Château de Sannes); Gardarèm 2022 (Marrenon)"
+        "wines": "Terre de Sannes 2022 (Château de Sannes); Grand Blanc de Sannes 2022 (Château de Sannes); Gardarèm 2022 (Marrenon)",
+        "source": "nominatim",
+        "nominatim_lat": 43.8559446,
+        "nominatim_lon": 5.5895866,
+        "wikipedia_lat": 43.79611111,
+        "wikipedia_lon": 5.22388889,
+        "distance_km": 30.08
       }
     },
     {
@@ -1182,7 +1642,13 @@
         "place": "Lirac, France",
         "country": "France",
         "wine_count": 2,
-        "wines": "Hommage Lirac 2021 (Domaine Coudoulis); Lirac Rouge 2022 (Domaine du Tau)"
+        "wines": "Lirac Rouge 2022 (Domaine du Tau); Hommage Lirac 2021 (Domaine Coudoulis)",
+        "source": "nominatim",
+        "nominatim_lat": 44.0372,
+        "nominatim_lon": 4.69136,
+        "wikipedia_lat": 44.0367,
+        "wikipedia_lon": 4.6908,
+        "distance_km": 0.07
       }
     },
     {
@@ -1198,7 +1664,13 @@
         "place": "Méditerranée, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "L'Apostrophe Viognier - Sauvignon 2024 (Domaine des Peyre)"
+        "wines": "L'Apostrophe Viognier - Sauvignon 2024 (Domaine des Peyre)",
+        "source": "nominatim",
+        "nominatim_lat": 43.6487851,
+        "nominatim_lon": 2.3435684,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1214,7 +1686,13 @@
         "place": "Quincy, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Quincy 2022 (Château de Quincy)"
+        "wines": "Quincy 2022 (Château de Quincy)",
+        "source": "nominatim",
+        "nominatim_lat": 47.133365,
+        "nominatim_lon": 2.1574605,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1230,7 +1708,13 @@
         "place": "Bordeaux-supérieur, France",
         "country": "France",
         "wine_count": 6,
-        "wines": "Quidam Bordeaux Superieur 2018 (Chateau Amanieu d'Albret); Bordeaux Supérieur 2019 (Château Chapelle d'Alienor); Cuvée Raphaël 2020 (Château de Parenchère); L'Éclat du Château l'Eperon Bordeaux Supérieur 2018 (Château l'Eperon); Bordeaux Supérieur 2019 (Domaine de Cambes); Bordeaux Supérieur 2020 (Domaine de Cambes)"
+        "wines": "Quidam Bordeaux Superieur 2018 (Chateau Amanieu d'Albret); L'Éclat du Château l'Eperon Bordeaux Supérieur 2018 (Château l'Eperon); Cuvée Raphaël 2020 (Château de Parenchère); Bordeaux Supérieur 2019 (Château Chapelle d'Alienor); Bordeaux Supérieur 2019 (Domaine de Cambes); Bordeaux Supérieur 2020 (Domaine de Cambes)",
+        "source": "nominatim",
+        "nominatim_lat": 43.3100249,
+        "nominatim_lon": -0.3721054,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1246,7 +1730,13 @@
         "place": "Côtes du Rhône Villages, France",
         "country": "France",
         "wine_count": 2,
-        "wines": "La Chasse des Princes Côtes-du-Rhône-Villages 2023 (Cellier des Princes); Clara Côtes du Rhône Villages Gadagne 2023 (Domaine des Pentelines)"
+        "wines": "Clara Côtes du Rhône Villages Gadagne 2023 (Domaine des Pentelines); La Chasse des Princes Côtes-du-Rhône-Villages 2023 (Cellier des Princes)",
+        "source": "nominatim",
+        "nominatim_lat": 45.4560073,
+        "nominatim_lon": 5.5185331,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1262,7 +1752,13 @@
         "place": "Saint-Amour, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Saint-Amour 'Le Châtelet' 2022 (Château de Lavernette)"
+        "wines": "Saint-Amour 'Le Châtelet' 2022 (Château de Lavernette)",
+        "source": "nominatim",
+        "nominatim_lat": 46.4358751,
+        "nominatim_lon": 5.3421832,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1278,7 +1774,13 @@
         "place": "Saint-Émilion, France",
         "country": "France",
         "wine_count": 7,
-        "wines": "Saint-Émilion 2021 (Chateau La Pointe Chantecaille); Saint-Émilion 2022 (Chateau La Pointe Chantecaille); L'Esquisse de La Tour Figeac Saint-Émilion 2021 (Château La Tour Figeac); Sans Soufre 2018 (Château Pontet-Fumet); Saint-Émilion Grand Cru 2021 (Château Soutard Cadet); Shelby Company Saint-Emilion 2019 (Maison Bardet); Soeurette Saint-Emilion 2020 (Maison Bardet)"
+        "wines": "Sans Soufre 2018 (Château Pontet-Fumet); Saint-Émilion Grand Cru 2021 (Château Soutard Cadet); Saint-Émilion 2021 (Chateau La Pointe Chantecaille); Saint-Émilion 2022 (Chateau La Pointe Chantecaille); Soeurette Saint-Emilion 2020 (Maison Bardet); L'Esquisse de La Tour Figeac Saint-Émilion 2021 (Château La Tour Figeac); Shelby Company Saint-Emilion 2019 (Maison Bardet)",
+        "source": "nominatim",
+        "nominatim_lat": 44.8946048,
+        "nominatim_lon": -0.1749547,
+        "wikipedia_lat": 44.8936,
+        "wikipedia_lon": -0.1547,
+        "distance_km": 1.6
       }
     },
     {
@@ -1294,7 +1796,13 @@
         "place": "Bierzo, Espagne",
         "country": "Espagne",
         "wine_count": 1,
-        "wines": "Bierzo Red 2022 (Losada)"
+        "wines": "Bierzo Red 2022 (Losada)",
+        "source": "nominatim",
+        "nominatim_lat": 42.6526503,
+        "nominatim_lon": -6.623184,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1310,7 +1818,13 @@
         "place": "Moulin-à-Vent, France",
         "country": "France",
         "wine_count": 4,
-        "wines": "Moulin-à-Vent en Mortperay 2019 (A.F. Gros); Moulin-à-Vent en Mortperay 2020 (A.F. Gros); Moulin-à-Vent en Mortperay 2021 (A.F. Gros); Château des Jacques Moulin-à-Vent 2022 (Louis Jadot)"
+        "wines": "Moulin-à-Vent en Mortperay 2021 (A.F. Gros); Moulin-à-Vent en Mortperay 2020 (A.F. Gros); Château des Jacques Moulin-à-Vent 2022 (Louis Jadot); Moulin-à-Vent en Mortperay 2019 (A.F. Gros)",
+        "source": "nominatim",
+        "nominatim_lat": 48.3531107,
+        "nominatim_lon": 1.7606778,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1326,7 +1840,13 @@
         "place": "Vouvray, France",
         "country": "France",
         "wine_count": 2,
-        "wines": "Or & Lumiere Coteaux de Layon 2022 (Cave des Producteurs de Vouvray); Clos du Bourg Vouvray Demi-Sec 2023 (Domaine Huet)"
+        "wines": "Or & Lumiere Coteaux de Layon 2022 (Cave des Producteurs de Vouvray); Clos du Bourg Vouvray Demi-Sec 2023 (Domaine Huet)",
+        "source": "nominatim",
+        "nominatim_lat": 47.4136687,
+        "nominatim_lon": 0.7998446,
+        "wikipedia_lat": 47.4128,
+        "wikipedia_lon": 0.8,
+        "distance_km": 0.1
       }
     },
     {
@@ -1342,7 +1862,13 @@
         "place": "Corse Figari, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Corse Figari 2022 (Clos Canarelli)"
+        "wines": "Corse Figari 2022 (Clos Canarelli)",
+        "source": "nominatim",
+        "nominatim_lat": 41.5032668,
+        "nominatim_lon": 9.0983266,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1358,7 +1884,13 @@
         "place": "Mercurey, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Vieilles Vignes Mercurey 2022 (Domaine Juillot-Theulot)"
+        "wines": "Vieilles Vignes Mercurey 2022 (Domaine Juillot-Theulot)",
+        "source": "nominatim",
+        "nominatim_lat": 46.8396584,
+        "nominatim_lon": 4.7189272,
+        "wikipedia_lat": 46.84,
+        "wikipedia_lon": 4.7197,
+        "distance_km": 0.07
       }
     },
     {
@@ -1374,7 +1906,13 @@
         "place": "Saumur-Champigny, France",
         "country": "France",
         "wine_count": 3,
-        "wines": "Les Closiers 2021 (Domaine des Closiers); Les Coudraies 2020 (Domaine des Closiers); Terres Chaudes Saumur-Champigny 2018 (Domaine des Roches Neuves)"
+        "wines": "Les Closiers 2021 (Domaine des Closiers); Les Coudraies 2020 (Domaine des Closiers); Terres Chaudes Saumur-Champigny 2018 (Domaine des Roches Neuves)",
+        "source": "nominatim",
+        "nominatim_lat": 47.2322933,
+        "nominatim_lon": -0.0211322,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1390,7 +1928,13 @@
         "place": "Bourgogne, France",
         "country": "France",
         "wine_count": 10,
-        "wines": "Bourgogne Rouge 2022 (Bachelet-Monnot); Bourgogne Chardonnay 2013 (Château de Pommard); Bourgogne 2020 (David Duband); Bourgogne Pinot Noir 2020 (Domaine François Raquillet); Bourgogne Côte d’Or La Monatine 2023 (Domaine Rougeot); Bourgogne Pinot Noir 2018 (Domaine de Montille); Bourgogne 'Les Sétilles' 2022 (Olivier Leflaive); Bourgogne Blanc 2021 (Pierre Boisson); Les Belles Côtes Bourgogne Blanc 2020 (Pierre Boisson); La Plante des Champs Bourgogne Blanc 2021 (Thomas-Collardot)"
+        "wines": "Bourgogne Blanc 2021 (Pierre Boisson); Bourgogne Chardonnay 2013 (Château de Pommard); Bourgogne Pinot Noir 2018 (Domaine de Montille); Bourgogne 2020 (David Duband); Bourgogne Pinot Noir 2020 (Domaine François Raquillet); Bourgogne Côte d’Or La Monatine 2023 (Domaine Rougeot); Les Belles Côtes Bourgogne Blanc 2020 (Pierre Boisson); Bourgogne Rouge 2022 (Bachelet-Monnot); La Plante des Champs Bourgogne Blanc 2021 (Thomas-Collardot); Bourgogne 'Les Sétilles' 2022 (Olivier Leflaive)",
+        "source": "nominatim",
+        "nominatim_lat": 47.2780873,
+        "nominatim_lon": 4.2224863,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1406,7 +1950,13 @@
         "place": "Côte-Rôtie, France",
         "country": "France",
         "wine_count": 7,
-        "wines": "Les Schistes Côte-Rôtie 2022 (Clusel-Roch); La Germine Côte-Rôtie 2022 (Domaine Duclaux); Côte-Rôtie Le Gallet Blanc 2023 (Francois Villard); Les Côtes Côte-Rôtie 2022 (Gilles Barge); Champin le Seigneur Côte-Rôtie 2023 (Jean-Michel Gerin); Côte-Rôtie 2022 (Pierre Gaillard); Côte-Rôtie Madinière 2022 (Yves Cuilleron)"
+        "wines": "Les Côtes Côte-Rôtie 2022 (Gilles Barge); Les Schistes Côte-Rôtie 2022 (Clusel-Roch); Champin le Seigneur Côte-Rôtie 2023 (Jean-Michel Gerin); Côte-Rôtie Le Gallet Blanc 2023 (Francois Villard); Côte-Rôtie 2022 (Pierre Gaillard); Côte-Rôtie Madinière 2022 (Yves Cuilleron); La Germine Côte-Rôtie 2022 (Domaine Duclaux)",
+        "source": "nominatim",
+        "nominatim_lat": 44.7267925,
+        "nominatim_lon": -0.3900425,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1422,7 +1972,13 @@
         "place": "Morgon, France",
         "country": "France",
         "wine_count": 2,
-        "wines": "Corcellette Morgon 2020 (Domaine Striffling); Morgon 'Les Charmes' 2018 (Domaine Striffling)"
+        "wines": "Morgon 'Les Charmes' 2018 (Domaine Striffling); Corcellette Morgon 2020 (Domaine Striffling)",
+        "source": "nominatim",
+        "nominatim_lat": 46.1443559,
+        "nominatim_lon": 4.6781061,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1438,7 +1994,13 @@
         "place": "Condrieu, France",
         "country": "France",
         "wine_count": 6,
-        "wines": "Condrieu La Bonnette Viognier 2018 (Domaine Rostaing); Condrieu DePoncins 2021 (Francois Villard); Condrieu DePoncins 2023 (Francois Villard); Condrieu 2023 (Gilles Barge); Condrieu Les Chaillets 2023 (Yves Cuilleron); Lieu-dit Verlieu Condrieu 2023 (Yves Cuilleron)"
+        "wines": "Condrieu 2023 (Gilles Barge); Condrieu La Bonnette Viognier 2018 (Domaine Rostaing); Condrieu DePoncins 2023 (Francois Villard); Condrieu DePoncins 2021 (Francois Villard); Condrieu Les Chaillets 2023 (Yves Cuilleron); Lieu-dit Verlieu Condrieu 2023 (Yves Cuilleron)",
+        "source": "nominatim",
+        "nominatim_lat": 45.4624294,
+        "nominatim_lon": 4.7676199,
+        "wikipedia_lat": 45.4639,
+        "wikipedia_lon": 4.7683,
+        "distance_km": 0.17
       }
     },
     {
@@ -1454,7 +2016,13 @@
         "place": "Montpeyroux, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Les Cocalières Rouge 2019 (Domaine d'Aupilhac)"
+        "wines": "Les Cocalières Rouge 2019 (Domaine d'Aupilhac)",
+        "source": "nominatim",
+        "nominatim_lat": 44.9211111,
+        "nominatim_lon": 0.0577778,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1470,7 +2038,13 @@
         "place": "Mâcon-Loché, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "En Près Forêt Mâcon-Loché 2023 (Clos des Rocs)"
+        "wines": "En Près Forêt Mâcon-Loché 2023 (Clos des Rocs)",
+        "source": "nominatim",
+        "nominatim_lat": 46.2829122,
+        "nominatim_lon": 4.7788492,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1486,7 +2060,13 @@
         "place": "Gioia del Colle, Italie",
         "country": "Italie",
         "wine_count": 6,
-        "wines": "16 Primitivo Gioia del Colle 2013 (Polvanera); 16 Primitivo Gioia del Colle 2020 (Polvanera); Gioia del Colle Primitivo Riserva 2019 (Polvanera); Muro Sant’Angelo Primitivo Gioia del Colle 2021 (Tenute Chiaromonte); Fanova Primitivo 2022 (Terrecarsiche 1939); Fanova Riserva 2020 (Terrecarsiche 1939)"
+        "wines": "Fanova Primitivo 2022 (Terrecarsiche 1939); Fanova Riserva 2020 (Terrecarsiche 1939); Muro Sant’Angelo Primitivo Gioia del Colle 2021 (Tenute Chiaromonte); 16 Primitivo Gioia del Colle 2013 (Polvanera); Gioia del Colle Primitivo Riserva 2019 (Polvanera); 16 Primitivo Gioia del Colle 2020 (Polvanera)",
+        "source": "nominatim",
+        "nominatim_lat": 40.796728,
+        "nominatim_lon": 16.92359,
+        "wikipedia_lat": 40.8,
+        "wikipedia_lon": 16.93333333,
+        "distance_km": 0.9
       }
     },
     {
@@ -1502,7 +2082,13 @@
         "place": "Lugana, Italie",
         "country": "Italie",
         "wine_count": 7,
-        "wines": "Clay 2020 (Cascina Maddalena); Orestilla 2022 (Montonale); Molceo Lugana Riserva 2022 (Ottella); Filo di Arianna Lugana 2018 (Roveglia); Lugana San Benedetto 2024 (Zenato); Lugana Sergio Riserva 2021 (Zenato); Lugana Sergio Riserva 2022 (Zenato)"
+        "wines": "Lugana San Benedetto 2024 (Zenato); Clay 2020 (Cascina Maddalena); Filo di Arianna Lugana 2018 (Roveglia); Orestilla 2022 (Montonale); Lugana Sergio Riserva 2021 (Zenato); Molceo Lugana Riserva 2022 (Ottella); Lugana Sergio Riserva 2022 (Zenato)",
+        "source": "nominatim",
+        "nominatim_lat": 45.4600534,
+        "nominatim_lon": 10.6196897,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1518,7 +2104,13 @@
         "place": "Rueda, Espagne",
         "country": "Espagne",
         "wine_count": 6,
-        "wines": "Belondrade y Lurton 2022 (Belondrade); Belondrade y Lurton 2023 (Belondrade); Valdelagunde Verdejo 2023 (Bodegas Pedro Escudero); Cuvée Especial Verdejo 2022 (José Pariente); Sauvignon Blanc 2023 (José Pariente); Sauvignon Blanc 2024 (José Pariente)"
+        "wines": "Cuvée Especial Verdejo 2022 (José Pariente); Sauvignon Blanc 2024 (José Pariente); Sauvignon Blanc 2023 (José Pariente); Valdelagunde Verdejo 2023 (Bodegas Pedro Escudero); Belondrade y Lurton 2022 (Belondrade); Belondrade y Lurton 2023 (Belondrade)",
+        "source": "nominatim",
+        "nominatim_lat": 41.4129785,
+        "nominatim_lon": -4.9597533,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1534,7 +2126,13 @@
         "place": "Castille, Espagne",
         "country": "Espagne",
         "wine_count": 2,
-        "wines": "Mucho Más Blanco N.V. (Félix Solís); Vallegarcia Viognier 2023 (Pago de Vallegarcía)"
+        "wines": "Mucho Más Blanco N.V. (Félix Solís); Vallegarcia Viognier 2023 (Pago de Vallegarcía)",
+        "source": "nominatim",
+        "nominatim_lat": 41.55005,
+        "nominatim_lon": -5.1387401,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1550,7 +2148,13 @@
         "place": "Rías Baixas, Espagne",
         "country": "Espagne",
         "wine_count": 12,
-        "wines": "Granbazán Veigalobos Albarino 2021 (Agro de Bazán); Albariño Do Ferreiro Cepas Vellas 2022 (Bodegas Gerardo Mendez); Sand Boy Albariño 2024 (Citizen Wine); Leirana Ma Luisa Lázaro Albariño 2019 (Forjas del Salnés); Medusa Albariño 2024 (Félix Solís); Narupa Salicornia Albariño de Costa 2023 (Narupa Vinos); Heritage Albariño 2020 (Paco & Lola); Gran Vino Albariño 2021 (Pazo Barrantes); Gran Vino Albariño 2022 (Pazo Barrantes); Blanco 2021 (Pazo da Sinsela); Selección Albariño 2022 (Santiago Roma); Balado Albariño 2022 (Zárate)"
+        "wines": "Medusa Albariño 2024 (Félix Solís); Selección Albariño 2022 (Santiago Roma); Sand Boy Albariño 2024 (Citizen Wine); Heritage Albariño 2020 (Paco & Lola); Gran Vino Albariño 2021 (Pazo Barrantes); Narupa Salicornia Albariño de Costa 2023 (Narupa Vinos); Blanco 2021 (Pazo da Sinsela); Granbazán Veigalobos Albarino 2021 (Agro de Bazán); Leirana Ma Luisa Lázaro Albariño 2019 (Forjas del Salnés); Albariño Do Ferreiro Cepas Vellas 2022 (Bodegas Gerardo Mendez)",
+        "source": "nominatim",
+        "nominatim_lat": 42.8819145,
+        "nominatim_lon": -8.5487998,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1566,7 +2170,13 @@
         "place": "Médoc, France",
         "country": "France",
         "wine_count": 6,
-        "wines": "Médoc 2018 (Château La Gorce); Chateau Haut Peyrillat Médoc 2021 (Château La Gorre); Chapelle de Potensac Médoc 2017 (Château Potensac); Médoc 2021 (Château Potensac); G d’Estournel (Goulée by Cos d’Estournel) 2017 (Cos d'Estournel); G d’Estournel (Goulée by Cos d’Estournel) 2021 (Cos d'Estournel)"
+        "wines": "G d’Estournel (Goulée by Cos d’Estournel) 2017 (Cos d'Estournel); Médoc 2018 (Château La Gorce); Chapelle de Potensac Médoc 2017 (Château Potensac); Chateau Haut Peyrillat Médoc 2021 (Château La Gorre); Médoc 2021 (Château Potensac); G d’Estournel (Goulée by Cos d’Estournel) 2021 (Cos d'Estournel)",
+        "source": "nominatim",
+        "nominatim_lat": 45.175674,
+        "nominatim_lon": -0.9576089,
+        "wikipedia_lat": 45,
+        "wikipedia_lon": -1,
+        "distance_km": 19.82
       }
     },
     {
@@ -1582,7 +2192,13 @@
         "place": "Montagne-Saint-Émilion, France",
         "country": "France",
         "wine_count": 4,
-        "wines": "Montagne Saint-Émilion 2019 (Château Divine Betise); Montagne-Saint-Émilion 2022 (Château Lys de Maisonneuve); Montagne-Saint-Émilion 2023 (Château Lys de Maisonneuve); Montagne-Saint-Émilion 2021 (Château Rocher Gardat)"
+        "wines": "Montagne-Saint-Émilion 2023 (Château Lys de Maisonneuve); Montagne-Saint-Émilion 2022 (Château Lys de Maisonneuve); Montagne Saint-Émilion 2019 (Château Divine Betise); Montagne-Saint-Émilion 2021 (Château Rocher Gardat)",
+        "source": "nominatim",
+        "nominatim_lat": 44.9101908,
+        "nominatim_lon": -0.1512619,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1598,7 +2214,13 @@
         "place": "Barbera d'Alba, Italie",
         "country": "Italie",
         "wine_count": 7,
-        "wines": "Barbera d'Alba Superiore 2021 (Cascina Morassino); Bric dei Pittatori Barbera d'Alba 2022 (Collina San Ponzio); Bric dei Pittatori Barbera d'Alba 2023 (Collina San Ponzio); Barbera d'Alba 2019 (Elio Altare); Vittoria Barbera d'Alba 2021 (Gianfranco Alessandria); Gallina Barbera d'Alba 2022 (La Spinetta); Mon Birone Barbera d'Alba 2020 (Monchiero Carbone)"
+        "wines": "Bric dei Pittatori Barbera d'Alba 2023 (Collina San Ponzio); Bric dei Pittatori Barbera d'Alba 2022 (Collina San Ponzio); Barbera d'Alba 2019 (Elio Altare); Vittoria Barbera d'Alba 2021 (Gianfranco Alessandria); Mon Birone Barbera d'Alba 2020 (Monchiero Carbone); Barbera d'Alba Superiore 2021 (Cascina Morassino); Gallina Barbera d'Alba 2022 (La Spinetta)",
+        "source": "nominatim",
+        "nominatim_lat": 44.7660997,
+        "nominatim_lon": 8.0387653,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1614,7 +2236,13 @@
         "place": "Provincia di Pavia, Italie",
         "country": "Italie",
         "wine_count": 2,
-        "wines": "Barberasso Barbera 2019 (Castello di Cigognola); L'Ala Barbera 2021 (Castello di Cigognola)"
+        "wines": "L'Ala Barbera 2021 (Castello di Cigognola); Barberasso Barbera 2019 (Castello di Cigognola)",
+        "source": "nominatim",
+        "nominatim_lat": 45.0368547,
+        "nominatim_lon": 9.1378251,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1630,7 +2258,13 @@
         "place": "Costières-de-Nîmes, France",
         "country": "France",
         "wine_count": 6,
-        "wines": "L'Envol Costières de Nîmes Blanc 2024 (Domaine d'Espeyran); L'Envol Costières de Nîmes Rouge 2021 (Domaine d'Espeyran); L'Envol Costières de Nîmes Rouge 2023 (Domaine d'Espeyran); La Cantatrice 2022 (Domaine d'Espeyran); Réserve des Illustres 2019 (Domaine d'Espeyran); Réserve des Illustres 2022 (Domaine d'Espeyran)"
+        "wines": "L'Envol Costières de Nîmes Rouge 2023 (Domaine d'Espeyran); La Cantatrice 2022 (Domaine d'Espeyran); Réserve des Illustres 2022 (Domaine d'Espeyran); Réserve des Illustres 2019 (Domaine d'Espeyran); L'Envol Costières de Nîmes Blanc 2024 (Domaine d'Espeyran); L'Envol Costières de Nîmes Rouge 2021 (Domaine d'Espeyran)",
+        "source": "nominatim",
+        "nominatim_lat": 43.825907,
+        "nominatim_lon": 4.377278,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1646,7 +2280,13 @@
         "place": "Beneventano, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Aglianico del Beneventano 2024 (Tombacco)"
+        "wines": "Aglianico del Beneventano 2024 (Tombacco)",
+        "source": "nominatim",
+        "nominatim_lat": 36.8100217,
+        "nominatim_lon": 14.8175347,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1662,7 +2302,13 @@
         "place": "Menfi, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Burdese 2018 (Planeta)"
+        "wines": "Burdese 2018 (Planeta)",
+        "source": "nominatim",
+        "nominatim_lat": 37.606639,
+        "nominatim_lon": 12.967843,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1678,7 +2324,13 @@
         "place": "Sicilia, Italie",
         "country": "Italie",
         "wine_count": 5,
-        "wines": "Syrah di Macellarotto 2022 (Case Alte); Syrah di Macellarotto 2023 (Case Alte); Lionel Goat 10 Collection Syrah 2022 (MM Winemaker); Real Academia Nero d'Avola 2020 (Montedidio); Nozze D'Oro 2023 (Tenuta Regaleali)"
+        "wines": "Real Academia Nero d'Avola 2020 (Montedidio); Lionel Goat 10 Collection Syrah 2022 (MM Winemaker); Syrah di Macellarotto 2022 (Case Alte); Syrah di Macellarotto 2023 (Case Alte); Nozze D'Oro 2023 (Tenuta Regaleali)",
+        "source": "nominatim",
+        "nominatim_lat": 37.587794,
+        "nominatim_lon": 14.155048,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1694,7 +2346,13 @@
         "place": "La Clape, France",
         "country": "France",
         "wine_count": 2,
-        "wines": "Grand Vin La Clape Blanc 2021 (Château l'Hospitalet); Combe aux Louves Grande Réserve La Clape 2022 (Sarrat de Goundy)"
+        "wines": "Grand Vin La Clape Blanc 2021 (Château l'Hospitalet); Combe aux Louves Grande Réserve La Clape 2022 (Sarrat de Goundy)",
+        "source": "nominatim",
+        "nominatim_lat": 42.9675839,
+        "nominatim_lon": 2.5482974,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1710,7 +2368,13 @@
         "place": "Pommard, France",
         "country": "France",
         "wine_count": 2,
-        "wines": "Pommard 2019 (Domaine Armand Heitz); Les Deux Lieux-Dits Pommard 2023 (Domaine Jeanson Parigot)"
+        "wines": "Pommard 2019 (Domaine Armand Heitz); Les Deux Lieux-Dits Pommard 2023 (Domaine Jeanson Parigot)",
+        "source": "nominatim",
+        "nominatim_lat": 47.0087919,
+        "nominatim_lon": 4.7962295,
+        "wikipedia_lat": 47.01,
+        "wikipedia_lon": 4.7958,
+        "distance_km": 0.14
       }
     },
     {
@@ -1726,7 +2390,13 @@
         "place": "Madiran, France",
         "country": "France",
         "wine_count": 2,
-        "wines": "Vieilles Vignes Madiran 2016 (Château Bouscassé); Les Préphylloxériques 2019 (Domaine Labranche Laffont)"
+        "wines": "Vieilles Vignes Madiran 2016 (Château Bouscassé); Les Préphylloxériques 2019 (Domaine Labranche Laffont)",
+        "source": "nominatim",
+        "nominatim_lat": 43.5502022,
+        "nominatim_lon": -0.0580853,
+        "wikipedia_lat": 43.549516,
+        "wikipedia_lon": -0.05787,
+        "distance_km": 0.08
       }
     },
     {
@@ -1742,7 +2412,13 @@
         "place": "Ventoux, France",
         "country": "France",
         "wine_count": 2,
-        "wines": "Ventoux Cuvée Juliette 2021 (Château Pesquie); La Gazette Red Blend 2023 (Domaine des Peyre)"
+        "wines": "La Gazette Red Blend 2023 (Domaine des Peyre); Ventoux Cuvée Juliette 2021 (Château Pesquie)",
+        "source": "nominatim",
+        "nominatim_lat": 48.6778082,
+        "nominatim_lon": 2.1768592,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1750,15 +2426,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.6527687,
-          43.4370436
+          6.6569158,
+          43.4368033
         ]
       },
       "properties": {
         "place": "Côtes de Provence, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Blanc 2024 (Ultimate Provence)"
+        "wines": "Blanc 2024 (Ultimate Provence)",
+        "source": "nominatim",
+        "nominatim_lat": 43.4368033,
+        "nominatim_lon": 6.6569158,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1774,7 +2456,13 @@
         "place": "Entre-Deux-Mers, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Entre-deux-Mers 2024 (Château Landereau)"
+        "wines": "Entre-deux-Mers 2024 (Château Landereau)",
+        "source": "nominatim",
+        "nominatim_lat": 44.7934956,
+        "nominatim_lon": -0.1248404,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1790,7 +2478,13 @@
         "place": "Moulis-en-Médoc, France",
         "country": "France",
         "wine_count": 7,
-        "wines": "Moulis-En-Médoc 2018 (Château Branas Grand Poujeaux); Moulis-en-Médoc 2020 (Château Chasse-Spleen); Moulis-en-Médoc 2021 (Château Chasse-Spleen); Moulis-en-Médoc 2021 (Château Maucaillou); La Salle de Château Poujeaux Moulis 2014 (Château Poujeaux); Moulis-en-Médoc 2019 (Château Poujeaux); Moulis-en-Médoc 2021 (Château Poujeaux)"
+        "wines": "Moulis-en-Médoc 2020 (Château Chasse-Spleen); Moulis-en-Médoc 2019 (Château Poujeaux); Moulis-en-Médoc 2021 (Château Chasse-Spleen); Moulis-en-Médoc 2021 (Château Maucaillou); La Salle de Château Poujeaux Moulis 2014 (Château Poujeaux); Moulis-en-Médoc 2021 (Château Poujeaux); Moulis-En-Médoc 2018 (Château Branas Grand Poujeaux)",
+        "source": "nominatim",
+        "nominatim_lat": 45.0564852,
+        "nominatim_lon": -0.7736381,
+        "wikipedia_lat": 45.0603,
+        "wikipedia_lon": -0.7692,
+        "distance_km": 0.55
       }
     },
     {
@@ -1806,7 +2500,13 @@
         "place": "Corse, France",
         "country": "France",
         "wine_count": 3,
-        "wines": "Rouge 2017 (Clos Canereccia); Suarte 2020 (Domaine de Tanella); Myrtus 2020 (Sant Armettu)"
+        "wines": "Myrtus 2020 (Sant Armettu); Rouge 2017 (Clos Canereccia); Suarte 2020 (Domaine de Tanella)",
+        "source": "nominatim",
+        "nominatim_lat": 42.188098,
+        "nominatim_lon": 9.0683139,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1822,7 +2522,13 @@
         "place": "Chambolle-Musigny, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Chambolle-Musigny 2014 (Bouchard Père & Fils)"
+        "wines": "Chambolle-Musigny 2014 (Bouchard Père & Fils)",
+        "source": "nominatim",
+        "nominatim_lat": 47.1864158,
+        "nominatim_lon": 4.9533347,
+        "wikipedia_lat": 47.1864,
+        "wikipedia_lon": 4.9533,
+        "distance_km": 0.0
       }
     },
     {
@@ -1838,7 +2544,13 @@
         "place": "Santenay, France",
         "country": "France",
         "wine_count": 2,
-        "wines": "Charmes Santenay 2022 (Lucien Muzard & Fils); Clos Saint Jean Santenay 2023 (Philippe Colin)"
+        "wines": "Charmes Santenay 2022 (Lucien Muzard & Fils); Clos Saint Jean Santenay 2023 (Philippe Colin)",
+        "source": "nominatim",
+        "nominatim_lat": 46.9115071,
+        "nominatim_lon": 4.6996302,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1854,7 +2566,13 @@
         "place": "Menetou-Salon, France",
         "country": "France",
         "wine_count": 3,
-        "wines": "La Montaloise Menetou-Salon 2023 (Domaine Jean Teiller); Le Carroir Menetou-Salon Morogues Blanc 2023 (Henry Pellé); Pierre-Alexandre Menetou-Salon 2022 (Isabelle et Pierre Clement (Domaine de Chatenoy))"
+        "wines": "Le Carroir Menetou-Salon Morogues Blanc 2023 (Henry Pellé); La Montaloise Menetou-Salon 2023 (Domaine Jean Teiller); Pierre-Alexandre Menetou-Salon 2022 (Isabelle et Pierre Clement (Domaine de Chatenoy))",
+        "source": "nominatim",
+        "nominatim_lat": 47.2315397,
+        "nominatim_lon": 2.4886282,
+        "wikipedia_lat": 47.2328,
+        "wikipedia_lon": 2.4872,
+        "distance_km": 0.18
       }
     },
     {
@@ -1870,7 +2588,13 @@
         "place": "Bandol, France",
         "country": "France",
         "wine_count": 4,
-        "wines": "Bandol Altum 2018 (Château Canadel); Bandol Blanc 2021 (Château Vannières); Bandol 2021 (Château de Pibarnon); Lulu & Lucien Bandol 2023 (Domaine Tempier)"
+        "wines": "Bandol Blanc 2021 (Château Vannières); Lulu & Lucien Bandol 2023 (Domaine Tempier); Bandol 2021 (Château de Pibarnon); Bandol Altum 2018 (Château Canadel)",
+        "source": "nominatim",
+        "nominatim_lat": 43.1357717,
+        "nominatim_lon": 5.7523647,
+        "wikipedia_lat": 43.137094,
+        "wikipedia_lon": 5.731603,
+        "distance_km": 1.69
       }
     },
     {
@@ -1886,7 +2610,13 @@
         "place": "Bourgueil, France",
         "country": "France",
         "wine_count": 2,
-        "wines": "Bretêche Bourgueil 2017 (Domaine de la Chevalerie); Bourgueil Les Quartiers 2018 (Yannick Amirault)"
+        "wines": "Bretêche Bourgueil 2017 (Domaine de la Chevalerie); Bourgueil Les Quartiers 2018 (Yannick Amirault)",
+        "source": "nominatim",
+        "nominatim_lat": 47.2827691,
+        "nominatim_lon": 0.1788873,
+        "wikipedia_lat": 47.2831,
+        "wikipedia_lon": 0.1692,
+        "distance_km": 0.73
       }
     },
     {
@@ -1902,7 +2632,13 @@
         "place": "Crozes-Hermitage, France",
         "country": "France",
         "wine_count": 3,
-        "wines": "Crozes-Hermitage 2022 (Domaine Philippe et Vincent Jaboulet); Crozes-Hermitage Les Jalets 2023 (Paul Jaboulet Aîné); Labaya Crozes-Hermitage 2023 (Yves Cuilleron)"
+        "wines": "Labaya Crozes-Hermitage 2023 (Yves Cuilleron); Crozes-Hermitage Les Jalets 2023 (Paul Jaboulet Aîné); Crozes-Hermitage 2022 (Domaine Philippe et Vincent Jaboulet)",
+        "source": "nominatim",
+        "nominatim_lat": 45.0907,
+        "nominatim_lon": 4.84592,
+        "wikipedia_lat": 45.0908,
+        "wikipedia_lon": 4.8467,
+        "distance_km": 0.06
       }
     },
     {
@@ -1918,7 +2654,13 @@
         "place": "Rully, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Château de Rully Blanc 2018 (Antonin Rodet)"
+        "wines": "Château de Rully Blanc 2018 (Antonin Rodet)",
+        "source": "nominatim",
+        "nominatim_lat": 49.2359777,
+        "nominatim_lon": 2.7280667,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1926,15 +2668,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.2988797,
-          44.9252738
+          -0.3018095,
+          44.9261675
         ]
       },
       "properties": {
         "place": "Canon-Fronsac, France",
         "country": "France",
         "wine_count": 3,
-        "wines": "Cuvée Hugo Canon-Fronsac 2020 (Château Barrabaque); Château Canon Saint-Michel Canon-Fronsac 2018 (Vignoble Millaire); Château Canon Saint-Michel Canon-Fronsac 2021 (Vignoble Millaire)"
+        "wines": "Château Canon Saint-Michel Canon-Fronsac 2018 (Vignoble Millaire); Cuvée Hugo Canon-Fronsac 2020 (Château Barrabaque); Château Canon Saint-Michel Canon-Fronsac 2021 (Vignoble Millaire)",
+        "source": "nominatim",
+        "nominatim_lat": 44.9261675,
+        "nominatim_lon": -0.3018095,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1950,7 +2698,13 @@
         "place": "Estrémadure, Espagne",
         "country": "Espagne",
         "wine_count": 1,
-        "wines": "Finca El Colmenar Edición Limitada 2017 (Coloma)"
+        "wines": "Finca El Colmenar Edición Limitada 2017 (Coloma)",
+        "source": "nominatim",
+        "nominatim_lat": 39.1748426,
+        "nominatim_lon": -6.1529891,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1966,7 +2720,13 @@
         "place": "Brindisi, Italie",
         "country": "Italie",
         "wine_count": 2,
-        "wines": "Eneo Susumaniello - Negroamaro 2022 (Risveglio); Pecoranera Rosso 2023 (Risveglio)"
+        "wines": "Pecoranera Rosso 2023 (Risveglio); Eneo Susumaniello - Negroamaro 2022 (Risveglio)",
+        "source": "nominatim",
+        "nominatim_lat": 40.6358599,
+        "nominatim_lon": 17.6884975,
+        "wikipedia_lat": 40.63333333,
+        "wikipedia_lon": 17.93333333,
+        "distance_km": 20.66
       }
     },
     {
@@ -1982,7 +2742,13 @@
         "place": "Valence, Espagne",
         "country": "Espagne",
         "wine_count": 1,
-        "wines": "Diego 2020 (De Moya)"
+        "wines": "Diego 2020 (De Moya)",
+        "source": "nominatim",
+        "nominatim_lat": 39.4697065,
+        "nominatim_lon": -0.3763353,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -1998,7 +2764,13 @@
         "place": "Chénas, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Chenas 2021 (Château des Boccards)"
+        "wines": "Chenas 2021 (Château des Boccards)",
+        "source": "nominatim",
+        "nominatim_lat": 46.2119329,
+        "nominatim_lon": 4.7190138,
+        "wikipedia_lat": 46.2131,
+        "wikipedia_lon": 4.7203,
+        "distance_km": 0.16
       }
     },
     {
@@ -2014,7 +2786,13 @@
         "place": "Chianti, Italie",
         "country": "Italie",
         "wine_count": 2,
-        "wines": "Chianti 2024 (Astrale); Chianti Riserva 2018 (La Ginestra)"
+        "wines": "Chianti 2024 (Astrale); Chianti Riserva 2018 (La Ginestra)",
+        "source": "nominatim",
+        "nominatim_lat": 43.5824597,
+        "nominatim_lon": 11.3168731,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2030,7 +2808,13 @@
         "place": "Mâcon Villages, France",
         "country": "France",
         "wine_count": 3,
-        "wines": "La Pie Côl 2023 (Coteaux des Margots); Mâcon-Villages Grange Magnien 2024 (Louis Jadot); Au Poirier Chanin Mâcon-Villages 2020 (Pierre Boisson)"
+        "wines": "La Pie Côl 2023 (Coteaux des Margots); Mâcon-Villages Grange Magnien 2024 (Louis Jadot); Au Poirier Chanin Mâcon-Villages 2020 (Pierre Boisson)",
+        "source": "nominatim",
+        "nominatim_lat": 46.3205221,
+        "nominatim_lon": 4.8182182,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2046,7 +2830,13 @@
         "place": "Langhe, Italie",
         "country": "Italie",
         "wine_count": 3,
-        "wines": "Chardonnay 2023 (Damilano); Langhe Nebbiolo 2023 (Mauro Molino); Quatr Nas 2022 (Rocche dei Manzoni)"
+        "wines": "Langhe Nebbiolo 2023 (Mauro Molino); Quatr Nas 2022 (Rocche dei Manzoni); Chardonnay 2023 (Damilano)",
+        "source": "nominatim",
+        "nominatim_lat": 44.493036,
+        "nominatim_lon": 7.974639,
+        "wikipedia_lat": 44.61,
+        "wikipedia_lon": 7.97,
+        "distance_km": 13.01
       }
     },
     {
@@ -2062,7 +2852,13 @@
         "place": "Beaune, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Bons Feuves Beaune 2016 (Domaine Loïc Durand)"
+        "wines": "Bons Feuves Beaune 2016 (Domaine Loïc Durand)",
+        "source": "nominatim",
+        "nominatim_lat": 47.0239064,
+        "nominatim_lon": 4.8380426,
+        "wikipedia_lat": 47.025,
+        "wikipedia_lon": 4.8397,
+        "distance_km": 0.17
       }
     },
     {
@@ -2078,7 +2874,13 @@
         "place": "Pic Saint-Loup, France",
         "country": "France",
         "wine_count": 5,
-        "wines": "Les Secrets Bois de Tourtourel Pic Saint-Loup 2016 (Château de Lascaux); Les Secrets Madeleine Pic-Saint-Loup 2013 (Château de Lascaux); Trésor d'Eole Pic Saint Loup 2020 (Domaine de Villeneuve); L'Arbouse Pic Saint-Loup 2023 (Mas Bruguiere); Le Septieme 2014 (Mas Bruguiere)"
+        "wines": "L'Arbouse Pic Saint-Loup 2023 (Mas Bruguiere); Les Secrets Madeleine Pic-Saint-Loup 2013 (Château de Lascaux); Le Septieme 2014 (Mas Bruguiere); Les Secrets Bois de Tourtourel Pic Saint-Loup 2016 (Château de Lascaux); Trésor d'Eole Pic Saint Loup 2020 (Domaine de Villeneuve)",
+        "source": "nominatim",
+        "nominatim_lat": 43.7788923,
+        "nominatim_lon": 3.81117,
+        "wikipedia_lat": 43.77861111,
+        "wikipedia_lon": 3.81138889,
+        "distance_km": 0.04
       }
     },
     {
@@ -2094,7 +2896,13 @@
         "place": "Barbaresco, Italie",
         "country": "Italie",
         "wine_count": 3,
-        "wines": "Barbaresco 2018 (Giribaldi); Vigneto Bordini Barbaresco 2022 (La Spinetta); Barbaresco Martinenga 2020 (Marchesi di Gresy)"
+        "wines": "Barbaresco 2018 (Giribaldi); Vigneto Bordini Barbaresco 2022 (La Spinetta); Barbaresco Martinenga 2020 (Marchesi di Gresy)",
+        "source": "nominatim",
+        "nominatim_lat": 44.7254469,
+        "nominatim_lon": 8.0806959,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2110,7 +2918,13 @@
         "place": "Côte de Brouilly, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Côte de Brouilly 2019 (Château de La Chaize)"
+        "wines": "Côte de Brouilly 2019 (Château de La Chaize)",
+        "source": "nominatim",
+        "nominatim_lat": 46.1005732,
+        "nominatim_lon": 4.654668,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2126,7 +2940,13 @@
         "place": "Viré-Clessé, France",
         "country": "France",
         "wine_count": 4,
-        "wines": "Longchamp Viré-Clessé 2023 (Domaine de la Verpaille); Climat Brechen Viré-Clessé 2023 (Gondard Perrin); Viré-Clessé 'Aux Quarts' 2023 (Gondard Perrin); Viré-Clessé 2022 (Le Virolys)"
+        "wines": "Viré-Clessé 2022 (Le Virolys); Longchamp Viré-Clessé 2023 (Domaine de la Verpaille); Viré-Clessé 'Aux Quarts' 2023 (Gondard Perrin); Climat Brechen Viré-Clessé 2023 (Gondard Perrin)",
+        "source": "nominatim",
+        "nominatim_lat": 46.4493784,
+        "nominatim_lon": 4.8436685,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2142,7 +2962,13 @@
         "place": "Rubicone, Italie",
         "country": "Italie",
         "wine_count": 2,
-        "wines": "Enigma Apassimento Sangiovese Rubicone 2023 (Biscardo); Maramia Sangiovese 2020 (Mara)"
+        "wines": "Enigma Apassimento Sangiovese Rubicone 2023 (Biscardo); Maramia Sangiovese 2020 (Mara)",
+        "source": "nominatim",
+        "nominatim_lat": 44.0660923,
+        "nominatim_lon": 12.3609442,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2158,7 +2984,13 @@
         "place": "Costers del Segre, Espagne",
         "country": "Espagne",
         "wine_count": 1,
-        "wines": "Siós Nature Syrah 2023 (Costers del Sió)"
+        "wines": "Siós Nature Syrah 2023 (Costers del Sió)",
+        "source": "nominatim",
+        "nominatim_lat": 41.5022982,
+        "nominatim_lon": 0.827399,
+        "wikipedia_lat": 41.60222222,
+        "wikipedia_lon": 0.57305556,
+        "distance_km": 23.9
       }
     },
     {
@@ -2174,7 +3006,13 @@
         "place": "Volnay, France",
         "country": "France",
         "wine_count": 3,
-        "wines": "Les Grands Champs Volnay 2021 (Domaine Jean Vaudoisey); Les Grands Champs Volnay 2022 (Domaine Jean Vaudoisey); Cuvée Marie Volnay 2018 (Domaine Perrin)"
+        "wines": "Cuvée Marie Volnay 2018 (Domaine Perrin); Les Grands Champs Volnay 2021 (Domaine Jean Vaudoisey); Les Grands Champs Volnay 2022 (Domaine Jean Vaudoisey)",
+        "source": "nominatim",
+        "nominatim_lat": 47.0016955,
+        "nominatim_lon": 4.7811102,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2190,7 +3028,13 @@
         "place": "Corbières-Boutenac, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "L'Echappée Belle 2018 (Château de Caraguilhes)"
+        "wines": "L'Echappée Belle 2018 (Château de Caraguilhes)",
+        "source": "nominatim",
+        "nominatim_lat": 43.1491503,
+        "nominatim_lon": 2.7954157,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2206,7 +3050,13 @@
         "place": "Pouilly-Vinzelles, France",
         "country": "France",
         "wine_count": 2,
-        "wines": "Pouilly-Vinzelles 2018 (Château de Vinzelles); Cuvée X-Taste Pouilly-Vinzelles 2017 (La Soufrandière)"
+        "wines": "Pouilly-Vinzelles 2018 (Château de Vinzelles); Cuvée X-Taste Pouilly-Vinzelles 2017 (La Soufrandière)",
+        "source": "nominatim",
+        "nominatim_lat": 46.2789102,
+        "nominatim_lon": 4.7825637,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2222,7 +3072,13 @@
         "place": "Languedoc-Roussillon, France",
         "country": "France",
         "wine_count": 2,
-        "wines": "Plane d'en Bourgat 2024 (Château Lafforgue); Brutal Orange Macabeu 2024 (Matassa)"
+        "wines": "Plane d'en Bourgat 2024 (Château Lafforgue); Brutal Orange Macabeu 2024 (Matassa)",
+        "source": "nominatim",
+        "nominatim_lat": 43.6542031,
+        "nominatim_lon": 3.6746699,
+        "wikipedia_lat": 43.66666667,
+        "wikipedia_lon": 3.16666667,
+        "distance_km": 40.89
       }
     },
     {
@@ -2238,7 +3094,13 @@
         "place": "Navarra, Espagne",
         "country": "Espagne",
         "wine_count": 1,
-        "wines": "LaA 2019 (Pago de Cirsus)"
+        "wines": "LaA 2019 (Pago de Cirsus)",
+        "source": "nominatim",
+        "nominatim_lat": 42.6125488,
+        "nominatim_lon": -1.8307877,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2254,7 +3116,13 @@
         "place": "Empordà, Espagne",
         "country": "Espagne",
         "wine_count": 10,
-        "wines": "La Garnatxa D En Pitu Gran Reserva Garnatxa Roja Dolça 2013 (Celler Massis de l'Albera); Masia Carreras Empordà Blanco 2023 (Martí Fabra); Analvaro 2016 (Mas Anglada); Solista No 7 Subirat Parent 2022 (Mas Geli); Finca Butaros Vinya Centenària 2019 (Mas Llunes); Mar En Calma 2024 (Mas Oller); Flor d'Empordà 2020 (Olivardots); Vd’O 1 Samsó - Pissarra 2017 (Olivardots); Vd’O 2 Samsó - Sorra 2017 (Olivardots); Clos Adrien 2018 (Terra Remota)"
+        "wines": "La Garnatxa D En Pitu Gran Reserva Garnatxa Roja Dolça 2013 (Celler Massis de l'Albera); Clos Adrien 2018 (Terra Remota); Analvaro 2016 (Mas Anglada); Flor d'Empordà 2020 (Olivardots); Vd’O 2 Samsó - Sorra 2017 (Olivardots); Vd’O 1 Samsó - Pissarra 2017 (Olivardots); Finca Butaros Vinya Centenària 2019 (Mas Llunes); Solista No 7 Subirat Parent 2022 (Mas Geli); Mar En Calma 2024 (Mas Oller); Masia Carreras Empordà Blanco 2023 (Martí Fabra)",
+        "source": "nominatim",
+        "nominatim_lat": 42.2902495,
+        "nominatim_lon": 2.9751099,
+        "wikipedia_lat": 42.08194444,
+        "wikipedia_lon": 3.07194444,
+        "distance_km": 24.5
       }
     },
     {
@@ -2270,7 +3138,13 @@
         "place": "Minervois, France",
         "country": "France",
         "wine_count": 3,
-        "wines": "La Table du Loup Minervois 2022 (Cailhol Gautran); A Tempo Minervois 2022 (Domaine La Rouviole); Petit R 2022 (Domaine La Rouviole)"
+        "wines": "Petit R 2022 (Domaine La Rouviole); A Tempo Minervois 2022 (Domaine La Rouviole); La Table du Loup Minervois 2022 (Cailhol Gautran)",
+        "source": "nominatim",
+        "nominatim_lat": 43.2718,
+        "nominatim_lon": 2.52099,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2278,15 +3152,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.3818595,
-          44.4782982
+          11.3819068,
+          44.4783119
         ]
       },
       "properties": {
         "place": "Venezia Giulia, Italie",
         "country": "Italie",
         "wine_count": 5,
-        "wines": "Vintage Tunina 2022 (Jermann); Vintage Tunina 2023 (Jermann); Where Dreams have no end (W... Dreams...) 2022 (Jermann); Braide Alte 2022 (Livon); Podere dei Blumeri 2020 (Schiopetto)"
+        "wines": "Braide Alte 2022 (Livon); Where Dreams have no end (W... Dreams...) 2022 (Jermann); Vintage Tunina 2023 (Jermann); Vintage Tunina 2022 (Jermann); Podere dei Blumeri 2020 (Schiopetto)",
+        "source": "nominatim",
+        "nominatim_lat": 44.4783119,
+        "nominatim_lon": 11.3819068,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2302,7 +3182,13 @@
         "place": "Castel del Monte, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Aglianico Castel del Monte 2021 (Tenuta Bocca di Lupo)"
+        "wines": "Aglianico Castel del Monte 2021 (Tenuta Bocca di Lupo)",
+        "source": "nominatim",
+        "nominatim_lat": 41.0847439,
+        "nominatim_lon": 16.2711145,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2318,7 +3204,13 @@
         "place": "Alicante, Espagne",
         "country": "Espagne",
         "wine_count": 1,
-        "wines": "Triga 2017 (Volver)"
+        "wines": "Triga 2017 (Volver)",
+        "source": "nominatim",
+        "nominatim_lat": 38.3436365,
+        "nominatim_lon": -0.4881708,
+        "wikipedia_lat": 38.34527778,
+        "wikipedia_lon": -0.48305556,
+        "distance_km": 0.48
       }
     },
     {
@@ -2334,7 +3226,13 @@
         "place": "Sierras de Málaga, Espagne",
         "country": "Espagne",
         "wine_count": 2,
-        "wines": "Tadeo Petit Verdot 2020 (Los Aguilares); Tadeo Petit Verdot 2022 (Los Aguilares)"
+        "wines": "Tadeo Petit Verdot 2022 (Los Aguilares); Tadeo Petit Verdot 2020 (Los Aguilares)",
+        "source": "nominatim",
+        "nominatim_lat": 36.9220029,
+        "nominatim_lon": -4.0946425,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2350,7 +3248,13 @@
         "place": "Arínzano, Espagne",
         "country": "Espagne",
         "wine_count": 2,
-        "wines": "Arínzano Armonía 2022 (Arínzano); Arínzano Pureza 2021 (Arínzano)"
+        "wines": "Arínzano Armonía 2022 (Arínzano); Arínzano Pureza 2021 (Arínzano)",
+        "source": "nominatim",
+        "nominatim_lat": 42.630781,
+        "nominatim_lon": -1.9934938,
+        "wikipedia_lat": 42.63033333,
+        "wikipedia_lon": -1.99375,
+        "distance_km": 0.05
       }
     },
     {
@@ -2366,7 +3270,13 @@
         "place": "Valdeorras, Espagne",
         "country": "Espagne",
         "wine_count": 3,
-        "wines": "Revival Godello 2023 (Godeval); O Luar do Sil Valdeorras Godello Sobre Lias 2023 (Pago de Los Capellanes); O Luar do Sil Vides de Córgomo 2021 (Pago de Los Capellanes)"
+        "wines": "Revival Godello 2023 (Godeval); O Luar do Sil Vides de Córgomo 2021 (Pago de Los Capellanes); O Luar do Sil Valdeorras Godello Sobre Lias 2023 (Pago de Los Capellanes)",
+        "source": "nominatim",
+        "nominatim_lat": 42.3483416,
+        "nominatim_lon": -6.9659982,
+        "wikipedia_lat": 42.38888889,
+        "wikipedia_lon": -7.04722222,
+        "distance_km": 8.05
       }
     },
     {
@@ -2382,7 +3292,13 @@
         "place": "Hérault, France",
         "country": "France",
         "wine_count": 5,
-        "wines": "Les Garrigues 2020 (Domaine Vaïsse); Le 360 2022 (Domaine du Mas des Armes); Le 360 Blanc 2023 (Domaine du Mas des Armes); Rouge 2023 (Les Creisses); Encosta 2024 (Mas de Martin)"
+        "wines": "Le 360 Blanc 2023 (Domaine du Mas des Armes); Le 360 2022 (Domaine du Mas des Armes); Les Garrigues 2020 (Domaine Vaïsse); Rouge 2023 (Les Creisses); Encosta 2024 (Mas de Martin)",
+        "source": "nominatim",
+        "nominatim_lat": 43.591422,
+        "nominatim_lon": 3.3553309,
+        "wikipedia_lat": 43.35,
+        "wikipedia_lon": 3.21666667,
+        "distance_km": 29.08
       }
     },
     {
@@ -2390,15 +3306,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.1369884,
-          45.7984176
+          1.1369307,
+          45.7982714
         ]
       },
       "properties": {
         "place": "Côtes de Bourg, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "La Dame de La Tuilière Prestige 2020 (Château La Tuiliere)"
+        "wines": "La Dame de La Tuilière Prestige 2020 (Château La Tuiliere)",
+        "source": "nominatim",
+        "nominatim_lat": 45.7982714,
+        "nominatim_lon": 1.1369307,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2414,7 +3336,13 @@
         "place": "Malaga, Espagne",
         "country": "Espagne",
         "wine_count": 3,
-        "wines": "Tinto 2006 (Ramos-Paul); Molino Real 2018 (Telmo Rodriguez); Molino Real 2021 (Telmo Rodriguez)"
+        "wines": "Tinto 2006 (Ramos-Paul); Molino Real 2021 (Telmo Rodriguez); Molino Real 2018 (Telmo Rodriguez)",
+        "source": "nominatim",
+        "nominatim_lat": 36.7213028,
+        "nominatim_lon": -4.4216366,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2430,7 +3358,13 @@
         "place": "Valpolicella, Italie",
         "country": "Italie",
         "wine_count": 4,
-        "wines": "Valpolicella Superiore 2020 (Ferragù); Mai Dire Mai Valpolicella Superiore 2015 (Pasqua Vigneti e Cantine); Valpolicella Superiore 2019 (Roccolo Grassi); Maternigo Valpolicella Superiore 2021 (Tedeschi)"
+        "wines": "Valpolicella Superiore 2020 (Ferragù); Valpolicella Superiore 2019 (Roccolo Grassi); Mai Dire Mai Valpolicella Superiore 2015 (Pasqua Vigneti e Cantine); Maternigo Valpolicella Superiore 2021 (Tedeschi)",
+        "source": "nominatim",
+        "nominatim_lat": 45.5296706,
+        "nominatim_lon": 10.9400217,
+        "wikipedia_lat": 45.5167,
+        "wikipedia_lon": 10.8833,
+        "distance_km": 4.65
       }
     },
     {
@@ -2446,7 +3380,13 @@
         "place": "Friuli Isonzo, Italie",
         "country": "Italie",
         "wine_count": 9,
-        "wines": "Schioppettino 2020 (Bressan); Venezia Giulia Picol 2022 (Lis Neris); Ciampagnis Vieris Chardonnay 2022 (Vie di Romans); Dessimis Pinot Grigio 2023 (Vie di Romans); Dut' Un 2022 (Vie di Romans); Flors di Uis 2023 (Vie di Romans); Piere Sauvignon Blanc 2023 (Vie di Romans); Vieris Sauvignon Blanc 2022 (Vie di Romans); Voos dai Ciamps 2018 (Vie di Romans)"
+        "wines": "Schioppettino 2020 (Bressan); Flors di Uis 2023 (Vie di Romans); Dut' Un 2022 (Vie di Romans); Voos dai Ciamps 2018 (Vie di Romans); Ciampagnis Vieris Chardonnay 2022 (Vie di Romans); Vieris Sauvignon Blanc 2022 (Vie di Romans); Piere Sauvignon Blanc 2023 (Vie di Romans); Dessimis Pinot Grigio 2023 (Vie di Romans); Venezia Giulia Picol 2022 (Lis Neris)",
+        "source": "nominatim",
+        "nominatim_lat": 41.4628133,
+        "nominatim_lon": 12.9047599,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2462,7 +3402,13 @@
         "place": "Sardegna, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Mommoti Rouge 2021 (Gibadda)"
+        "wines": "Mommoti Rouge 2021 (Gibadda)",
+        "source": "nominatim",
+        "nominatim_lat": 40.0912813,
+        "nominatim_lon": 9.0305773,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2478,7 +3424,13 @@
         "place": "Piémont, Italie",
         "country": "Italie",
         "wine_count": 3,
-        "wines": "NŌ Rosso 2022 (Elio Perrone); NŌ Rosso 2023 (Elio Perrone); Io Cammino da Solo 2019 (Ricci)"
+        "wines": "NŌ Rosso 2023 (Elio Perrone); NŌ Rosso 2022 (Elio Perrone); Io Cammino da Solo 2019 (Ricci)",
+        "source": "nominatim",
+        "nominatim_lat": 45.060735,
+        "nominatim_lon": 7.923549,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2494,7 +3446,13 @@
         "place": "Utiel-Requena, Espagne",
         "country": "Espagne",
         "wine_count": 1,
-        "wines": "Quod Superius 2019 (Hispano Suizas)"
+        "wines": "Quod Superius 2019 (Hispano Suizas)",
+        "source": "nominatim",
+        "nominatim_lat": 39.5492855,
+        "nominatim_lon": -1.2511657,
+        "wikipedia_lat": 39.50615833,
+        "wikipedia_lon": -1.18102778,
+        "distance_km": 7.69
       }
     },
     {
@@ -2510,7 +3468,13 @@
         "place": "Côtes du Roussillon, France",
         "country": "France",
         "wine_count": 7,
-        "wines": "Le Premier de Valmy 2021 (Château Valmy); Le Secret de Valmy 2022 (Château Valmy); Jaujau Le Grand 2022 (Château de Jau); Le Vignon 2021 (Domaine Lafage); Le Clos des Fées (Hervé Bizeul) 2020 (Domaine du Clos des Fées); Le Clos des Fées (Hervé Bizeul) 2021 (Domaine du Clos des Fées); Soleil Blanc 2020 (Lauriga)"
+        "wines": "Le Premier de Valmy 2021 (Château Valmy); Le Secret de Valmy 2022 (Château Valmy); Le Clos des Fées (Hervé Bizeul) 2021 (Domaine du Clos des Fées); Jaujau Le Grand 2022 (Château de Jau); Le Clos des Fées (Hervé Bizeul) 2020 (Domaine du Clos des Fées); Le Vignon 2021 (Domaine Lafage); Soleil Blanc 2020 (Lauriga)",
+        "source": "nominatim",
+        "nominatim_lat": 45.3709088,
+        "nominatim_lon": 4.8124715,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2526,7 +3490,13 @@
         "place": "Collioure, France",
         "country": "France",
         "wine_count": 2,
-        "wines": "Abysses Collioure 2023 (Coume del Mas); Quadratur 2021 (Coume del Mas)"
+        "wines": "Abysses Collioure 2023 (Coume del Mas); Quadratur 2021 (Coume del Mas)",
+        "source": "nominatim",
+        "nominatim_lat": 42.52505,
+        "nominatim_lon": 3.0831554,
+        "wikipedia_lat": 42.5267,
+        "wikipedia_lon": 3.0814,
+        "distance_km": 0.23
       }
     },
     {
@@ -2542,7 +3512,13 @@
         "place": "Colli di Conegliano, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Vigneto Rizzardo Ai Pallazi Colli di Conegliano 2017 (Masottina)"
+        "wines": "Vigneto Rizzardo Ai Pallazi Colli di Conegliano 2017 (Masottina)",
+        "source": "nominatim",
+        "nominatim_lat": 45.887008,
+        "nominatim_lon": 12.2905471,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2558,7 +3534,13 @@
         "place": "Cannonau di Sardegna, Italie",
         "country": "Italie",
         "wine_count": 4,
-        "wines": "Ghirada Elisi Cannonau di Sardegna 2022 (Francesco Cadinu); Ghirada Fittiloghe 2022 (Francesco Cadinu); Barrosu Cannonau di Sardegna 2022 (Giovanni Montisci); Fòla 2020 (Siddura)"
+        "wines": "Ghirada Elisi Cannonau di Sardegna 2022 (Francesco Cadinu); Ghirada Fittiloghe 2022 (Francesco Cadinu); Barrosu Cannonau di Sardegna 2022 (Giovanni Montisci); Fòla 2020 (Siddura)",
+        "source": "nominatim",
+        "nominatim_lat": 40.2568421,
+        "nominatim_lon": 9.6219585,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2574,7 +3556,13 @@
         "place": "Orcia, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Petruccino 2022 (Podere Forte)"
+        "wines": "Petruccino 2022 (Podere Forte)",
+        "source": "nominatim",
+        "nominatim_lat": 42.9629844,
+        "nominatim_lon": 11.3801194,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2590,7 +3578,13 @@
         "place": "Carmignano, Italie",
         "country": "Italie",
         "wine_count": 3,
-        "wines": "Terre a Mano Carmignano Rosso 2021 (Bacchereto); Carmignano Riserva Trefiano 2020 (Capezzana); Ghiaie Della Furba 2021 (Capezzana)"
+        "wines": "Carmignano Riserva Trefiano 2020 (Capezzana); Terre a Mano Carmignano Rosso 2021 (Bacchereto); Ghiaie Della Furba 2021 (Capezzana)",
+        "source": "nominatim",
+        "nominatim_lat": 43.8140654,
+        "nominatim_lon": 11.0190297,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2606,7 +3600,13 @@
         "place": "Collio, Italie",
         "country": "Italie",
         "wine_count": 4,
-        "wines": "Nekaj 2020 (Damijan Podversic); Défi de la Tour 2015 (Villa Russiz); Défi de la Tour 2018 (Villa Russiz); Graf de la Tour 2020 (Villa Russiz)"
+        "wines": "Défi de la Tour 2015 (Villa Russiz); Défi de la Tour 2018 (Villa Russiz); Graf de la Tour 2020 (Villa Russiz); Nekaj 2020 (Damijan Podversic)",
+        "source": "nominatim",
+        "nominatim_lat": 45.8093124,
+        "nominatim_lon": 10.3328723,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2622,7 +3622,13 @@
         "place": "Rosso di Montalcino, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Rosso di Montalcino 2022 (Gorelli)"
+        "wines": "Rosso di Montalcino 2022 (Gorelli)",
+        "source": "nominatim",
+        "nominatim_lat": 43.0555284,
+        "nominatim_lon": 11.3594386,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2638,7 +3644,13 @@
         "place": "Ombrie, Italie",
         "country": "Italie",
         "wine_count": 4,
-        "wines": "Sauvignon 2020 (Andrea Formilli Fendi); Castello della Sala Pinot Nero 2022 (Antinori); Primo d'Anfora Bianco Umbria 2022 (Argillae); Cantaluce 2021 (Colsanto)"
+        "wines": "Castello della Sala Pinot Nero 2022 (Antinori); Sauvignon 2020 (Andrea Formilli Fendi); Primo d'Anfora Bianco Umbria 2022 (Argillae); Cantaluce 2021 (Colsanto)",
+        "source": "nominatim",
+        "nominatim_lat": 42.965916,
+        "nominatim_lon": 12.490236,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2654,7 +3666,13 @@
         "place": "Vallée d'Aoste, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Sopraquota 900 2023 (Rosset)"
+        "wines": "Sopraquota 900 2023 (Rosset)",
+        "source": "nominatim",
+        "nominatim_lat": 45.730099,
+        "nominatim_lon": 7.387426,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2670,7 +3688,13 @@
         "place": "Trentin-Haut-Adige, Italie",
         "country": "Italie",
         "wine_count": 3,
-        "wines": "Luigi 2019 (Dorigati); Barthenau Vigna Herbsthöfl Pinot Nero 2022 (J. Hofstätter); 7 Pergole 2016 (Villa Corniole)"
+        "wines": "7 Pergole 2016 (Villa Corniole); Luigi 2019 (Dorigati); Barthenau Vigna Herbsthöfl Pinot Nero 2022 (J. Hofstätter)",
+        "source": "nominatim",
+        "nominatim_lat": 46.441472,
+        "nominatim_lon": 11.282121,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2686,7 +3710,13 @@
         "place": "Priorat, Espagne",
         "country": "Espagne",
         "wine_count": 12,
-        "wines": "Porrera 2023 (Alvarez Duran); Artigas 2022 (Bodegas Mas Alta); Clàssic 2017 (Cims de Porrera); Clos Figueres 2021 (Clos Figueras); Nelin 2021 (Clos Mogador); Les Margues 2022 (El Mas de l'A); Clar del Bosc 2022 (Familia Gil); Clos del Portal Tros de Clos 2020 (Portal del Priorat); Cartoixa Reserva Priorat 2018 (Scala Dei); Massipa de Scala Dei Garnatxa Blanca - Xenin 2023 (Scala Dei); Porrera Vi de Vila 2021 (Vall Llach); Vi de Pageses / Pagesos Tinto 2022 (Vall Llach)"
+        "wines": "Artigas 2022 (Bodegas Mas Alta); Porrera 2023 (Alvarez Duran); Clos del Portal Tros de Clos 2020 (Portal del Priorat); Porrera Vi de Vila 2021 (Vall Llach); Massipa de Scala Dei Garnatxa Blanca - Xenin 2023 (Scala Dei); Clàssic 2017 (Cims de Porrera); Clos Figueres 2021 (Clos Figueras); Clar del Bosc 2022 (Familia Gil); Vi de Pageses / Pagesos Tinto 2022 (Vall Llach); Les Margues 2022 (El Mas de l'A)",
+        "source": "nominatim",
+        "nominatim_lat": 41.2137983,
+        "nominatim_lon": 0.8116236,
+        "wikipedia_lat": 41.13333333,
+        "wikipedia_lon": 0.81666667,
+        "distance_km": 8.96
       }
     },
     {
@@ -2702,7 +3732,13 @@
         "place": "Pla de Bages, Espagne",
         "country": "Espagne",
         "wine_count": 2,
-        "wines": "3.9 2021 (Abadal); Arboset 2019 (Abadal)"
+        "wines": "3.9 2021 (Abadal); Arboset 2019 (Abadal)",
+        "source": "nominatim",
+        "nominatim_lat": 41.778578,
+        "nominatim_lon": 1.8903822,
+        "wikipedia_lat": 41.72055556,
+        "wikipedia_lon": 1.83972222,
+        "distance_km": 7.7
       }
     },
     {
@@ -2718,7 +3754,13 @@
         "place": "Ribeiro, Espagne",
         "country": "Espagne",
         "wine_count": 2,
-        "wines": "Pedras Líquidas Blanco 2022 (Abadia da Cova); El Primero 2022 (Cunqueiro)"
+        "wines": "El Primero 2022 (Cunqueiro); Pedras Líquidas Blanco 2022 (Abadia da Cova)",
+        "source": "nominatim",
+        "nominatim_lat": 42.3199064,
+        "nominatim_lon": -8.1522669,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2734,7 +3776,13 @@
         "place": "Catalogne, Espagne",
         "country": "Espagne",
         "wine_count": 2,
-        "wines": "Ca l’Elsa 2019 (Eccocivi); Les Camades Garnatxa Blanca 2020 (L'Enclòs de Peralba)"
+        "wines": "Ca l’Elsa 2019 (Eccocivi); Les Camades Garnatxa Blanca 2020 (L'Enclòs de Peralba)",
+        "source": "nominatim",
+        "nominatim_lat": 41.8523094,
+        "nominatim_lon": 1.5745043,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2742,15 +3790,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.2110984,
-          41.116962
+          1.211005,
+          41.1171253
         ]
       },
       "properties": {
         "place": "Montsant, Espagne",
         "country": "Espagne",
         "wine_count": 4,
-        "wines": "Auditori 2017 (Acustic Celler); Venus de la Figuera 2021 (Venus la Universal); Teixar 2019 (Vinyes Domenech); Vinyes Velles de Samsó 2019 (Vinyes Domenech)"
+        "wines": "Vinyes Velles de Samsó 2019 (Vinyes Domenech); Teixar 2019 (Vinyes Domenech); Venus de la Figuera 2021 (Venus la Universal); Auditori 2017 (Acustic Celler)",
+        "source": "nominatim",
+        "nominatim_lat": 41.1171253,
+        "nominatim_lon": 1.211005,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2766,7 +3820,13 @@
         "place": "Majorque, Espagne",
         "country": "Espagne",
         "wine_count": 2,
-        "wines": "Ventum 2019 (Can Axartell); Àn 2022 (Ànima Negra)"
+        "wines": "Àn 2022 (Ànima Negra); Ventum 2019 (Can Axartell)",
+        "source": "nominatim",
+        "nominatim_lat": 39.613432,
+        "nominatim_lon": 2.8829185,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2782,7 +3842,13 @@
         "place": "Campo de Borja, Espagne",
         "country": "Espagne",
         "wine_count": 3,
-        "wines": "Garnacha 2021 (Alto Moncayo); Garnacha 2022 (Alto Moncayo); Veraton Garnacha 2022 (Alto Moncayo)"
+        "wines": "Garnacha 2021 (Alto Moncayo); Veraton Garnacha 2022 (Alto Moncayo); Garnacha 2022 (Alto Moncayo)",
+        "source": "nominatim",
+        "nominatim_lat": 41.7865415,
+        "nominatim_lon": -1.5058323,
+        "wikipedia_lat": 41.81666667,
+        "wikipedia_lon": -1.53333333,
+        "distance_km": 4.05
       }
     },
     {
@@ -2798,7 +3864,13 @@
         "place": "Bourgogne Côte d’Or, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Bourgogne Côte d'Or Les Vaux 2023 (Domaine Rougeot)"
+        "wines": "Bourgogne Côte d'Or Les Vaux 2023 (Domaine Rougeot)",
+        "source": "nominatim",
+        "nominatim_lat": 47.3253598,
+        "nominatim_lon": 5.0293776,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2814,7 +3886,13 @@
         "place": "Jurançon, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Caubeigt Jurançon 2024 (Domaine Castéra)"
+        "wines": "Caubeigt Jurançon 2024 (Domaine Castéra)",
+        "source": "nominatim",
+        "nominatim_lat": 43.2871825,
+        "nominatim_lon": -0.3896425,
+        "wikipedia_lat": 43.2883,
+        "wikipedia_lon": -0.3869,
+        "distance_km": 0.25
       }
     },
     {
@@ -2830,7 +3908,13 @@
         "place": "Hermitage, France",
         "country": "France",
         "wine_count": 3,
-        "wines": "Domaine des Tourettes Hermitage Rouge 2013 (Delas); Domaine des Tourettes Hermitage Rouge 2023 (Delas); Cuvée Emilie Hermitage Rouge 2020 (Domaine des Remizières)"
+        "wines": "Domaine des Tourettes Hermitage Rouge 2013 (Delas); Domaine des Tourettes Hermitage Rouge 2023 (Delas); Cuvée Emilie Hermitage Rouge 2020 (Domaine des Remizières)",
+        "source": "nominatim",
+        "nominatim_lat": 47.6406711,
+        "nominatim_lon": -2.7637153,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2846,7 +3930,13 @@
         "place": "Ajaccio, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Abbramante 2023 (Domaine de Tremica)"
+        "wines": "Abbramante 2023 (Domaine de Tremica)",
+        "source": "nominatim",
+        "nominatim_lat": 41.9263991,
+        "nominatim_lon": 8.7376029,
+        "wikipedia_lat": 41.9267,
+        "wikipedia_lon": 8.7369,
+        "distance_km": 0.07
       }
     },
     {
@@ -2862,7 +3952,13 @@
         "place": "Palette, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Palette Rouge 2022 (Château Simone)"
+        "wines": "Palette Rouge 2022 (Château Simone)",
+        "source": "nominatim",
+        "nominatim_lat": 43.5104611,
+        "nominatim_lon": 5.4889374,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2878,7 +3974,13 @@
         "place": "Terrasses du Larzac, France",
         "country": "France",
         "wine_count": 2,
-        "wines": "Clas Mani Terrasses du Larzac 2019 (Cassagne et Vitailles); Terrasses du Larzac Rouge 2022 (Montcalmès)"
+        "wines": "Terrasses du Larzac Rouge 2022 (Montcalmès); Clas Mani Terrasses du Larzac 2019 (Cassagne et Vitailles)",
+        "source": "nominatim",
+        "nominatim_lat": 43.7152761,
+        "nominatim_lon": 3.4888802,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2894,7 +3996,13 @@
         "place": "Charentais, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Le Bruleau Chardonnay 2022 (Maison Boiteau)"
+        "wines": "Le Bruleau Chardonnay 2022 (Maison Boiteau)",
+        "source": "nominatim",
+        "nominatim_lat": 47.2725916,
+        "nominatim_lon": 0.8223418,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2910,7 +4018,13 @@
         "place": "Saint-Romain, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Saint-Romain Sous la Velle 2018 (Domaine Henri & Gilles Buisson)"
+        "wines": "Saint-Romain Sous la Velle 2018 (Domaine Henri & Gilles Buisson)",
+        "source": "nominatim",
+        "nominatim_lat": 46.9982395,
+        "nominatim_lon": 4.7083847,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2926,7 +4040,13 @@
         "place": "Monbazillac, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Chardonnay 2016 (Domaine de Puy Redon)"
+        "wines": "Chardonnay 2016 (Domaine de Puy Redon)",
+        "source": "nominatim",
+        "nominatim_lat": 44.795,
+        "nominatim_lon": 0.4925,
+        "wikipedia_lat": 44.795,
+        "wikipedia_lon": 0.4925,
+        "distance_km": 0.0
       }
     },
     {
@@ -2942,7 +4062,13 @@
         "place": "Taurasi, Italie",
         "country": "Italie",
         "wine_count": 3,
-        "wines": "Vigna Macchia dei Goti Taurasi 2019 (Antonio Caggiano); Vigna Macchia dei Goti Taurasi 2020 (Antonio Caggiano); Taurasi Riserva Radici 2017 (Mastroberardino)"
+        "wines": "Vigna Macchia dei Goti Taurasi 2019 (Antonio Caggiano); Taurasi Riserva Radici 2017 (Mastroberardino); Vigna Macchia dei Goti Taurasi 2020 (Antonio Caggiano)",
+        "source": "nominatim",
+        "nominatim_lat": 41.0083503,
+        "nominatim_lon": 14.9574387,
+        "wikipedia_lat": 41,
+        "wikipedia_lon": 14.95,
+        "distance_km": 1.12
       }
     },
     {
@@ -2958,7 +4084,13 @@
         "place": "Frioul-Vénétie Julienne, Italie",
         "country": "Italie",
         "wine_count": 8,
-        "wines": "Pinot Nero 2020 (Bressan); Lonsblau Pinot Nero 2020 (Jermann); Zitelle Duri 2023 (Meroi); Riserva Rosso 2016 (Nero Magis); Riserva Rosso 2019 (Nero Magis); Rosso 2014 (Nero Magis); Sauvignon Blanc 2024 (Pierpaolo Pecorari); Nuts Climat 2018 (Vie di Romans)"
+        "wines": "Pinot Nero 2020 (Bressan); Rosso 2014 (Nero Magis); Nuts Climat 2018 (Vie di Romans); Riserva Rosso 2016 (Nero Magis); Lonsblau Pinot Nero 2020 (Jermann); Riserva Rosso 2019 (Nero Magis); Zitelle Duri 2023 (Meroi); Sauvignon Blanc 2024 (Pierpaolo Pecorari)",
+        "source": "nominatim",
+        "nominatim_lat": 46.151042,
+        "nominatim_lon": 13.055904,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -2974,7 +4106,13 @@
         "place": "Gigondas, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Gigondas La Colline 2022 (Domaine des Bosquets)"
+        "wines": "Gigondas La Colline 2022 (Domaine des Bosquets)",
+        "source": "nominatim",
+        "nominatim_lat": 44.1641127,
+        "nominatim_lon": 5.0051053,
+        "wikipedia_lat": 44.1647,
+        "wikipedia_lon": 5.0053,
+        "distance_km": 0.07
       }
     },
     {
@@ -2990,7 +4128,13 @@
         "place": "Rioja Alavesa, Espagne",
         "country": "Espagne",
         "wine_count": 2,
-        "wines": "El Cristo de Samaniego 2021 (Bodegas Amaren); Viña Chelus de Amaren 2021 (Bodegas Amaren)"
+        "wines": "Viña Chelus de Amaren 2021 (Bodegas Amaren); El Cristo de Samaniego 2021 (Bodegas Amaren)",
+        "source": "nominatim",
+        "nominatim_lat": 42.544151,
+        "nominatim_lon": -2.5454224,
+        "wikipedia_lat": 42.55305556,
+        "wikipedia_lon": -2.60333333,
+        "distance_km": 4.85
       }
     },
     {
@@ -3006,7 +4150,13 @@
         "place": "Tierra de León, Espagne",
         "country": "Espagne",
         "wine_count": 1,
-        "wines": "Aldeasona 2016 (Convento San Francisco)"
+        "wines": "Aldeasona 2016 (Convento San Francisco)",
+        "source": "nominatim",
+        "nominatim_lat": 41.2558502,
+        "nominatim_lon": -5.7087521,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3022,7 +4172,13 @@
         "place": "Chassagne-Montrachet, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Chassagne-Montrachet 2023 (Vincent Bachelet)"
+        "wines": "Chassagne-Montrachet 2023 (Vincent Bachelet)",
+        "source": "nominatim",
+        "nominatim_lat": 46.93636,
+        "nominatim_lon": 4.72736,
+        "wikipedia_lat": 46.9378,
+        "wikipedia_lon": 4.7292,
+        "distance_km": 0.21
       }
     },
     {
@@ -3038,7 +4194,13 @@
         "place": "Jerez-Xérès-Sherry, Espagne",
         "country": "Espagne",
         "wine_count": 1,
-        "wines": "Varietal Fermentacion Lenta 2023 (Bodegas Ximénez-Spínola)"
+        "wines": "Varietal Fermentacion Lenta 2023 (Bodegas Ximénez-Spínola)",
+        "source": "nominatim",
+        "nominatim_lat": 36.6905077,
+        "nominatim_lon": -6.134887,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3054,7 +4216,35 @@
         "place": "Ardèche, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Florence 2022 (Château de la Selve)"
+        "wines": "Florence 2022 (Château de la Selve)",
+        "source": "nominatim",
+        "nominatim_lat": 44.815194,
+        "nominatim_lon": 4.3986525,
+        "wikipedia_lat": 44.66666667,
+        "wikipedia_lon": 4.41666667,
+        "distance_km": 16.58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.98888889,
+          43.32555556
+        ]
+      },
+      "properties": {
+        "place": "Bizkaiko Txakolina, Espagne",
+        "country": "Espagne",
+        "wine_count": 1,
+        "wines": "Marko Terlegiz 2021 (Oxer Wines)",
+        "source": "wikipedia",
+        "nominatim_lat": null,
+        "nominatim_lon": null,
+        "wikipedia_lat": 43.32555556,
+        "wikipedia_lon": -2.98888889,
+        "distance_km": null
       }
     },
     {
@@ -3070,7 +4260,13 @@
         "place": "Maury, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "l'Envie Maury Rouge 2019 (Domaine de Vénus)"
+        "wines": "l'Envie Maury Rouge 2019 (Domaine de Vénus)",
+        "source": "nominatim",
+        "nominatim_lat": 42.8102692,
+        "nominatim_lon": 2.5935825,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3078,15 +4274,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.6987781,
-          42.940282
+          13.6991924,
+          42.937322
         ]
       },
       "properties": {
         "place": "Rosso Piceno, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Nero di Vite 2017 (Le Caniette)"
+        "wines": "Nero di Vite 2017 (Le Caniette)",
+        "source": "nominatim",
+        "nominatim_lat": 42.937322,
+        "nominatim_lon": 13.6991924,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3102,7 +4304,13 @@
         "place": "Barbera d'Asti, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "La Bogliona Barbera d'Asti 2019 (Scarpa)"
+        "wines": "La Bogliona Barbera d'Asti 2019 (Scarpa)",
+        "source": "nominatim",
+        "nominatim_lat": 44.8524209,
+        "nominatim_lon": 8.2414217,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3118,7 +4326,13 @@
         "place": "Valcalepio, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Bemu' Valcalepio Rosso Riserva 2021 (Tosca)"
+        "wines": "Bemu' Valcalepio Rosso Riserva 2021 (Tosca)",
+        "source": "nominatim",
+        "nominatim_lat": 45.668183,
+        "nominatim_lon": 9.8142017,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3134,7 +4348,13 @@
         "place": "Roero, Italie",
         "country": "Italie",
         "wine_count": 2,
-        "wines": "S.Francesco Roero Riserva 2018 (Azienda Agricola Negro Lorenzo); Ròche d'Ampsèj Roero Riserva 2020 (Matteo Correggia)"
+        "wines": "S.Francesco Roero Riserva 2018 (Azienda Agricola Negro Lorenzo); Ròche d'Ampsèj Roero Riserva 2020 (Matteo Correggia)",
+        "source": "nominatim",
+        "nominatim_lat": 44.7806865,
+        "nominatim_lon": 7.9311892,
+        "wikipedia_lat": 44.7,
+        "wikipedia_lon": 7.85,
+        "distance_km": 11.03
       }
     },
     {
@@ -3150,7 +4370,13 @@
         "place": "Colli Euganei, Italie",
         "country": "Italie",
         "wine_count": 2,
-        "wines": "Nero Musqué Rosso 2018 (Ca 'Lustra Zanovello); Nero Musqué Rosso 2021 (Ca 'Lustra Zanovello)"
+        "wines": "Nero Musqué Rosso 2021 (Ca 'Lustra Zanovello); Nero Musqué Rosso 2018 (Ca 'Lustra Zanovello)",
+        "source": "nominatim",
+        "nominatim_lat": 45.3106318,
+        "nominatim_lon": 11.7100786,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3166,7 +4392,13 @@
         "place": "Romangia, Italie",
         "country": "Italie",
         "wine_count": 2,
-        "wines": "Li Sureddi Bianco 2020 (Antichi Vigneti Manca); Li Sureddi Bianco 2021 (Antichi Vigneti Manca)"
+        "wines": "Li Sureddi Bianco 2021 (Antichi Vigneti Manca); Li Sureddi Bianco 2020 (Antichi Vigneti Manca)",
+        "source": "nominatim",
+        "nominatim_lat": 40.7346859,
+        "nominatim_lon": 8.5650945,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3182,7 +4414,13 @@
         "place": "Botticino, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Foja d'Or Riserva 2019 (Franzoni)"
+        "wines": "Foja d'Or Riserva 2019 (Franzoni)",
+        "source": "nominatim",
+        "nominatim_lat": 45.5432619,
+        "nominatim_lon": 10.3231835,
+        "wikipedia_lat": 45.53333333,
+        "wikipedia_lon": 10.23333333,
+        "distance_km": 7.08
       }
     },
     {
@@ -3198,7 +4436,13 @@
         "place": "Galice, Espagne",
         "country": "Espagne",
         "wine_count": 1,
-        "wines": "O Santo do Mar Blanco de Cela 2022 (Rodrigo Mendez)"
+        "wines": "O Santo do Mar Blanco de Cela 2022 (Rodrigo Mendez)",
+        "source": "nominatim",
+        "nominatim_lat": 42.61946,
+        "nominatim_lon": -7.863112,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3214,7 +4458,13 @@
         "place": "Jura, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Three Views of a Secret 2022 (Hughes Beguet)"
+        "wines": "Three Views of a Secret 2022 (Hughes Beguet)",
+        "source": "nominatim",
+        "nominatim_lat": 46.7833625,
+        "nominatim_lon": 5.7832857,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3230,7 +4480,13 @@
         "place": "Côtes du Jura, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Les Sarres Savagnin Ouillé 2023 (Domaine des Notes Bleues)"
+        "wines": "Les Sarres Savagnin Ouillé 2023 (Domaine des Notes Bleues)",
+        "source": "nominatim",
+        "nominatim_lat": 46.6070168,
+        "nominatim_lon": 5.9161609,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3238,15 +4494,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.7598962,
-          45.7682776
+          10.7661998,
+          45.773197
         ]
       },
       "properties": {
         "place": "Benaco Bresciano, Italie",
         "country": "Italie",
         "wine_count": 2,
-        "wines": "Il Nito 2022 (La Rifra); Notte a San Martino 2020 (Olivini)"
+        "wines": "Il Nito 2022 (La Rifra); Notte a San Martino 2020 (Olivini)",
+        "source": "nominatim",
+        "nominatim_lat": 45.773197,
+        "nominatim_lon": 10.7661998,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3262,7 +4524,13 @@
         "place": "Lombardie, Italie",
         "country": "Italie",
         "wine_count": 3,
-        "wines": "Fuochi 2021 (Cascina Belmonte); Ca' Brione Alpi Retiche di Sondrio 2023 (Nino Negri); Ca' Brione Alpi Retiche di Sondrio 2024 (Nino Negri)"
+        "wines": "Fuochi 2021 (Cascina Belmonte); Ca' Brione Alpi Retiche di Sondrio 2024 (Nino Negri); Ca' Brione Alpi Retiche di Sondrio 2023 (Nino Negri)",
+        "source": "nominatim",
+        "nominatim_lat": 45.5703694,
+        "nominatim_lon": 9.7732524,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3278,7 +4546,13 @@
         "place": "Rosazzo, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Pignolo 2015 (Ronco delle Betulle)"
+        "wines": "Pignolo 2015 (Ronco delle Betulle)",
+        "source": "nominatim",
+        "nominatim_lat": 45.9970608,
+        "nominatim_lon": 13.4415949,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3294,7 +4568,13 @@
         "place": "Offida, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Qvinta Regio 2021 (Simone Capecci)"
+        "wines": "Qvinta Regio 2021 (Simone Capecci)",
+        "source": "nominatim",
+        "nominatim_lat": 42.9348208,
+        "nominatim_lon": 13.6910435,
+        "wikipedia_lat": 42.93333333,
+        "wikipedia_lon": 13.68333333,
+        "distance_km": 0.65
       }
     },
     {
@@ -3310,7 +4590,13 @@
         "place": "Etna, Italie",
         "country": "Italie",
         "wine_count": 3,
-        "wines": "Rosso 2021 (Muruasiccu); Guardoilvento Etna 2022 (Pietro Caciorgna); Etna Rosso 2022 (Tenuta Boccarossa)"
+        "wines": "Guardoilvento Etna 2022 (Pietro Caciorgna); Etna Rosso 2022 (Tenuta Boccarossa); Rosso 2021 (Muruasiccu)",
+        "source": "nominatim",
+        "nominatim_lat": 37.7510251,
+        "nominatim_lon": 14.9940321,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3326,7 +4612,13 @@
         "place": "Valcamonica, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Camunnorum 2019 (Rocche dei Vignali)"
+        "wines": "Camunnorum 2019 (Rocche dei Vignali)",
+        "source": "nominatim",
+        "nominatim_lat": 41.9328025,
+        "nominatim_lon": 12.5259175,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3342,7 +4634,13 @@
         "place": "Vernaccia di San Gimignano, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "L'Albereta Vernaccia di San Gimignano Riserva 2022 (Il Colombaio di Santachiara)"
+        "wines": "L'Albereta Vernaccia di San Gimignano Riserva 2022 (Il Colombaio di Santachiara)",
+        "source": "nominatim",
+        "nominatim_lat": 43.4680172,
+        "nominatim_lon": 11.0419989,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3358,7 +4656,13 @@
         "place": "Côte toscane, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Apistós Cabernet Franc 2021 (Podere Conca)"
+        "wines": "Apistós Cabernet Franc 2021 (Podere Conca)",
+        "source": "nominatim",
+        "nominatim_lat": 42.7752349,
+        "nominatim_lon": 10.1511591,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3374,7 +4678,13 @@
         "place": "Rosso Veronese, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Pario Rosso 2021 (L’Arco)"
+        "wines": "Pario Rosso 2021 (L’Arco)",
+        "source": "nominatim",
+        "nominatim_lat": 45.6286888,
+        "nominatim_lon": 10.8083183,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3390,7 +4700,13 @@
         "place": "Molise, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Sassius Aglianico Riserva 2015 (Di Majo Norante)"
+        "wines": "Sassius Aglianico Riserva 2015 (Di Majo Norante)",
+        "source": "nominatim",
+        "nominatim_lat": 41.684672,
+        "nominatim_lon": 14.595614,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3406,7 +4722,13 @@
         "place": "Alghero, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Marchese di Villamarina 1997 (Sella & Mosca)"
+        "wines": "Marchese di Villamarina 1997 (Sella & Mosca)",
+        "source": "nominatim",
+        "nominatim_lat": 40.5587291,
+        "nominatim_lon": 8.3153206,
+        "wikipedia_lat": 40.56,
+        "wikipedia_lon": 8.315,
+        "distance_km": 0.14
       }
     },
     {
@@ -3422,7 +4744,13 @@
         "place": "Givry, France",
         "country": "France",
         "wine_count": 2,
-        "wines": "Teppe des Cheneves Blanc 2022 (Domaine François Lumpp); Givry 1er Cru l'Empreinte 2022 (Joblot)"
+        "wines": "Teppe des Cheneves Blanc 2022 (Domaine François Lumpp); Givry 1er Cru l'Empreinte 2022 (Joblot)",
+        "source": "nominatim",
+        "nominatim_lat": 46.7831191,
+        "nominatim_lon": 4.7432564,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3438,7 +4766,13 @@
         "place": "Aloxe-Corton, France",
         "country": "France",
         "wine_count": 2,
-        "wines": "Aloxe-Corton 2021 (Domaine Arnoux Père & Fils); Aloxe-Corton 2020 (Vincent Prunier)"
+        "wines": "Aloxe-Corton 2021 (Domaine Arnoux Père & Fils); Aloxe-Corton 2020 (Vincent Prunier)",
+        "source": "nominatim",
+        "nominatim_lat": 47.0653471,
+        "nominatim_lon": 4.8596328,
+        "wikipedia_lat": 47.0664,
+        "wikipedia_lon": 4.8603,
+        "distance_km": 0.13
       }
     },
     {
@@ -3454,7 +4788,13 @@
         "place": "Coteaux de l'Aubance, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Les Trois Schistes Côteaux de l'Aubance 2022 (Domaine de Montgilet)"
+        "wines": "Les Trois Schistes Côteaux de l'Aubance 2022 (Domaine de Montgilet)",
+        "source": "nominatim",
+        "nominatim_lat": 47.381651,
+        "nominatim_lon": -0.5124141,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3470,7 +4810,13 @@
         "place": "Savigny-lès-Beaune, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Savigny-lès-Beaune 2019 (Géantet-Pansiot)"
+        "wines": "Savigny-lès-Beaune 2019 (Géantet-Pansiot)",
+        "source": "nominatim",
+        "nominatim_lat": 47.0628612,
+        "nominatim_lon": 4.8185532,
+        "wikipedia_lat": 47.0642,
+        "wikipedia_lon": 4.8192,
+        "distance_km": 0.16
       }
     },
     {
@@ -3486,7 +4832,13 @@
         "place": "Gaillac, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Point du Jour Rouge 2019 (Domaine Gayrard)"
+        "wines": "Point du Jour Rouge 2019 (Domaine Gayrard)",
+        "source": "nominatim",
+        "nominatim_lat": 43.9016766,
+        "nominatim_lon": 1.8967943,
+        "wikipedia_lat": 43.9014,
+        "wikipedia_lon": 1.8992,
+        "distance_km": 0.2
       }
     },
     {
@@ -3502,7 +4854,13 @@
         "place": "Saint-Pourçain, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Saint-Pourçain Chardonnay - Tressallier 2023 (Domaine Billaud-Chambon)"
+        "wines": "Saint-Pourçain Chardonnay - Tressallier 2023 (Domaine Billaud-Chambon)",
+        "source": "nominatim",
+        "nominatim_lat": 46.2919771,
+        "nominatim_lon": 3.7287426,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3518,7 +4876,13 @@
         "place": "Les Baux-de-Provence, France",
         "country": "France",
         "wine_count": 2,
-        "wines": "Coin Caché Blanc 2023 (Mas de la Dame); L' Infernal 2021 (Mas de la Dame)"
+        "wines": "L' Infernal 2021 (Mas de la Dame); Coin Caché Blanc 2023 (Mas de la Dame)",
+        "source": "nominatim",
+        "nominatim_lat": 43.7436458,
+        "nominatim_lon": 4.7950342,
+        "wikipedia_lat": 43.7439,
+        "wikipedia_lon": 4.7953,
+        "distance_km": 0.04
       }
     },
     {
@@ -3534,7 +4898,13 @@
         "place": "Saint-Drézéry, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Tête de Bélier Saint-Drézéry Rouge 2022 (Château Puech-Haut)"
+        "wines": "Tête de Bélier Saint-Drézéry Rouge 2022 (Château Puech-Haut)",
+        "source": "nominatim",
+        "nominatim_lat": 43.7314311,
+        "nominatim_lon": 3.9775826,
+        "wikipedia_lat": 43.7342,
+        "wikipedia_lon": 3.9828,
+        "distance_km": 0.52
       }
     },
     {
@@ -3550,7 +4920,13 @@
         "place": "delle Venezie, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Cabernet Sauvignon Riserva 2022 (De Stefani)"
+        "wines": "Cabernet Sauvignon Riserva 2022 (De Stefani)",
+        "source": "nominatim",
+        "nominatim_lat": 45.3485187,
+        "nominatim_lon": 11.9571797,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3566,7 +4942,13 @@
         "place": "Latium, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Mater Matuta Lazio Rosso 2019 (Casale del Giglio)"
+        "wines": "Mater Matuta Lazio Rosso 2019 (Casale del Giglio)",
+        "source": "nominatim",
+        "nominatim_lat": 41.9808038,
+        "nominatim_lon": 12.7662312,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3582,7 +4964,13 @@
         "place": "Monthélie, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Les Toisieres Monthelie Rouge 2023 (François Mikulski)"
+        "wines": "Les Toisieres Monthelie Rouge 2023 (François Mikulski)",
+        "source": "nominatim",
+        "nominatim_lat": 46.9928724,
+        "nominatim_lon": 4.7658083,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3598,7 +4986,13 @@
         "place": "Emilia, Italie",
         "country": "Italie",
         "wine_count": 2,
-        "wines": "Camporomano 2013 (La Stoppa); Macchiona 2002 (La Stoppa)"
+        "wines": "Macchiona 2002 (La Stoppa); Camporomano 2013 (La Stoppa)",
+        "source": "nominatim",
+        "nominatim_lat": 44.4914458,
+        "nominatim_lon": 11.3435713,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3614,7 +5008,13 @@
         "place": "Morellino di Scansano, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Calestaia 2019 (Roccapesta)"
+        "wines": "Calestaia 2019 (Roccapesta)",
+        "source": "nominatim",
+        "nominatim_lat": 42.7125537,
+        "nominatim_lon": 11.2280516,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3630,7 +5030,13 @@
         "place": "Contessa Entellina, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Contessa Entellina Chiarandà 2022 (Donnafugata)"
+        "wines": "Contessa Entellina Chiarandà 2022 (Donnafugata)",
+        "source": "nominatim",
+        "nominatim_lat": 37.7309803,
+        "nominatim_lon": 13.1831444,
+        "wikipedia_lat": 37.73333333,
+        "wikipedia_lon": 13.18333333,
+        "distance_km": 0.26
       }
     },
     {
@@ -3646,7 +5052,13 @@
         "place": "Montefalco, Italie",
         "country": "Italie",
         "wine_count": 2,
-        "wines": "Sagrantino Montefalco Chiusa di Pannone 2019 (Antonelli San Marco); Riserva Montefalco Rosso 2021 (Arnaldo-Caprai)"
+        "wines": "Sagrantino Montefalco Chiusa di Pannone 2019 (Antonelli San Marco); Riserva Montefalco Rosso 2021 (Arnaldo-Caprai)",
+        "source": "nominatim",
+        "nominatim_lat": 42.8918739,
+        "nominatim_lon": 12.6500673,
+        "wikipedia_lat": 42.88333333,
+        "wikipedia_lon": 12.65,
+        "distance_km": 0.95
       }
     },
     {
@@ -3662,7 +5074,13 @@
         "place": "Ribeira Sacra, Espagne",
         "country": "Espagne",
         "wine_count": 1,
-        "wines": "Lacima 2020 (Dominio do Bibei)"
+        "wines": "Lacima 2020 (Dominio do Bibei)",
+        "source": "nominatim",
+        "nominatim_lat": 42.5195881,
+        "nominatim_lon": -7.5141181,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3678,7 +5096,13 @@
         "place": "Cortona, Italie",
         "country": "Italie",
         "wine_count": 2,
-        "wines": "Villa Passerini Syrah 2021 (Cantina Canaio); Bramasole Syrah 2021 (La Braccesca)"
+        "wines": "Bramasole Syrah 2021 (La Braccesca); Villa Passerini Syrah 2021 (Cantina Canaio)",
+        "source": "nominatim",
+        "nominatim_lat": 43.2752976,
+        "nominatim_lon": 11.9850623,
+        "wikipedia_lat": 43.27555556,
+        "wikipedia_lon": 11.98805556,
+        "distance_km": 0.24
       }
     },
     {
@@ -3694,7 +5118,13 @@
         "place": "Vino Nobile di Montepulciano, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Sotto Casa Vino Nobile di Montepulciano Riserva 2020 (Boscarelli)"
+        "wines": "Sotto Casa Vino Nobile di Montepulciano Riserva 2020 (Boscarelli)",
+        "source": "nominatim",
+        "nominatim_lat": 43.0716467,
+        "nominatim_lon": 11.8054771,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3710,7 +5140,13 @@
         "place": "Faro, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Faro 2014 (Palari)"
+        "wines": "Faro 2014 (Palari)",
+        "source": "nominatim",
+        "nominatim_lat": 40.770398,
+        "nominatim_lon": 14.0168089,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3726,7 +5162,13 @@
         "place": "Valdarno di Sopra, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Petruna In Anfora 2019 (Il Borro)"
+        "wines": "Petruna In Anfora 2019 (Il Borro)",
+        "source": "nominatim",
+        "nominatim_lat": 43.5305228,
+        "nominatim_lon": 11.6321888,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3742,7 +5184,13 @@
         "place": "Breganze, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Fratta 2018 (Maculan)"
+        "wines": "Fratta 2018 (Maculan)",
+        "source": "nominatim",
+        "nominatim_lat": 45.7081441,
+        "nominatim_lon": 11.5647668,
+        "wikipedia_lat": 45.7,
+        "wikipedia_lon": 11.56666667,
+        "distance_km": 0.92
       }
     },
     {
@@ -3758,7 +5206,13 @@
         "place": "Val di Cornia, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "I'Rennero 2019 (Gualdo del Re)"
+        "wines": "I'Rennero 2019 (Gualdo del Re)",
+        "source": "nominatim",
+        "nominatim_lat": 42.9583727,
+        "nominatim_lon": 10.5498752,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3774,7 +5228,13 @@
         "place": "Sant'Antimo, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Cabernet Sant'Antimo Olmaia 2018 (Col d'Orcia)"
+        "wines": "Cabernet Sant'Antimo Olmaia 2018 (Col d'Orcia)",
+        "source": "nominatim",
+        "nominatim_lat": 40.945711,
+        "nominatim_lon": 14.231429,
+        "wikipedia_lat": 40.95,
+        "wikipedia_lon": 14.23333333,
+        "distance_km": 0.5
       }
     },
     {
@@ -3790,7 +5250,13 @@
         "place": "Vermentino di Gallura, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Vign’angena Vermentino di Gallura 2024 (Capichera)"
+        "wines": "Vign’angena Vermentino di Gallura 2024 (Capichera)",
+        "source": "nominatim",
+        "nominatim_lat": 40.9195406,
+        "nominatim_lon": 9.4720744,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     },
     {
@@ -3806,7 +5272,13 @@
         "place": "Ghemme, Italie",
         "country": "Italie",
         "wine_count": 1,
-        "wines": "Collis Breclemae Ghemme 2017 (Cantalupo)"
+        "wines": "Collis Breclemae Ghemme 2017 (Cantalupo)",
+        "source": "nominatim",
+        "nominatim_lat": 45.5983455,
+        "nominatim_lon": 8.4209035,
+        "wikipedia_lat": 45.6,
+        "wikipedia_lon": 8.41666667,
+        "distance_km": 0.38
       }
     },
     {
@@ -3822,7 +5294,13 @@
         "place": "Beaune Premier Cru, France",
         "country": "France",
         "wine_count": 1,
-        "wines": "Beaune Premier Cru Les Marconnets (Cuvée Signature) 2020 (Bouchard Aîné & Fils)"
+        "wines": "Beaune Premier Cru Les Marconnets (Cuvée Signature) 2020 (Bouchard Aîné & Fils)",
+        "source": "nominatim",
+        "nominatim_lat": 47.0354971,
+        "nominatim_lon": 4.8256215,
+        "wikipedia_lat": null,
+        "wikipedia_lon": null,
+        "distance_km": null
       }
     }
   ]

@@ -12,7 +12,7 @@ COLORS = {
 }
 
 # Load GeoJSON
-with open('wines_map.geojson') as f:
+with open('../data/wines_map.geojson') as f:
     data = json.load(f)
 
 # Create map
@@ -47,4 +47,4 @@ for feature in data['features']:
 # Save and open
 m.save('wines_map.html')
 webbrowser.open('wines_map.html')
-print("✓ Map opened in browser!")
+print(" Map saved to wines_map.html and opened in browser!")
