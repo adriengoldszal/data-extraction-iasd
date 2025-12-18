@@ -132,6 +132,7 @@ Shows database structure and sample queries.
 ### 6. Map Visualization
 
 ```bash
+cd map
 python taste_map.py
 ```
 
@@ -140,7 +141,7 @@ Creates `wine_taste_map.html` with:
 - Color-coded by flavour-metric
 - Popups with wine details
 
-  ![taste_LB.png](taste_LB.png)
+  ![taste_LB.png](map/taste_LB.png)
 
 ## Data Storage Justification
 
@@ -176,6 +177,9 @@ We chose **SQLite** as our relational DBMS because:
 │   ├── wines_map.geojson
 │   └── wines.db
 └── map/
-    ├── wine_map.py             # Interactive map generation
-    └── wines_map.html          # Generated map output
+    ├── wine_map.py             # Basic interactive map generation
+    ├── taste_map.py            # Taste-colored map generation
+    ├── wines_map.html          # Generated basic map output
+    ├── wine_taste_map.html     # Generated taste map output
+    └── taste_*.png             # Taste legend images
 ```
