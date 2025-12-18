@@ -45,17 +45,59 @@ def geocode_all_locations(locations):
     geolocator = Nominatim(user_agent="wine_mapper_v1")
     
     total = len(locations)
+    success_count = 0
+    failed_locations = []
+    
     for idx, (place, data) in enumerate(locations.items(), 1):
-        print(f"Geocoding {idx}/{total}: {place}")
-        
         lat, lon = geocode_location(geolocator, place)
         data['latitude'] = lat
         data['longitude'] = lon
         
+        # Print status for each location
+        if lat is not None:
+            success_count += 1
+            status = f"OK ({lat:.4f}, {lon:.4f})"
+        else:
+            failed_locations.append(place)
+            status = "FAILED"
+        
+        print(f"[{idx:3}/{total}] {status:<30} {place}")
+        
         # Respect Nominatim rate limit (1 request per second)
         time.sleep(1.1)
     
+    # Print summary table
+    print_geocoding_summary(total, success_count, failed_locations)
+    
     return locations
+
+
+def print_geocoding_summary(total, success_count, failed_locations):
+    """Print a summary table of geocoding results"""
+    failed_count = len(failed_locations)
+    success_pct = (success_count / total) * 100 if total > 0 else 0
+    failed_pct = (failed_count / total) * 100 if total > 0 else 0
+    
+    print("\n" + "=" * 60)
+    print("NOMINATIM GEOCODING SUMMARY")
+    print("=" * 60)
+    
+    print(f"\n{'Status':<25} {'Count':<10} {'Percentage':<12}")
+    print("-" * 50)
+    print(f"{'Successfully geocoded':<25} {success_count:<10} {success_pct:>6.1f}%")
+    print(f"{'Failed to geocode':<25} {failed_count:<10} {failed_pct:>6.1f}%")
+    print("-" * 50)
+    print(f"{'Total locations':<25} {total:<10} {'100.0%':>7}")
+    
+    if failed_locations:
+        print(f"\nLocations that failed geocoding ({failed_count}):")
+        for place in failed_locations[:15]:
+            place_short = place[:55] + ".." if len(place) > 57 else place
+            print(f"  - {place_short}")
+        if len(failed_locations) > 15:
+            print(f"  ... and {len(failed_locations) - 15} more")
+    
+    print("=" * 60)
 
 def create_database():
     """Create SQLite database with two tables"""
@@ -257,7 +299,18 @@ def main():
     export_geojson(conn)
     
     conn.close()
-    print("\n✓ Complete! Database created at data/wines.db")
+    
+    # Final summary
+    success = sum(1 for v in geocoded.values() if v['latitude'] is not None)
+    print("\n" + "=" * 60)
+    print("PIPELINE COMPLETE")
+    print("=" * 60)
+    print(f"  Wines processed:        {len(wines)}")
+    print(f"  Unique locations:       {len(geocoded)}")
+    print(f"  Successfully geocoded:  {success} ({(success/len(geocoded))*100:.1f}%)")
+    print(f"  Database:               data/wines.db")
+    print(f"  GeoJSON:                data/wines_map.geojson")
+    print("=" * 60)
 
 if __name__ == "__main__":
     main()
