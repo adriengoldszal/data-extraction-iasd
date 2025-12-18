@@ -1,6 +1,7 @@
-# Vivino Wine Scraper
+# Vivino Wine Map
+> **Contributors:** Adrien Goldszal • Barthélémy Charlier • Daniel Gagliardi
 
-A minimal web scraper that extracts wine data from Vivino's explore pages.
+A project database showcasing wines and their locations.
 
 ## Installation
 
@@ -15,18 +16,22 @@ pip install -r requirements.txt
 
 ## Usage
 
+### 1. Scraping
+
 ```bash
+cd scraping
+
 # Basic scrape (10 pages by default)
 python vivino_web_scraper.py
 
-# With detailed info (grapes, region, style, allergens, description)
+# With detailed info (grapes, region, style, taste characteristics, food pairings)
 python vivino_web_scraper.py --detailed
 
 # With custom options
 python vivino_web_scraper.py --detailed --max-pages 5
 ```
 
-### Options
+#### Options
 
 | Option | Description |
 |--------|-------------|
@@ -34,48 +39,81 @@ python vivino_web_scraper.py --detailed --max-pages 5
 | `--max-pages N` | Maximum number of pages to scrape (default: 10) |
 | `--url URL` | Custom Vivino explore URL to start from |
 
-## Output
-
-Results are saved to `vivino_wines.json` with the following fields:
-
-- `vineyard`, `name`, `place`, `rating`, `price`, `url`
-- With `--detailed`: `winery`, `grapes`, `region`, `wine_style`, `allergens`, `description`
-
-## Geocoding & Database
-
-After scraping, use `nominatim.py` to geocode wine regions and create a database:
+#### Removing Duplicates
 
 ```bash
-python nominatim.py
+cd scraping
+python filter_duplicates.py
+```
+
+Identifies and removes duplicate wines based on (vineyard, name, place).
+
+### 2. Geocoding & Database
+
+```bash
+python get_nominatim_locations.py
 ```
 
 This script:
-1. Loads wine data from `vivino_wines_detailed_final.json`
+1. Loads wine data from `data/vivino_wines_complete_details_final_no_duplicates.json`
 2. Extracts unique locations and geocodes them via [Nominatim](https://nominatim.org/)
-3. Creates a SQLite database (`wines.db`) with two tables:
-   - **regions**: place, coordinates, country
-   - **wines**: all wine details linked to regions
-4. Exports `wines_map.geojson` for mapping
+3. Creates a SQLite database (`data/wines.db`) with two tables:
+   - **regions**: place, region, latitude, longitude, country
+   - **wines**: vineyard, name, rating, price, grapes, wine_style, alcohol_content, allergens, description, url, taste characteristics, food pairings
+4. Exports `data/wines_map.geojson` for mapping
 
-### Output Files
+#### Output Files
 
 | File | Description |
 |------|-------------|
-| `geocoded_locations.json` | Cached geocoding results |
-| `wines.db` | SQLite database with wines & regions |
-| `wines_map.geojson` | GeoJSON for map visualization |
+| `data/geocoded_locations.json` | Cached geocoding results |
+| `data/wines.db` | SQLite database with wines & regions |
+| `data/wines_map.geojson` | GeoJSON for map visualization |
 
-## Querying the Database
-
-Use `query_wines.py` to explore the database:
+### 3. Querying the Database
 
 ```bash
 python query_wines.py
 ```
 
-This shows:
+Shows:
 - Database structure (tables & columns)
 - List of all French wines (sorted by rating)
+
+## Data Quality Assessment
+
+Scripts for validating geocoding accuracy are in the `data_quality_assessment/` folder.
+
+### verify_locations.py
+
+Cross-validates geocoded coordinates against Wikipedia's coordinates for the same place names:
+
+```bash
+cd data_quality_assessment
+python verify_locations.py
+```
+
+This script:
+1. Reads `data/wines_map.geojson` with Nominatim coordinates
+2. Queries Wikipedia API for each place's coordinates
+3. Calculates the distance (in km) between Nominatim and Wikipedia coordinates using the Haversine formula
+4. Outputs `data/places_with_dist.geojson` with added fields: `wiki_lat`, `wiki_lon`, `wiki_page`, `distance_m`
+
+### plot_location_errors.py
+
+Visualizes the geocoding accuracy from the verification results:
+
+```bash
+cd data_quality_assessment
+python plot_location_errors.py
+```
+
+Generates and saves three charts to the `data_quality_assessment/` folder:
+1. **distance_histogram.png** - Distribution of distances between Nominatim and Wikipedia coordinates
+2. **distance_histogram_log.png** - Same distribution on log scale (useful for identifying outliers)
+3. **top_outliers.png** - Bar chart showing the 15 places with largest coordinate discrepancies
+
+Large distances may indicate geocoding errors or ambiguous place names.
 
 ## Map Visualization
 
@@ -90,7 +128,31 @@ Opens `wines_map.html` in your browser with:
 - Color-coded by country
 - Popups with wine details
 
+
+## Project Structure
+
+```
+├── scraping/
+│   ├── vivino_web_scraper.py   # Main scraper
+│   └── filter_duplicates.py    # Remove duplicate wines
+├── data/
+│   ├── vivino_wines_complete_details_final.json
+│   ├── vivino_wines_complete_details_final_no_duplicates.json
+│   ├── geocoded_locations.json
+│   ├── wines_map.geojson
+│   ├── places_with_dist.geojson
+│   └── wines.db
+├── data_quality_assessment/
+│   ├── verify_locations.py     # Cross-check coordinates with Wikipedia
+│   ├── plot_location_errors.py # Visualize geocoding accuracy
+│   ├── distance_histogram.png  # Output chart
+│   ├── distance_histogram_log.png
+│   └── top_outliers.png
+├── get_nominatim_locations.py  # Geocoding & database creation
+├── query_wines.py              # Database exploration
+└── wine_map.py                 # Interactive map generation
+```
+
 ## Note
 
 The scraper opens a visible Chrome window (required to bypass bot detection).
-

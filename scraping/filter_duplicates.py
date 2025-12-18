@@ -6,7 +6,7 @@ Duplicates are identified by (vineyard, name, place) combination.
 import json
 from collections import Counter
 
-def check_duplicates(filepath="vivino_wines_complete_details_final.json", remove_duplicates=True):
+def check_duplicates(filepath="../data/vivino_wines_complete_details_final.json", remove_duplicates=True):
     with open(filepath, "r", encoding="utf-8") as f:
         data = json.load(f)
     

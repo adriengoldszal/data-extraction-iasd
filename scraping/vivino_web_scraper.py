@@ -429,9 +429,9 @@ def main():
     print(json.dumps(result, indent=2, ensure_ascii=False))
     
     # Also save to file
-    with open("vivino_wines.json", "w", encoding="utf-8") as f:
+    with open("../data/vivino_wines.json", "w", encoding="utf-8") as f:
         json.dump(result, f, indent=2, ensure_ascii=False)
-    print(f"\nResults saved to vivino_wines.json")
+    print(f"\nResults saved to ../data/vivino_wines.json")
     
     return result
 

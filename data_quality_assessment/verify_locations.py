@@ -56,8 +56,8 @@ def get_wikipedia_coords(session, title):
 
 
 def main():
-    input_path = "wines_map.geojson"      # your original file
-    output_path = "places_with_dist.geojson"
+    input_path = "../data/wines_map.geojson"      # your original file
+    output_path = "../data/places_with_dist.geojson"
 
     with open(input_path, "r", encoding="utf-8") as f:
         geo = json.load(f)
@@ -94,7 +94,7 @@ def main():
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(geo, f, ensure_ascii=False, indent=2)
 
-    print(f"✅ Written: {output_path}")
+    print(f" Written: {output_path}")
 
 
 if __name__ == "__main__":

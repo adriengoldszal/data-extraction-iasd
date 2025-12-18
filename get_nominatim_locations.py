@@ -59,7 +59,7 @@ def geocode_all_locations(locations):
 
 def create_database():
     """Create SQLite database with two tables"""
-    conn = sqlite3.connect('wines.db')
+    conn = sqlite3.connect('data/wines.db')
     cursor = conn.cursor()
     
     # Create regions table
@@ -89,6 +89,11 @@ def create_database():
         allergens TEXT,
         description TEXT,
         url TEXT,
+        taste_light_bold REAL,
+        taste_smooth_tannic REAL,
+        taste_dry_sweet REAL,
+        taste_soft_acidic REAL,
+        food_pairings TEXT,
         FOREIGN KEY (region_id) REFERENCES regions(id)
     )
     ''')
@@ -137,12 +142,25 @@ def populate_database(conn, wines, geocoded_locations):
         except ValueError:
             rating = None
         
+        # Extract taste characteristics
+        taste = wine.get('taste_characteristics', {})
+        taste_light_bold = taste.get('light_bold', {}).get('percentage')
+        taste_smooth_tannic = taste.get('smooth_tannic', {}).get('percentage')
+        taste_dry_sweet = taste.get('dry_sweet', {}).get('percentage')
+        taste_soft_acidic = taste.get('soft_acidic', {}).get('percentage')
+        
+        # Extract food pairings as comma-separated string
+        food_pairings = wine.get('food_pairings', [])
+        food_pairings_str = ', '.join(food_pairings) if food_pairings else None
+        
         cursor.execute('''
         INSERT INTO wines (
             vineyard, name, rating, price, region_id, 
             grapes, wine_style, alcohol_content, allergens, 
-            description, url
-        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            description, url, taste_light_bold, 
+            taste_smooth_tannic, taste_dry_sweet, taste_soft_acidic,
+            food_pairings
+        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         ''', (
             wine.get('vineyard'),
             wine.get('name'),
@@ -154,12 +172,17 @@ def populate_database(conn, wines, geocoded_locations):
             wine.get('teneur_en_alcool'),
             wine.get('allergens'),
             wine.get('description'),
-            wine.get('url')
+            wine.get('url'),
+            taste_light_bold,
+            taste_smooth_tannic,
+            taste_dry_sweet,
+            taste_soft_acidic,
+            food_pairings_str
         ))
     
     conn.commit()
 
-def export_geojson(conn, output_file='wines_map.geojson'):
+def export_geojson(conn, output_file='data/wines_map.geojson'):
     """Export data as GeoJSON for mapping"""
     cursor = conn.cursor()
     
@@ -204,7 +227,7 @@ def export_geojson(conn, output_file='wines_map.geojson'):
 def main():
     # Load data
     print("Loading wine data...")
-    data = load_wine_data('vivino_wines_complete_details_final_no_duplicates.json')
+    data = load_wine_data('data/vivino_wines_complete_details_final_no_duplicates.json')
     wines = data['wines']
     
     # Extract unique locations
@@ -217,9 +240,9 @@ def main():
     geocoded = geocode_all_locations(locations)
     
     # Save geocoded results
-    with open('geocoded_locations.json', 'w', encoding='utf-8') as f:
+    with open('data/geocoded_locations.json', 'w', encoding='utf-8') as f:
         json.dump(geocoded, f, indent=2, ensure_ascii=False)
-    print("\nGeocoded data saved to geocoded_locations.json")
+    print("\nGeocoded data saved to data/geocoded_locations.json")
     
     # Create database
     print("\nCreating database...")
@@ -234,7 +257,7 @@ def main():
     export_geojson(conn)
     
     conn.close()
-    print("\n✓ Complete! Database created at wines.db")
+    print("\n✓ Complete! Database created at data/wines.db")
 
 if __name__ == "__main__":
     main()
