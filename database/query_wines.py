@@ -50,7 +50,7 @@ def list_french_wines(cursor):
 
 
 def main():
-    conn = sqlite3.connect('wines.db')
+    conn = sqlite3.connect('../data/wines.db')
     cursor = conn.cursor()
     
     show_structure(cursor)

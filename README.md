@@ -83,9 +83,7 @@ For each location:
 | `data/geocoded_locations.json` | All geocoding results (both sources + chosen coordinates) |
 | `data/wines_map.geojson` | GeoJSON for map visualization |
 
-#### Quality Assessment
-
-Analyze the geocoding results:
+#### Geocoding Quality Assessment
 
 ```bash
 cd locations
@@ -100,6 +98,7 @@ Generates charts and statistics:
 ### 3. Database Creation
 
 ```bash
+cd database
 python create_database.py
 ```
 
@@ -108,17 +107,32 @@ Creates a SQLite database from the geocoded data:
 - **regions** table: place, coordinates, country, source used, both source coordinates
 - **wines** table: vineyard, name, rating, price, grapes, wine_style, taste characteristics, food pairings
 
-### 4. Querying the Database
+### 4. Database Quality Assessment
 
 ```bash
+cd database
+python data_assessment.py
+```
+
+Analyzes the database for data quality:
+- Missing/null values per column (with fill rates)
+- Foreign key integrity
+- Rating, price, geocoding coverage statistics
+- Breakdown by country
+
+### 5. Querying the Database
+
+```bash
+cd database
 python query_wines.py
 ```
 
 Shows database structure and sample queries.
 
-### 5. Map Visualization
+### 6. Map Visualization
 
 ```bash
+cd map
 python wine_map.py
 ```
 
@@ -150,15 +164,19 @@ We chose **SQLite** as our relational DBMS because:
 │   ├── distance_histogram.png
 │   ├── distance_histogram_log.png
 │   └── top_outliers.png
+├── database/
+│   ├── create_database.py      # SQLite database creation
+│   ├── data_assessment.py      # Data quality assessment
+│   └── query_wines.py          # Database exploration
 ├── data/
 │   ├── vivino_wines_complete_details_final.json
 │   ├── vivino_wines_complete_details_final_no_duplicates.json
-│   ├── geocoded_locations.json # Both Nominatim + Wikipedia coords
-│   ├── wines_map.geojson       # Final map data
-│   └── wines.db                # SQLite database
-├── create_database.py          # SQLite database creation
-├── query_wines.py              # Database exploration
-└── wine_map.py                 # Interactive map generation
+│   ├── geocoded_locations.json
+│   ├── wines_map.geojson
+│   └── wines.db
+└── map/
+    ├── wine_map.py             # Interactive map generation
+    └── wines_map.html          # Generated map output
 ```
 
 ## Note

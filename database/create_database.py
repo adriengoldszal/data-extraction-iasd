@@ -27,7 +27,7 @@ def extract_country(place):
     return None
 
 
-def create_database(db_path='data/wines.db'):
+def create_database(db_path='../data/wines.db'):
     """Create SQLite database with tables"""
     conn = sqlite3.connect(db_path)
     cursor = conn.cursor()
@@ -244,12 +244,12 @@ def main():
     print("Loading data...")
     
     # Load wine data
-    wine_data = load_wine_data('data/vivino_wines_complete_details_final_no_duplicates.json')
+    wine_data = load_wine_data('../data/vivino_wines_complete_details_final_no_duplicates.json')
     wines = wine_data['wines']
     print(f"  Loaded {len(wines)} wines")
     
     # Load geocoded locations
-    geocoded = load_geocoded_locations('data/geocoded_locations.json')
+    geocoded = load_geocoded_locations('../data/geocoded_locations.json')
     print(f"  Loaded {len(geocoded)} geocoded locations")
     
     # Create database
@@ -269,7 +269,7 @@ def main():
     print_database_summary(conn)
     
     conn.close()
-    print("\nDatabase saved to: data/wines.db")
+    print("\nDatabase saved to: ../data/wines.db")
 
 
 if __name__ == "__main__":
