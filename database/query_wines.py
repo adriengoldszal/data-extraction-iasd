@@ -15,7 +15,7 @@ def show_structure(cursor):
     tables = cursor.fetchall()
     
     for (table_name,) in tables:
-        print(f"\n📋 {table_name}")
+        print(f"{table_name}")
         cursor.execute(f"PRAGMA table_info({table_name})")
         columns = cursor.fetchall()
         for col in columns:
@@ -41,7 +41,7 @@ def list_french_wines(cursor):
     print(f"\nFound {len(wines)} French wines:\n")
     
     for vineyard, name, rating, price, place, grapes in wines:
-        print(f"🍷 {vineyard} - {name}")
+        print(f"{vineyard} - {name}")
         print(f"   Rating: {rating} | Price: {price}")
         print(f"   Region: {place}")
         if grapes:
